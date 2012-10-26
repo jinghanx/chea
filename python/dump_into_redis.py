@@ -40,3 +40,5 @@ for file in os.listdir('/home/ubuntu/songs_xml'):
             r.hset(artist_name+':'+album_name+':'+song_name, 'artist_name', artist_name)
             r.hset(artist_name+':'+album_name+':'+song_name, 'album_cover', album_cover)
             r.hset(artist_name+':'+album_name+':'+song_name, 'song_url', location_decoded)
+
+

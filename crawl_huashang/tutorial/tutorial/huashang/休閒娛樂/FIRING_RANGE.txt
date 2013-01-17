@@ -1,0 +1,2 @@
+奧運室內靶場	LA PUENTE FIRING RANGE	16418 Valley Bl.	La Puente	休閒娛樂	FIRING_RANGE
+室內手槍練靶場	LOS ANGELES GUN CLUB	1375 E. 6th St.	Los Angeles	休閒娛樂	FIRING_RANGE

@@ -1,0 +1,4 @@
+安納罕廉價市場	ANAHEIM SWAPMEET	1440 S. Anaheim Bl.	Anaheim	百貨購物	SWAP_MEET
+亞威龍折扣市場	AVALON DISCOUNT MART	13000 S. Avalon Bl.	Los Angeles	百貨購物	SWAP_MEET
+四季日用品批發中心	FOUR SEASON GEN MERCHANT	2801 E. Vernin Ave.	Vernon	百貨購物	SWAP_MEET
+羅斯密跳蚤市場	ROSEMEAD SWAP MEET	2540 N. Rosemead Bl.	S. El Monte	百貨購物	SWAP_MEET

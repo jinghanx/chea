@@ -1,0 +1,15 @@
+陳光榮醫學博士	ADVANCED NEUROLOGY GROUP - DR. MICHAEL P. TAN D.O.	1200 S. Atlantic Bl. #128	Alhambra	醫療保健	DOCTOR-NEUROLOGY
+蔡健儀醫師	CHOY ROSA K. M.D.	500 N. Garfield Ave. #101	Monterey Park	醫療保健	DOCTOR-NEUROLOGY
+蔡健儀醫師	CHOY ROSA K. M.D.	711 W. College St. #500	Los Angeles	醫療保健	DOCTOR-NEUROLOGY
+錢自德醫學博士	DR. DAVY QIAN D.O.	612 W. Duarte Rd. #801	Arcadia	醫療保健	DOCTOR-NEUROLOGY
+	FAUBLE THOMAS M.D. INNEUROLOGY	488 E. Santa Clara St. #104	Arcadia	醫療保健	DOCTOR-NEUROLOGY
+楊裕仁醫師	IMPACT BEHAVIORAL MEDICINE - EUGENE Y. YOUNG D.O.	2707 E. Valley Bl. #210	W. Covina	醫療保健	DOCTOR-NEUROLOGY
+楊裕仁醫師	IMPACT BEHAVIORAL MEDICINE - EUGENE Y. YOUNG D.O.	16262 E. Whittier Bl. #15A	Whittier	醫療保健	DOCTOR-NEUROLOGY
+李榮基醫師	LEE WING-KI M.D.	723 S. Garfield Ave. #303	Alhambra	醫療保健	DOCTOR-NEUROLOGY
+林澤廷醫學博士	LIN FRANK P. M.D.	612 W. Duarte Rd. #801	Arcadia	醫療保健	DOCTOR-NEUROLOGY
+林澤廷醫學博士	LIN FRANK P. M.D.	223 N. Garfield Ave. #302	Monterey Park	醫療保健	DOCTOR-NEUROLOGY
+林宗義醫師	LIN JAMES T. M.D.	600 N. Garfield Ave. #303	Monterey Park	醫療保健	DOCTOR-NEUROLOGY
+劉峻志腦神經內科專科醫師	LIU JUNE-CHIH (JESSE) MD.	660 W. Duarte Rd. #A	Arcadia	醫療保健	DOCTOR-NEUROLOGY
+徐群醫師	XU QUN M.D.	2707 E. Valley Bl. #205	W. Covina	醫療保健	DOCTOR-NEUROLOGY
+徐群醫師	XU QUN M.D.	1400 N. Harbor Bl. #540	Fullerton	醫療保健	DOCTOR-NEUROLOGY
+楊秀琴醫師	YANG KIM S. M.D.	207 S. Santa Anita St. #320	San Gabriel	醫療保健	DOCTOR-NEUROLOGY

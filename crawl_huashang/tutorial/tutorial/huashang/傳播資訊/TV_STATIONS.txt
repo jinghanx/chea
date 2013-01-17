@@ -1,0 +1,22 @@
+中文衛星電視	BB NETWORK INC	1224 S. Garfield Ave. #D	Alhambra	傳播資訊	TV_STATIONS
+銀視數碼台	CHANNEL 31.8	17755 Rowland St.	City of Industry	傳播資訊	TV_STATIONS
+中國電視有限公司	CHINA TELEVISION CORP.	234 E. Colorado Bl. #502	Pasadena	傳播資訊	TV_STATIONS
+中天頻道	CTI ZHONG TIAN CHANNEL	1255 Corporate Center Dr. #212	Monterey Park	傳播資訊	TV_STATIONS
+	DIREC TV(國語)			傳播資訊	TV_STATIONS
+東森美洲電視	ETTV AMERICA	18430 E. San Jose Ave.	City of Industry	傳播資訊	TV_STATIONS
+玉平台寬頻電視	GEKTV ENTERTAINMENT	170 S. Spruce Ave. #200	S. San Francisco	傳播資訊	TV_STATIONS
+漢天衛視	HTTV USA	911 Canada Ct. #B	City of Industry	傳播資訊	TV_STATIONS
+國際衛視、國際視聽	IAVC	9550 Flair Dr. #102	El Monte	傳播資訊	TV_STATIONS
+	INTERGATE - KYLIN TV	328 S. Atlantic Bl. #268	Monterey Park	傳播資訊	TV_STATIONS
+第十八號電視台	KSCI TV	1990 S. Bundy Dr. #850	Los Angeles	傳播資訊	TV_STATIONS
+麒麟電視台	KYLIN TV INC.	1600 Old Country Rd.	Plainview	傳播資訊	TV_STATIONS
+鳳凰衛視(美國)有限公司	PHOENIX SATELLITE TELEVISION (US) INC.	12803 Schabarum Ave.	Irwindale	傳播資訊	TV_STATIONS
+	RT ENTERTAINMENT INC.	317 W. Main St	Alhambra	傳播資訊	TV_STATIONS
+KHIZ/SINO TV 華語電視	SINO TELEVISION INC	747 E. Green St. 4th Fl.	Pasadena	傳播資訊	TV_STATIONS
+天下衛星電視	SKY LINK TV	500 W. Montebello Blvd.	Rosemead	傳播資訊	TV_STATIONS
+世界電視網	TBWTV	20286 Carrey Rd.	Walnut	傳播資訊	TV_STATIONS
+非凡美州台	TIGER TECH MEDIA	1736 Wright St	La Verne	傳播資訊	TV_STATIONS
+華夏電視台	TRANSPAC COMMUNICATION LLC.	9420 Telstar Ave. #103	El Monte	傳播資訊	TV_STATIONS
+泰山電視臺	TSTV USA	1720 S. San Gabriel Bl.Ste220	San Gabriel	傳播資訊	TV_STATIONS
+翡翠台	TVB (USA) INC.	15411 Blackburn Ave.	Norwalk	傳播資訊	TV_STATIONS
+中旺電視公司	ZHONG WANT TV INC.	1255 Corporater Center Dr. #212	Monterey Park	傳播資訊	TV_STATIONS

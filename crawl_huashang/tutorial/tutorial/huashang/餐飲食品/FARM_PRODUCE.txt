@@ -1,0 +1,5 @@
+鮮美農場	FRESH FAME INC.	27 Post Office Rd.	Lucerne Valley	餐飲食品	FARM_PRODUCE
+鍾氏養雞場	JONG'S EGG RANCH INC.	10076 Edison Ave.	Ontario	餐飲食品	FARM_PRODUCE
+鍾氏有機肥料	JONG'S ORGANIC FERTILIZERS INC.	3410 La Sierra Ave.	Riverside	餐飲食品	FARM_PRODUCE
+良機農場	LUCKY FARMS INC.	1194 Brier Dr.	San Bernardino	餐飲食品	FARM_PRODUCE
+PPG人工果嶺	PROFESSIONAL PUTTING GREENS & SYNTHETIC TURF PRODUCTS	28562 Oso Pkwy. #D528	Rancho Santa Margarita	餐飲食品	FARM_PRODUCE

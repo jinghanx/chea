@@ -1,0 +1,11 @@
+	AA MINI FABRICS	9132 Bolsa Ave.	Westminster	衣著配件	FABRIC_SHOPS
+	AMRAPUR OVERSEAS INC.	12621 West Ave.	Garden Grove	衣著配件	FABRIC_SHOPS
+BELLA 高雅布料總匯	BELLA ELEGANCE FABRIC	8350 Beverly Bl.	Los Angeles	衣著配件	FABRIC_SHOPS
+鑽石布料店	DIAMOND FOAM & FABRIC	611 S. La Brea Ave.	Los Angeles	衣著配件	FABRIC_SHOPS
+美欣木纖維專賣店	MELODY SKIN CARE	5727 Sultana Ave.	Temple City	衣著配件	FABRIC_SHOPS
+皮草宮	MINK PALACE INC.	123 S. Lincoln Ave. #H	Monterey Park	衣著配件	FABRIC_SHOPS
+美合布莊	MY HOP FABRICS CO.	941 W. Valley Bl.	Alhambra	衣著配件	FABRIC_SHOPS
+	TOPWIN CORP.	3415 Kasaiwa St.	Torrance	衣著配件	FABRIC_SHOPS
+美聯布莊	USA MY-LIEN CORP	8623 Garvey Ave. #B-C	Rosemead	衣著配件	FABRIC_SHOPS
+聯合中國制衣公司	USI INC.	15401 Carmeaita Rd.	Santa Fe Springs	衣著配件	FABRIC_SHOPS
+維多利亞服裝	VICTORIAN FASHION	1028 S. Wall  St. #2	Los Angeles	衣著配件	FABRIC_SHOPS

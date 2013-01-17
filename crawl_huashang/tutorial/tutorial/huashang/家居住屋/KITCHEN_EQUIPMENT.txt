@@ -1,0 +1,33 @@
+Mark 紀維修工程	MARK CHI CONTRACTORS	5546 Temple City Bl.	Temple City	家居住屋	KITCHEN_EQUIPMENT
+三陽牌抽油煙機	SAN YANG PAI CO. INC.	18333 E. Colima Rd. #A	Rowland Hts.	家居住屋	KITCHEN_EQUIPMENT
+三陽牌抽油煙機	SAN YANG PAI CO. INC.	1848 S. San Gabriel Bl.	San Gabriel	家居住屋	KITCHEN_EQUIPMENT
+新天然自然養生世界-百分百健康節能鍋	ANGEL'S NATURE FOODS - SALADMASTER	19151 E Colima Rd	Rowland Hts.	家居住屋	KITCHEN_EQUIPMENT
+媽媽樂抽油煙機	PACAIR RANGE HOOD	8609 Valley Bl.	Rosemead	家居住屋	KITCHEN_EQUIPMENT
+尚朋堂股份有限公司	SUNPENTOWN INT'L INC.	21415 Baker Pkwy.	City of Industry	家居住屋	KITCHEN_EQUIPMENT
+合家歡抽油煙機	88 TOPAIR RANGE HOOD CORP	4520 Baldwin Ave. #B	El Monte	家居住屋	KITCHEN_EQUIPMENT
+櫻花牌抽油煙機	AKURA APPLIANCES CO.	8328 E. Valley Bl.	Rosemead	家居住屋	KITCHEN_EQUIPMENT
+	AMBAWARE PRODUCTS INC.	2507 S. Loma Ave.	S. El Monte	家居住屋	KITCHEN_EQUIPMENT
+世代廚浴設計-餈磚	C & D KITCHEN & BATH	2510 Chico Ave.	S. El Monte	家居住屋	KITCHEN_EQUIPMENT
+廚房、衛浴裝修材料總匯	HOME PARADISE DESIGN CENTER	7000 E. Slauson Ave.	Commerce	家居住屋	KITCHEN_EQUIPMENT
+光華貿易公司	J & L TRADING CO.	861 N. Spring St. #222	Los Angeles	家居住屋	KITCHEN_EQUIPMENT
+廚具世界	KITCHEN WORLD INC.	241 E. 4th St.	Los Angeles	家居住屋	KITCHEN_EQUIPMENT
+神戶牌抽油煙機	KOBE APPLIANCES	11775 Clark St.	Arcadia	家居住屋	KITCHEN_EQUIPMENT
+紅星電器集團	K-STAR INT'L GROUP INC.	1938 Tyler Ave. #L	S. El Monte	家居住屋	KITCHEN_EQUIPMENT
+南加州家電總代理	L & D APPLIANCE CORP	411 S. Myrtle Ave.	Monrovia	家居住屋	KITCHEN_EQUIPMENT
+L&D南加州家電總代理	L & D APPLIANCE CORP.	11969 Telegraph Rd.	Santa Fe Springs	家居住屋	KITCHEN_EQUIPMENT
+美淨企業	MCS CORP.	18340 E. Colima Rd. #1D	Rowland Hts.	家居住屋	KITCHEN_EQUIPMENT
+美淨企業	MCS CORP.	421 E. Valley Bl.	San Gabriel	家居住屋	KITCHEN_EQUIPMENT
+太平洋抽油煙機	PACIFIC HOME  APPLIANCES	9788 Westminster Ave.	Garden Grove	家居住屋	KITCHEN_EQUIPMENT
+	PASADENA EUROPEAN KITCHEN	70 E. Monticeto Ave.	Sierra Madre	家居住屋	KITCHEN_EQUIPMENT
+家和廚具	RICHFIELD TILE & CONSTRUCTION	825 Ajax Ave.	City of Industry	家居住屋	KITCHEN_EQUIPMENT
+	RJ INT'L MART	4221 Charter St.	Vernon	家居住屋	KITCHEN_EQUIPMENT
+櫻花抽油煙機	SAKURA USA CO. LLC	336 12th St. #A	Oakland	家居住屋	KITCHEN_EQUIPMENT
+櫻花抽油煙機	SAKURA USA CO. LLC	222 8th St.	San Francisco	家居住屋	KITCHEN_EQUIPMENT
+	SIE MATIC	70 E. Montecito Ave.	sierra Madre	家居住屋	KITCHEN_EQUIPMENT
+KTO抽油煙機	SKYLINE CORP	1022 S. San Gabriel Bl. #A	San Gabriel	家居住屋	KITCHEN_EQUIPMENT
+生活廚房(系統廚浴設備)	SOHO KITCHEN STUDIO	17883 Colima Rd. #B	City of Industry	家居住屋	KITCHEN_EQUIPMENT
+美國台豐公司	TARHONG KITCHENWARE MFG./THUNDER GROUP INC.	780 S. Nogales St.	City of Industry	家居住屋	KITCHEN_EQUIPMENT
+日本林內瓦斯產品	THUNDER GROUP	780 S. Nogales St. #E	City of Industry	家居住屋	KITCHEN_EQUIPMENT
+威利廚浴設備	VALLEY DECO	100 E. Valley Bl.	Alhambra	家居住屋	KITCHEN_EQUIPMENT
+美國萬邦電器有限公司	WELBON SMART CHEF CO.	9205 Rush St. #AB	S. El Monte	家居住屋	KITCHEN_EQUIPMENT
+WINDSTER RANGE HOOD MANUFACTURER	WINDSTER RANGE HOOD MANUFACTURER	5101 Commerce Dr	Baldwin Park	家居住屋	KITCHEN_EQUIPMENT

@@ -1,0 +1,23 @@
+收購古董	DEZHAO ZHOU	525 S. Atlantic Bl. #C	Monterey Park	百貨購物	ANTIQUE_STORES
+老東方傢俱公司	ALHAMBRA FURNITURE GALLERY	323 E. Main St.	Alhambra	百貨購物	ANTIQUE_STORES
+臻寶軒	ZHENG BAO CRAFTS	14 E. Bellevue Dr.	Pasadena	百貨購物	ANTIQUE_STORES
+美國金龍公司	ALEX CHEUNG CO.	938 Chung King Rd.	Los Angeles	百貨購物	ANTIQUE_STORES
+錦華軒古董	CALMONTE CORP.	208 E. Valley Bl. #C	San Gabriel	百貨購物	ANTIQUE_STORES
+瑞祥公司	CHOW'S ORIENTAL FINE ARTS	8687 Melrose Ave. #B129	Los Angeles	百貨購物	ANTIQUE_STORES
+	CHRISTIE'S FINE ART AUCTIONEER	9601 Wilshire Bl. #520	Beverly Hills	百貨購物	ANTIQUE_STORES
+瑞門堂字畫藝品、古董傢俱	CINDY'S ARTS	1569 S. Fairway Dr. #132	Walnut	百貨購物	ANTIQUE_STORES
+美式古董店	HODGSON'S ANTIQUES	1005 Mission St.	S. Pasadena	百貨購物	ANTIQUE_STORES
+宏昌古董	HONG CHANG ANTIQUES AND ART INC	400 S. Baldwin Ave.	Arcadia	百貨購物	ANTIQUE_STORES
+匯龍古董	HUI LONG ART & ANTIQUE	9233 Las Tunas Dr	Temple City	百貨購物	ANTIQUE_STORES
+東方古董、蔡以聲藝廊	I.M. CHAIT GALLERY	9330 Civic Center Dr.	Beverly Hills	百貨購物	ANTIQUE_STORES
+博古齋古玩藝術、收購古董字畫	JIMEI ARTS CENTER	623 W. Las Tunas Dr.	San Gabriel	百貨購物	ANTIQUE_STORES
+阿強古玩店	KEN LOO ANTIQUES	458 S. Fair Oaks Ave	Pasadena	百貨購物	ANTIQUE_STORES
+老北京工藝品古董公司	OLDE PEKING ANTIQUES	225 E. Main St.	Alhambra	百貨購物	ANTIQUE_STORES
+拍得寶國際拍賣公司	PAIDEBAO INT'L AUCTION INC.	1165 W. Valley Bl	Alhambra	百貨購物	ANTIQUE_STORES
+緣瓏堂古董	RABI'S INT'L FINE ART & ANTIQUES	9158 Las Tunas Dr.	Temple City	百貨購物	ANTIQUE_STORES
+大明藝苑玉如意	RMC TRADING CO.	309 E. Main St.	Alhambra	百貨購物	ANTIQUE_STORES
+孚	SILKROADS		Los Angeles	百貨購物	ANTIQUE_STORES
+天下古董	TENGA ANTIQUES		Duarte	百貨購物	ANTIQUE_STORES
+元明玉瓷坊	YEN MIN ART & CRAFT COLLECTIBLES	309 E. Main St.	Alhambra	百貨購物	ANTIQUE_STORES
+志綸堂	YEN MIN ART & CRAFT COLLECTIBLES	309 E. Main St.	Alhambra	百貨購物	ANTIQUE_STORES
+云龍山城古玩字畫鑑定買賣	ZEXS COLLECTION	4050 Temple City Bl.	Rosemead	百貨購物	ANTIQUE_STORES

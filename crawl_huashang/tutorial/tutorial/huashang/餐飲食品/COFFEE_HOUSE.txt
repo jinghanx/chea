@@ -1,0 +1,16 @@
+	CLOVER LEAF COFFEE & BAKERY	9475 E. Las Tunas Dr.	Temple City	餐飲食品	COFFEE_HOUSE
+	COFFEE BEAN & TEA LEAF	704 E. Huntington Dr. #243	Monrovia	餐飲食品	COFFEE_HOUSE
+	COFFEE BEAN & TEA LEAF	102 S. Myrtle Ave.	Monrovia	餐飲食品	COFFEE_HOUSE
+	COFFEE BEAN & TEA LEAF	700 S. Fair Oaks Ave. #A	S. Pasadena	餐飲食品	COFFEE_HOUSE
+	COFFEE BEAN & TEA LEAF	24155 Laguna Hills Mall #1635	Laguna Hills	餐飲食品	COFFEE_HOUSE
+	COFFEE TREE	1513 S. Victoria Ave.	Los Angeles	餐飲食品	COFFEE_HOUSE
+伊甸園咖啡	EDEN CAFE	124 W. Wilshire Ave. #A1	Fullerton	餐飲食品	COFFEE_HOUSE
+愛琳咖啡屋	ELIM BAKERY	18732 Colima Rd.	Rowland Hts.	餐飲食品	COFFEE_HOUSE
+第一咖啡	FRESH ROAST	308 S. San Gabriel Bl.	San Gabriel	餐飲食品	COFFEE_HOUSE
+富然咖啡室	PHU CAFE	211 Alpine St. #7A	Los Angeles	餐飲食品	COFFEE_HOUSE
+啡我莫屬	PIECE OF CAKE CAFE	709 W. Las Tunas Dr.	San Gabriel	餐飲食品	COFFEE_HOUSE
+烘焙者咖啡	ROASTER FAMILY COFFEE	713 W. Duarte Rd. #F	Arcadia	餐飲食品	COFFEE_HOUSE
+	URTH CAFFE	2327 Main St.	Santa Monica	餐飲食品	COFFEE_HOUSE
+	URTH CAFFE	451 S. Hewitt St.	Los Angeles	餐飲食品	COFFEE_HOUSE
+	URTH CAFFE	8565 Melrose Ave.	W. Hollywood	餐飲食品	COFFEE_HOUSE
+	URTH CAFFE	267 S. Beverly Dr.	Beverly Hills	餐飲食品	COFFEE_HOUSE

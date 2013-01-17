@@ -1,0 +1,14 @@
+世界槍店	LING SPORTS	3059 S. Hacienda  Bl.	Hacienda Hts.	休閒娛樂	GUN_SHOPS
+	BAIN DAVIS & SPORTING GOODS	307 E. Valley Bl.	San Gabriel	休閒娛樂	GUN_SHOPS
+精準鎗彈專門店	CENTERFIRE FIREARMS GUNS & AMMUNITION	3564 Central Ave. #1	Riverside	休閒娛樂	GUN_SHOPS
+歐亞槍店	EUROARMS INC.	2834 W. Valley Bl.	Alhambra	休閒娛樂	GUN_SHOPS
+奧運室內靶場	LA PUENTE FIRING RANGE	16418 Valley Bl.	La Puente	休閒娛樂	GUN_SHOPS
+	SHARPSHOOTER INC	1827 W. 208th St.	Torrance	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	11336 Firestone Bl.	Norwalk	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	2201 E. Willow St.	Signal Hill	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	18808 Brookhurst St.	Fountain Valley	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	491 W. Orangeshow Rd.	San Bernardino	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	2246 Griffin Way	Corona	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	19329  Vanowen St.	Reseda	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	835 S. Arroyo Pkwy.	Pasadena	休閒娛樂	GUN_SHOPS
+美國體育協會戶外槍店	TURNER'S OUTDOORSMAN	11738 San Marino St.	Rancho Cucamonga	休閒娛樂	GUN_SHOPS

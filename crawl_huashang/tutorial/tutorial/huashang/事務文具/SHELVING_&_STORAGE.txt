@@ -1,0 +1,7 @@
+威力鋼架	C B RACKING	18119 E. Valley Bl.	La Puente	事務文具	SHELVING_&_STORAGE
+	BOLTLESS SHELVING	646 S. San Pedro St.	Los Angeles	事務文具	SHELVING_&_STORAGE
+威力鋼架	C.B. RACKING	18119 E. Valley Bl.	La Puente	事務文具	SHELVING_&_STORAGE
+	EXHIBIT SPACE WORKS INC.	21640 S. Wilmington Ave.	Carson	事務文具	SHELVING_&_STORAGE
+倉庫設備用品總匯	GWP GENERAL WAREHOUSE PRODUCTS	1743 S. Willow Ave.	Rialto	事務文具	SHELVING_&_STORAGE
+商店展示器材	L.A. STORE FIXTURE & PACKAGING	1625 S. Los Angeles St.	Los Angeles	事務文具	SHELVING_&_STORAGE
+優質倉庫搬運器材及包裝用品公司	QUALITY MATERIAL HANDLING INC.	900 W. Foothill Bl.	Azusa	事務文具	SHELVING_&_STORAGE

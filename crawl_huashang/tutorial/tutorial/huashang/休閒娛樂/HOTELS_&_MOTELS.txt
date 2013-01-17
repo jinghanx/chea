@@ -1,0 +1,50 @@
+聖蓋博希爾頓酒店	HILTON HOTEL	225 W. Valley Bl.	San Gabriel	休閒娛樂	HOTELS_&_MOTELS
+文華雅敘(環球影城希爾頓飯店)	MANDARIN CLUB‧HILTON LOS ANGELES/UNIVERSAL CITY	555 Universal Hollywood Dr.	Universal City	休閒娛樂	HOTELS_&_MOTELS
+貴賓酒店	NEW CENTURY INN	1114 E. Las Tunas Dr.	San Gabriel	休閒娛樂	HOTELS_&_MOTELS
+維多利旅館	VICTORY MOTEL	11652 E. Garvey Ave.	El Monte	休閒娛樂	HOTELS_&_MOTELS
+	777 MOTOR  INN	4781 Sepulveda Bl.	Sherman Oaks	休閒娛樂	HOTELS_&_MOTELS
+賭城中文網上特價訂房	777-CLUB COM			休閒娛樂	HOTELS_&_MOTELS
+	ADAMS GARDEN HOTEL	4905 W. Adams Bl.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+園景酒店	AIRPORT PARK VIEW HOTEL	3900 W. Century Bl.	Inglewood	休閒娛樂	HOTELS_&_MOTELS
+	AIRPORT TRAVELODGE HOTEL	1400 Bristol St.	Costa Mesa	休閒娛樂	HOTELS_&_MOTELS
+凱悅大酒店	ALHAMBRA INN	2451 W. Main St.	Alhambra	休閒娛樂	HOTELS_&_MOTELS
+	ALTA CIENEGA MOTEL	1005 N. La Cienega Bl.	W. Hollywood	休閒娛樂	HOTELS_&_MOTELS
+	ALVARADO PALMS MOTEL	931 S. Alvarado St.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+國賓大酒店	AMBASSADOR INN	2720 W. Valley Bl.	Alhambra	休閒娛樂	HOTELS_&_MOTELS
+國賓大酒店	AMBASSADOR INN	2720 W. Valley Bl.	Alhambra	休閒娛樂	HOTELS_&_MOTELS
+旅美客棧	AMERICAN BEST VALUE INN	1123 W. 7th St.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+	AMERICAN INN	1235 Rosewood Dr.	San Bernardino	休閒娛樂	HOTELS_&_MOTELS
+發財旅館	AMERICAS BEST VALUE INN	12040 E. Garvey Ave.	El Monte	休閒娛樂	HOTELS_&_MOTELS
+婀娜美莎旅館	ANA MESA SUITES	3597 Harbor Bl.	Costa Mesa	休閒娛樂	HOTELS_&_MOTELS
+	ASTORIA INN	426 W. Ball Rd.	Anaheim	休閒娛樂	HOTELS_&_MOTELS
+愛林大酒店	ATRIUM HOTEL	18700 Macarthur Blvd.	Irvine	休閒娛樂	HOTELS_&_MOTELS
+	BELL GARDENS INN & SUITES	6328 S. Eastern Ave.	Bell Gardens	休閒娛樂	HOTELS_&_MOTELS
+百樂門海濱旅館	BELMONT SHORE INN MOTEL	3946 E. Ocean Bl.	Long Beach	休閒娛樂	HOTELS_&_MOTELS
+	BEST BUDGET INN	420 S. Beach Bl.	Anaheim	休閒娛樂	HOTELS_&_MOTELS
+佳賓客棧	BEST INN (ROSEMEAD INN)	8714 E. Valley Bl.	Rosemead	休閒娛樂	HOTELS_&_MOTELS
+貴賓客棧	BEST INN MONTEBELLO	525 W. Washington Bl.	Montebello	休閒娛樂	HOTELS_&_MOTELS
+賓士旅館	BEST INN MOTEL	609 N. Harbor Bl.	Santa Ana	休閒娛樂	HOTELS_&_MOTELS
+	BEST VIA INN	906 S. Alvarado St.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN ANAHEIM SPORT TOWN	620 W. Orangewood Ave.	Anaheim	休閒娛樂	HOTELS_&_MOTELS
+鑽石吧大旅店	BEST WESTERN DIAMOND BAR	259 Gentle Spring Ln.	Diamond Bar	休閒娛樂	HOTELS_&_MOTELS
+龍門旅館	BEST WESTERN DRAGON GATE INN	818 N. Hill St.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+羅蘭大酒店	BEST WESTERN EXECUTIVE INN	18880 E. Gale Ave.	Rowland Hts.	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN INN	1191 E. Foothill Bl.	Upland	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN MARKLAND HOTEL	434 Potrero Grande Dr.	Monterey Park	休閒娛樂	HOTELS_&_MOTELS
+董事大飯店	BEST WESTERN MID-WILSHIRE	603 S. New Hampshire Ave.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+統帥大酒店	BEST WESTERN MONTEREY PARK INN	420 N. Atlantic Bl.	Monterey Park	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN NORWALK INN	10902 Firestone Bl.	Norwalk	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN PASADENA INN	3570 E. Colorado Bl.	Pasadena	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN PASADENA ROYALE	3600 E. Colorado Bl.	Pasadena	休閒娛樂	HOTELS_&_MOTELS
+	BEST WESTERN REDONDO BEACH INN	1850 S. Pacific Coast Hwy.	Redondo Beach	休閒娛樂	HOTELS_&_MOTELS
+麗晶大旅館	BEST WESTERN REGENCY INN	19360 Beach Bl.	Huntington Beach	休閒娛樂	HOTELS_&_MOTELS
+好西部南灣大飯店	BEST WESTERN SOUTH BAY HOTEL	15000 Hawthorne Bl.	Lawndale	休閒娛樂	HOTELS_&_MOTELS
+	BEVERLY INN	7701 Beverly Bl.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS
+經濟客棧	BUDGET INN EL MONTE	10038 E. Valley Bl.	El Monte	休閒娛樂	HOTELS_&_MOTELS
+	BUENA PARK DAYS INN	8580 Stanton Ave.	Buena Park	休閒娛樂	HOTELS_&_MOTELS
+	BUGGET INN	17111 S. Clark Ave.	Bellflower	休閒娛樂	HOTELS_&_MOTELS
+世紀大旅館	CENTURY MOTEL	7412 Orangethorpe Ave.	Buena Park	休閒娛樂	HOTELS_&_MOTELS
+襄賓客棧	CHAMPION MOTEL	130 W. Valley Bl.	San Gabriel	休閒娛樂	HOTELS_&_MOTELS
+	CLARION HOTEL	3223 E. Garvey Ave. North	W. Covina	休閒娛樂	HOTELS_&_MOTELS
+	CLARION HOTEL	888 E. Dominguez St.	Carson	休閒娛樂	HOTELS_&_MOTELS
+	CLARION HOTEL DOWNTOWN	1901 W. Olympic Bl.	Los Angeles	休閒娛樂	HOTELS_&_MOTELS

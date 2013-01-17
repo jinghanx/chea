@@ -1,0 +1,7 @@
+全州金屬廢料回收公司	ALL STATE PAPER & METAL RECYCLING CO. INC.	8889 Etiwanda Ave.	Rancho Cucamonga	清潔環保	SCRAP_METALS
+全球廢鋼鐵公司	ATLAS IRON & METAL CO.	10019 S. Alameda St.	Los Angeles	清潔環保	SCRAP_METALS
+	CONTINENTAL RECYCLING	5082 W. Mission Bl.	Ontario	清潔環保	SCRAP_METALS
+	EKCO METALS	2777 E. Washington Bl.	Los Angeles	清潔環保	SCRAP_METALS
+萬通廢料回收公司	GENERAL METAL RECYCLING CO.	1505 Washington Bl.	Montebello	清潔環保	SCRAP_METALS
+洛城廢料收購公司	P&T METALS INC. & RECYCLING SERVICE	2213 N. Tyler Ave.	S. El Monte	清潔環保	SCRAP_METALS
+北美地區最大的華人金屬廢料公司	RUBY METALS INC.	2805 S. Industrial Dr.	Bloomington	清潔環保	SCRAP_METALS

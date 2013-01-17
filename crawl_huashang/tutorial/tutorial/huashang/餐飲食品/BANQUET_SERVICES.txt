@@ -1,0 +1,10 @@
+聖蓋博希爾頓酒店	HILTON HOTEL	225 W. Valley Bl.	San Gabriel	餐飲食品	BANQUET_SERVICES
+文華雅敘(環球影城希爾頓飯店)	MANDARIN CLUB‧HILTON LOS ANGELES/UNIVERSAL CITY	555 Universal Hollywood Dr.	Universal City	餐飲食品	BANQUET_SERVICES
+雅曼舍宮宴會議事中心	ALMANSOR COURT INC.	700 S. Almansor St	Alhambra	餐飲食品	BANQUET_SERVICES
+美惠酒店	HISTORIC MAYFAIR HOTEL	1256 W. 7th St.	Los Angeles	餐飲食品	BANQUET_SERVICES
+大酒店宴會	HOTEL BANQUET	9848 Garden Grove Bl.	Garden Grove	餐飲食品	BANQUET_SERVICES
+	LUMINARIAS RESTAURANT	3500 W. Romona Bl.	Monterey Park	餐飲食品	BANQUET_SERVICES
+亞太棕櫚大酒店	PACIFIC PALMS CONFERENCE RESOR	1 Industry Hills Pkwy.	City of Industry	餐飲食品	BANQUET_SERVICES
+	REDHILL BARBEQUE	8111 Foothill Bl. #A	Rancho Cucamonga	餐飲食品	BANQUET_SERVICES
+韓國酒吧	SKYHALL BANQUET & WEDDING	3680 Wilshire Bl. 5Fl.	Los Angeles	餐飲食品	BANQUET_SERVICES
+君皇宴會服務	THE GRAND LONG BEACH EVENT CENTER	4101 E. Willow St.	Long Beach	餐飲食品	BANQUET_SERVICES

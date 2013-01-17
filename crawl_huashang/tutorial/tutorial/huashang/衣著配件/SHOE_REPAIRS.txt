@@ -1,0 +1,4 @@
+快速精修皮鞋皮件	ARCADIA SHOE REPAIR	22 N. 1st  Ave.	Arcadia	衣著配件	SHOE_REPAIRS
+百年老店	CARI'S SHOE REPAIR	542 W. Las Tunas Dr.	San Gabriel	衣著配件	SHOE_REPAIRS
+貴族皮鞋修補	DE LUXE SHOE REPAIR	946 Huntington Dr.	San Marino	衣著配件	SHOE_REPAIRS
+RANCHO 皮鞋修理	RANCHO SHOE REPAIR	733 W. Naomi Ave. #F	Arcadia	衣著配件	SHOE_REPAIRS

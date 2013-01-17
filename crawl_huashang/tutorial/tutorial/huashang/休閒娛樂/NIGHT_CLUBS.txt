@@ -1,0 +1,19 @@
+樂城酒吧	PARADISE ISLE KARAOKE	9568 E. Las Tunas Dr.	Temple City	休閒娛樂	NIGHT_CLUBS
+天鵝大舞廳	THE PLAY PEN	1109 S. Santa Fe Ave.	Los Angeles	休閒娛樂	NIGHT_CLUBS
+玫瑰夜總會	THE TURNING POINT	308 W. Valley Bl.	San Gabriel	休閒娛樂	NIGHT_CLUBS
+PASADENA FRED	ASTAIRE DANCE CENTER	1368 N. Lake Ave.	Pasadena	休閒娛樂	NIGHT_CLUBS
+全裸及無上裝艷舞	BARELY LEGAL SHOWGIRLS	2851 Pomona Bl.	Pomona	休閒娛樂	NIGHT_CLUBS
+	BLISS SHOUGIRLS	13217 Valley Bl.	City of Industry	休閒娛樂	NIGHT_CLUBS
+花心夜總會	CHEF'S HAT CLUB	2553 N. Rosemead Bl.	S. El Monte	休閒娛樂	NIGHT_CLUBS
+喜臨門夜總會	CLUB FANTASY	307 W. 4th St.	Los Angeles	休閒娛樂	NIGHT_CLUBS
+	CLUB SOHO	333 S Boylston St.	Los Angeles	休閒娛樂	NIGHT_CLUBS
+星光夜總會	CLUB STARLIGHT	1224 S. Broadway	Los Angeles	休閒娛樂	NIGHT_CLUBS
+花中花夜總會	FLORAL RESTAURANT	211-215 E. Valley Bl.	San Gabriel	休閒娛樂	NIGHT_CLUBS
+天皇KTV餐廳酒廊	FORBES KTV RESTAURANT & BAR	1536 Peck Rd.	El Monte	休閒娛樂	NIGHT_CLUBS
+	GENTLEMENS' CLUB	5175 San Fernando Rd.	Los Angeles	休閒娛樂	NIGHT_CLUBS
+酒萊吧	GOLDEN HORSE PUB	1037 S. Baldwin Ave.	Arcadia	休閒娛樂	NIGHT_CLUBS
+金錢龜夜總會	GREEN TURTLE BAR & RESTAURANT	11464 Whittier Bl.	Whittier	休閒娛樂	NIGHT_CLUBS
+	LAUNGE 9 PM	1390 E. Fullerton Rd. #104	City of Industry	休閒娛樂	NIGHT_CLUBS
+SCORE伸士俱樂部	SCORE GENTLEMEN'S CLUB	2065 S. Santa Fe Ave.	Los Angeles	休閒娛樂	NIGHT_CLUBS
+脫衣舞廳	TROPICAL LEI	2121 W. Foothill Bl.	Upland	休閒娛樂	NIGHT_CLUBS
+香奈兒夜總會	WHITNEY'S STEAK HOUSE	19055 E. Colima Rd.	Rowland Hts.	休閒娛樂	NIGHT_CLUBS

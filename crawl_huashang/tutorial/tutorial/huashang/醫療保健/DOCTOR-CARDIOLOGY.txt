@@ -1,0 +1,36 @@
+	CARDIOLOGY SPECIALIST	16300 Sand Canyon Ave. #801	Irvine	醫療保健	DOCTOR-CARDIOLOGY
+	CARDIOLOGY SPECIALIST	361 Hospitol Rd. #523	Newport Beach	醫療保健	DOCTOR-CARDIOLOGY
+張啟鈞醫學博士	CHEUNG SIMON M.D. F.A.C.C.	11180 Warner Ave. #363	Fountain Valley	醫療保健	DOCTOR-CARDIOLOGY
+康柏心臟血管醫療中心	COMPREHENSIVE CARDIOVASCULAR SPECIALISTS A MEDICAL GROUP	222 W. Eulalia St. #311	Glendale	醫療保健	DOCTOR-CARDIOLOGY
+康柏心臟血管醫療中心	COMPREHENSIVE CARDIOVASCULAR SPECIALISTS A MEDICAL GROUP	220 S. 1st St.	Alhambra	醫療保健	DOCTOR-CARDIOLOGY
+康柏心臟血管醫療中心	COMPREHENSIVE CARDIOVASCULAR SPECIALISTS A MEDICAL GROUP	101 E. Beverly Bl. #103	Montebello	醫療保健	DOCTOR-CARDIOLOGY
+黨次猷醫師	DANG T.Y. M.D.	540 N. Central Ave. #211	Glendale	醫療保健	DOCTOR-CARDIOLOGY
+朱宗安心臟及血管專科醫師	DANIEL C. CHOO M.D.F.A.C.C.	17134 Colima Rd. #E	Hacienda Hts.	醫療保健	DOCTOR-CARDIOLOGY
+關曉華、蕭瑞陽醫療中心-黃兆雲醫師	GARVEY MEDICAL CENTER - WONG SIUWAN M.D.	201 W. Garvey Ave. #108	Monterey Park	醫療保健	DOCTOR-CARDIOLOGY
+關曉華、蕭瑞陽醫療中心-黃兆雲醫師	GARVEY MEDICAL CENTER - WONG SIUWAN M.D.	1850 S. Azusa Ave. #308	Hacienda Hts.	醫療保健	DOCTOR-CARDIOLOGY
+關曉華醫療中心-黃兆雲醫師	GARVEY MEDICAL CENTER - WONG SIUWAN M.D.	808 N. Hill St.	Los Angeles	醫療保健	DOCTOR-CARDIOLOGY
+吳家輔醫師	GAW JOHNNY M.D. F.A.C.C.	931 Buena Vista St. #106	Duarte	醫療保健	DOCTOR-CARDIOLOGY
+	HEART CLINIC - NAJI KANDALAFT	412 W. Carroll Ave. #204	Glendora	醫療保健	DOCTOR-CARDIOLOGY
+賀莉莉醫學博士	HO LILY M.D. F.A.C.C.	9209 S. Colima Rd. #4300	Whittier	醫療保健	DOCTOR-CARDIOLOGY
+關錦章醫師	KWAN STEPHEN K.M.D.	711 W. College St. #200	Los Angeles	醫療保健	DOCTOR-CARDIOLOGY
+關錦章醫師	KWAN STEPHEN M.D.	600 N. Garfield Ave. #309	Monterey Park	醫療保健	DOCTOR-CARDIOLOGY
+李雪荷心臟科醫師	LEE FAYE M.D.	1245 Wilshire Bl. #812	Los Angeles	醫療保健	DOCTOR-CARDIOLOGY
+仁厚心臟專科-劉洪厚醫學博士	LIU JAMES H. M.D. F.A.C.C.	1730 S. San Gabriel Bl. #C	San Gabriel	醫療保健	DOCTOR-CARDIOLOGY
+仁厚心臟專科-劉洪厚醫學博士	LIU JAMES H. M.D. F.A.C.C.	18102 Pioneer Bl. #203	Artesia	醫療保健	DOCTOR-CARDIOLOGY
+翁瑞昶醫學博士	ONG JAMES M.D. F.A.C.C.	18372 Clark St.#218	Tarzana	醫療保健	DOCTOR-CARDIOLOGY
+長堤心臟治療中心	REGIONAL PHYSICANS MEDICAL GROUP INC.	2690 Pacific Ave. #290	Long Beach	醫療保健	DOCTOR-CARDIOLOGY
+施慶順醫師	SHIH CHIN S. M.D.	223 N. Garfield Ave. #305	Monterey Park	醫療保健	DOCTOR-CARDIOLOGY
+南加心臟中心-劉廣潤醫師	SOUTHERN CALIFORNIA HEART CENTERS - STANLEY LAU M.D. F.A.C.C.	711 W. College St. #300	Los Angeles	醫療保健	DOCTOR-CARDIOLOGY
+南加心臟中心-劉廣潤醫師	SOUTHERN CALIFORNIA HEART CENTERS - STANLEY LAU M.D. F.A.C.C.	506 W. Valley Bl. #100	San Gabriel	醫療保健	DOCTOR-CARDIOLOGY
+戴政弘醫師心臟科專家	TYE JONATHAN M.D.	1250 S. Sunset Ave. #202	W. Covina	醫療保健	DOCTOR-CARDIOLOGY
+戴光弘心臟科診所	TYE KENNETH M.D.	1250 S. Sunset Ave. #202	W. Covina	醫療保健	DOCTOR-CARDIOLOGY
+曾重鈞心臟科醫師	TZENG JOHN J. M.D. PH.D.	1100 S. Garfield Ave.	Alhambra	醫療保健	DOCTOR-CARDIOLOGY
+曾重鈞心臟科醫師	TZENG JOHN J. M.D. PH.D.	622 W. Duarte Rd. #102	Arcadia	醫療保健	DOCTOR-CARDIOLOGY
+黃冠凱醫師 - 心臟科權威	WONG MICHAEL J. M.D.	201 S. Alvarado St. #618	Los Angeles	醫療保健	DOCTOR-CARDIOLOGY
+楊保彬醫師	YANG BAO. M.D.	149 N. 6th St.	Montebello	醫療保健	DOCTOR-CARDIOLOGY
+楊筧春醫師	YANG JENCHEN M.D.	654 N. Diamond Bar Bl.	Diamond Bar	醫療保健	DOCTOR-CARDIOLOGY
+余成名醫師	YEE HENRY C. M.D.	35 S. Garfield Ave.	Alhambra	醫療保健	DOCTOR-CARDIOLOGY
+余昀霖醫師	YEE KELVIN M.D.	559 W. Las Tunas Dr.	San Gabriel	醫療保健	DOCTOR-CARDIOLOGY
+葉國新醫師	YEH THONG P. M.D.	7837 E. Garvey Ave.	Rosemead	醫療保健	DOCTOR-CARDIOLOGY
+葉冠廷醫師	YEH TIMOTHY G. M.D.	1751 W. Romneya Dr. #A	Anaheim	醫療保健	DOCTOR-CARDIOLOGY
+游榮三醫師	YU JOHN J.S. M.D.	351 Hospital Rd. #211	Newport Beach	醫療保健	DOCTOR-CARDIOLOGY

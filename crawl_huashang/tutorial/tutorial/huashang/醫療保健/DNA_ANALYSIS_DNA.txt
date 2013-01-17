@@ -1,0 +1,4 @@
+加州生物科技公司	ACCREDITED DNA TESTING	220 E. 4th St. #207	Santa Ana	醫療保健	DNA_ANALYSIS_DNA
+加州生物科技公司	ACCREDITED DNA TESTING	560 Greenbrier Dr. #104	Oceanside	醫療保健	DNA_ANALYSIS_DNA
+加州生物科技公司	ACCREDITED DNA TESTING	3179 W. Temple Ave. #100	Pomona	醫療保健	DNA_ANALYSIS_DNA
+加州生物科技公司	ACCREDITED DNA TESTING	6920 Miramar Rd. #101	San Diego	醫療保健	DNA_ANALYSIS_DNA

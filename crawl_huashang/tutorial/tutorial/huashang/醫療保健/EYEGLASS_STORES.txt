@@ -1,0 +1,49 @@
+焦點眼科眼鏡	FOCUS VISION	230 N. Garfield Ave. #D6	Monterey Park	醫療保健	EYEGLASS_STORES
+焦點眼科眼鏡	FOCUS VISION	2115 S. Hacienda Bl.	Hacienda Hts.	醫療保健	EYEGLASS_STORES
+尊王眼鏡鐘錶公司	KINGDOM OPTICAL & WATCH CO.	8150 E. Garvey Ave. #103B	Rosemead	醫療保健	EYEGLASS_STORES
+光明眼鏡	ALPHA OPTICAL	2961 Durfee Ave.	El Monte	醫療保健	EYEGLASS_STORES
+慧思眼科眼鏡-司徒劉慧思醫師	CLEARVUE OPTOMETERY-SZETO JENNIFER O.D.	937 E. Las Tunas Dr. #A	San Gabriel	醫療保健	EYEGLASS_STORES
+聖谷眼科眼鏡中心	ICU OPTOMETRY	220 W. Valley Bl. #202	San Gabriel	醫療保健	EYEGLASS_STORES
+時代眼鏡	SPECTRUM OPTOMETRY	5414 Walnut Ave. #B	Irvine	醫療保健	EYEGLASS_STORES
+時代眼鏡	SPECTRUM OPTOMETRY	2710 Alton Parkway. #107	Irvine	醫療保健	EYEGLASS_STORES
+瑞士鐘錶珠寶眼鏡公司	SWISS WATCH & JEWELERS & OPTICAL	1101 W. Valley Bl. #105-106	Alhambra	醫療保健	EYEGLASS_STORES
+1234 眼鏡行	1234 EYECARE CLINIC & OPTOMETRIC CENTER	1234 S. Garfield Ave. #105	Alhambra	醫療保健	EYEGLASS_STORES
+精益眼鏡	ALHAMBRA OPTICAL	1239 E. Valley Bl.	Alhambra	醫療保健	EYEGLASS_STORES
+明揚眼鏡	ARCADIA OPTOMETRY	1021 S. Baldwin Ave.	Arcadia	醫療保健	EYEGLASS_STORES
+	ATLANTIC SQUARE OPTOMETRIC CENTER	2086 S. Atlantic Bl.	Monterey Park	醫療保健	EYEGLASS_STORES
+盛昌眼鏡	A-ZOOM OPTICIAN	308 W. Valley Bl.	Alhambra	醫療保健	EYEGLASS_STORES
+宏明眼科、眼鏡	BRIGHT EYE CARE	18214 E. Gale Ave.	City of Industry	醫療保健	EYEGLASS_STORES
+宏明眼科、眼鏡	BRIGHT EYE CARE	419 N. Atlantic Bl. #104-105	Monterey Park	醫療保健	EYEGLASS_STORES
+宏明眼科、眼鏡	BRIGHT EYE CARE	9241 E. Las Tunas Dr.	Temple City	醫療保健	EYEGLASS_STORES
+	C & K VISION OPTOMETRY CO.	9131 Bolsa Ave. #202	Westminster	醫療保健	EYEGLASS_STORES
+茂昌眼鏡	CLEAR SIGHT OPTOMETRY CORP.	790 S. Atlantic Bl. #105	Monterey Park	醫療保健	EYEGLASS_STORES
+得恩堂眼鏡公司	COLIMA OPTICAL CO.	1758 Sierra Leone Ave. #B	Rowland Hts.	醫療保健	EYEGLASS_STORES
+精明眼鏡	DR. JOSEPH PEEK OPTOMETRIST	333 W. Garvey Ave. #D	Monterey Park	醫療保健	EYEGLASS_STORES
+韓秀鵑眼科視學博士	DR. PAULINA T.Q. HAN O.D.	5803 N. Rosemead Bl.	Temple city	醫療保健	EYEGLASS_STORES
+阿市眼鏡行	DR. STEVEN ZEZULA	2 W. Main St.	Alhambra	醫療保健	EYEGLASS_STORES
+士林眼科眼鏡	EYE CARE OPTOMETRY OF SAN GABRIEL	417 S. San Gabriel Bl.#B.	San Gabriel	醫療保健	EYEGLASS_STORES
+治我眼睛	EYE OPTICS	2825 S. Diamond Bar Bl.	Diamond Bar	醫療保健	EYEGLASS_STORES
+宏恩眼科、眼鏡	FASHION OPTICAL	1220 S. Golden W. Ave. #B	Arcadia	醫療保健	EYEGLASS_STORES
+富麗明眼鏡公司	FREMONT OPTICAL	2447 W. Valley Bl.	Alhambra	醫療保健	EYEGLASS_STORES
+高登眼鏡	GOLDEN SAN GABRIEL OPTICAL	140 W. Valley Bl. #115	San Gabriel	醫療保健	EYEGLASS_STORES
+高登眼鏡	GOLDEN SAN GABRIEL OPTICAL	1015 S. Nogales St. #109A	Rowland Hts.	醫療保健	EYEGLASS_STORES
+日昇眼鏡公司	GOLDEN SUN CO.	339 Wall St. #D	Los Angeles	醫療保健	EYEGLASS_STORES
+	HARVARD OPTOMETRIC CENTER	18742 E. Colima Rd.	Rowland Hts.	醫療保健	EYEGLASS_STORES
+I-WEAR眼鏡廣場	I- WEAR OPTICAL	1679 Azusa Ave.	Hacienda Hts.	醫療保健	EYEGLASS_STORES
+	INFOCUS VISION OPTOMETRIC CENTER	1181 E. Huntington Dr.	Duarte	醫療保健	EYEGLASS_STORES
+寶島眼鏡公司	J.C OPTICAL INC.	18414 Colima Rd. #F	Rowland Hts.	醫療保健	EYEGLASS_STORES
+佳明麗驗光眼鏡	JAMBOREE OPTOMETRY	13257 Jamboree Rd.	Tustin	醫療保健	EYEGLASS_STORES
+小林眼鏡	JOSEPH PEEK OPTOMETRIST	251 W Bencamp St. #A	San Gabriel	醫療保健	EYEGLASS_STORES
+林登視學眼科中心	LINDEN OPTOMETRY A PROFESSIONAL CORP. - ALAN LIMFAT O.D.	477 E. Colorado Bl.	Pasadena	醫療保健	EYEGLASS_STORES
+麗寶眼鏡批發	LIPOPSUN INT'L CORP.	4641 District Bl.	Vernon	醫療保健	EYEGLASS_STORES
+	LUCKY VISION	12764 Brookhurst St.	Garden Grove	醫療保健	EYEGLASS_STORES
+得恩堂眼鏡公司	MONTEREY PARK OPTICAL CO.	230 N. Garfield Ave. #D7	Monterey Park	醫療保健	EYEGLASS_STORES
+錦明眼科中心 - 陳俊鋐眼科視學醫師	NEW INSIGHT OPTOMETRIC CENTER - DR. GARRY CHAN O.D.	541 W. Valley Bl.	San Gabriel	醫療保健	EYEGLASS_STORES
+歐美加名牌眼鏡公司	OMEGA INT'L	408 S. Los Angeles St.	Los Angeles	醫療保健	EYEGLASS_STORES
+彩虹眼科眼鏡-袁麗怡眼科視學博士	RAINBOW OPTOMETRY - JESSICA YUAN O.D.	1183 E. Foothill Bl. #140	Upland	醫療保健	EYEGLASS_STORES
+	SAIGON OPTICAL	132 E. Valley Bl.	Alhambra	醫療保健	EYEGLASS_STORES
+星點時尚眼鏡	STARRY OPTICAL INC.	200 E. Garvey Ave. #109	Monterey Park	醫療保健	EYEGLASS_STORES
+蒙地貝羅眼鏡行	TOWN CENTER OPTOMETRY	1449 W. Beverly Bl.	Montebello	醫療保健	EYEGLASS_STORES
+風格眼鏡	VISION MASTER OPTICAL	946 E. Garvey Ave.	Monterey Park	醫療保健	EYEGLASS_STORES
+高雅眼鏡	YOUNG'S OPTOMETRY	815 Naomi Ave. #K	Arcadia	醫療保健	EYEGLASS_STORES
+高雅眼鏡	YOUNG'S OPTOMETRY	17572 E. Colima Rd.	Rowland Hts.	醫療保健	EYEGLASS_STORES

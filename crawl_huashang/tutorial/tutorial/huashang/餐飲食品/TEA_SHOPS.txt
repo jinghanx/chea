@@ -1,0 +1,21 @@
+好生意茶館	ABC TEA HOUSE	14520 Arrow Hwy.	Baldwin Park	餐飲食品	TEA_SHOPS
+茶竹居	BAMBOO TEA HOUSE	221 Yale Ave.	Claremont	餐飲食品	TEA_SHOPS
+達信蔘茸茗茶公司	DAT SHUN GINSENG & TEA CO.	9211 Bolsa Ave. #118	Westminster	餐飲食品	TEA_SHOPS
+保健茶行	HERBAL AIDE	236 S. Garfield Ave.	Monterey Park	餐飲食品	TEA_SHOPS
+美國百年茶公司	HERBAL STAR LLC	4554 Hastings Ct.	Chino	餐飲食品	TEA_SHOPS
+有閒	LA ARBRE TEA HOUSE	8508 E. Valley Bl. #C101	Rosemead	餐飲食品	TEA_SHOPS
+	LEA FOREVER	260 E. Colorado Bl. #223A	Pasadena	餐飲食品	TEA_SHOPS
+百福台灣茗茶公司	LINBOS CORP.	730 N. Todd Ave.	Azusa	餐飲食品	TEA_SHOPS
+現代食品公司(高山茶)	MODERN FOODS INC. - COSAN TEA	9838 Joe Vargas Way #H	S. El Monte	餐飲食品	TEA_SHOPS
+一品屋茶具	PRESENT NATURAL HOUSE & CO.	1654 W. Orange Grove Ave.	Pomona	餐飲食品	TEA_SHOPS
+天立茗茶	TEN LI TEA &  CO.	17086 Magnolia St.	Fountain Valley	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	726 N. Hill St. #136	Los Angeles	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	665-B N. Euclid St.	Anaheim	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	1330 S. Fullerton Rd. #102	City of Industry	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	846 W. Duarte Rd.	Arcadia	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	111 W. Garvey Ave.	Monterey Park	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	154 W. Valley Bl.	San Gabriel	餐飲食品	TEA_SHOPS
+天仁茗茶	TEN REN TEA CO. LTD.	18423 E. Colima Rd.	Rowland Hts.	餐飲食品	TEA_SHOPS
+輕鬆小站	TENREN'S TEA TIME	515 Grand Ave. #F	Walnut	餐飲食品	TEA_SHOPS
+安可李氏美國花旗嵾茶	UNCLE LEE'S TEA INC.	11020 E. Ruth St.	S. El Monte	餐飲食品	TEA_SHOPS
+華泰茗茶	VALLEY TEA & COFFEE	1101 W. Valley Bl. #103	Alhambra	餐飲食品	TEA_SHOPS

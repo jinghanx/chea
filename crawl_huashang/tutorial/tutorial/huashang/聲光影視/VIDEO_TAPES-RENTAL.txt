@@ -1,0 +1,20 @@
+天虹音像		9661 Garvey Ave. #107	S. El Monte	聲光影視	VIDEO_TAPES-RENTAL
+	A TO Z VIDEO	2111 S. San Gabriel Bl. #C	Rosemead	聲光影視	VIDEO_TAPES-RENTAL
+AMOR 成人錄影帶店	AMOR LINGERIE	2808 E. Washington Bl. #A	Los Angeles	聲光影視	VIDEO_TAPES-RENTAL
+亞州錄影帶中心	ASIA VIDEO CENTER	120 E. Valley Bl. #B	San Gabriel	聲光影視	VIDEO_TAPES-RENTAL
+俏佳人音像	BEAUTY AUDIO VIDEO DEPOT	1015 S. Nogales St. #122B	Rowland Hts.	聲光影視	VIDEO_TAPES-RENTAL
+豐幸百貨錄影	CHINA TOWN VIDEO	1227 W. Valley Bl. #117	Alhambra	聲光影視	VIDEO_TAPES-RENTAL
+視覺領域	D ZONE	815 W. Naomi Ave. #F	Arcadia	聲光影視	VIDEO_TAPES-RENTAL
+大千錄影帶公司	DA CHAN VIDEO	243-245 E. Garvey Ave.	Monterey Park	聲光影視	VIDEO_TAPES-RENTAL
+火田影碟	FIRELINK ENTERTAINMENT INC.	8150 E. Garvey Ave. #112	Rosemead	聲光影視	VIDEO_TAPES-RENTAL
+火田影碟	FIRELINK ENTERTAINMENT INC.	807 W. Las Tunas Dr.	San Gabriel	聲光影視	VIDEO_TAPES-RENTAL
+合家歡影視	L & L VIDEO	619 E. Valley Bl.	San Gabriel	聲光影視	VIDEO_TAPES-RENTAL
+視聽坊	MULTI VIDEO	18449 E. Colima Rd.	Rowland Hts.	聲光影視	VIDEO_TAPES-RENTAL
+今日錄影帶	NEW ADDON INC.	15333 Culver Dr. #800	Irvine	聲光影視	VIDEO_TAPES-RENTAL
+	STAN'S VIDEO	1117 N. Western Ave.	Hollywood	聲光影視	VIDEO_TAPES-RENTAL
+雙喜影視	TDA VIDEO	779 E. Anaheim St.	Long Beach	聲光影視	VIDEO_TAPES-RENTAL
+天大錄影帶公司	TIAN DA VIDEO	200 E. Garvey Ave. #110	Monterey Park	聲光影視	VIDEO_TAPES-RENTAL
+鉅星傳播公司	U.S. GALAXY ENTERTAINMENT CORP	14632 Nelson Ave. #F	City of Industry	聲光影視	VIDEO_TAPES-RENTAL
+金典影視	VEDIO WORLD	1015 S. Nogales St. #111	Rowland Hts.	聲光影視	VIDEO_TAPES-RENTAL
+光碟影片零售	WORLD WIDE VIDEO	530 S. Citrus Ave.	Azusa	聲光影視	VIDEO_TAPES-RENTAL
+世紀影視	Y2K VIDEO	223 W. Las Tunas Dr.	San Gabriel	聲光影視	VIDEO_TAPES-RENTAL

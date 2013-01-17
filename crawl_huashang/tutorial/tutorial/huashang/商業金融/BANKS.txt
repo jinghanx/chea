@@ -1,0 +1,50 @@
+國泰銀行-工業市分行	CATHAY BANK	1250 S. Fullerton Rd.	City of Industry	商業金融	BANKS
+國泰銀行-羅蘭崗分行	CATHAY BANK	17432 Colima Rd.	Rowland Hts.	商業金融	BANKS
+國泰銀行-蒙市分行	CATHAY BANK	250 S. Atlantic Bl.	Monterey Park	商業金融	BANKS
+國泰銀行-阿市山谷大道分行	CATHAY BANK	43 E. Valley Bl.	Alhambra	商業金融	BANKS
+國泰銀行-阿罕布拉分行	CATHAY BANK	601 N. Atlantic Bl.	Alhambra	商業金融	BANKS
+國泰銀行-洛杉磯分行	CATHAY BANK	777 N. Broadway	Los Angeles	商業金融	BANKS
+國泰銀行-聖蓋博分行	CATHAY BANK	825 E. Valley Bl.	San Gabriel	商業金融	BANKS
+國泰銀行-北嶺分行	CATHAY BANK	9045 Corbin Ave.	Northridge	商業金融	BANKS
+國泰銀行-喜瑞都山谷分行	CATHAY BANK	18643 S. Pioneer Bl.	Artesia	商業金融	BANKS
+國泰銀行-托倫斯分行	CATHAY BANK	23326 Hawthorne Bl. #100	Torrance	商業金融	BANKS
+國泰銀行-亞凱迪亞分行	CATHAY BANK	1139 W. Huntington Dr.	Arcadia	商業金融	BANKS
+國泰銀行-艾爾蒙地分行	CATHAY BANK	9650 Flair Dr.	El Monte	商業金融	BANKS
+國泰銀行-爾灣分行	CATHAY BANK	15323 Culver Dr.	Irvine	商業金融	BANKS
+國泰銀行-西敏子分行	CATHAY BANK	9121 Bolsa Ave.	Westminster	商業金融	BANKS
+國泰銀行-聖地牙哥分行	CATHAY BANK	4688 Convoy St.	San Diego	商業金融	BANKS
+國泰銀行-橘市分行	CATHAY BANK	2263 N. Tustin St.	Orange	商業金融	BANKS
+國泰銀行-鑽石吧分行	CATHAY BANK	1195 S. Diamond Bar Bl.	Diamond Bar	商業金融	BANKS
+國泰銀行-芳泉谷分行	CATHAY BANK	17860 Newhope St. #104	Fountain Valley	商業金融	BANKS
+國泰銀行-爾灣布蘭卡分行	CATHAY BANK	4010 Barranca Pkwy. #150	Irvine	商業金融	BANKS
+國泰銀行-安大略分行	CATHAY BANK	2000A S. Grove Ave. #103	Ontario	商業金融	BANKS
+華美銀行-蒙市分行	EAST WEST BANK	720 W. Garvey Ave.	Monterey Park	商業金融	BANKS
+大通銀行	FIRST GENERAL BANK	801 E. Valley Bl. #103	San Gabriel	商業金融	BANKS
+大通銀行	FIRST GENERAL BANK	1744 S. Nogales St.	Rowland Hts.	商業金融	BANKS
+大通銀行	FIRST GENERAL BANK	1127 S. Baldwin Ave.	Arcadia	商業金融	BANKS
+大通銀行	FIRST GENERAL BANK	1744 S. Nogales St.	Rowland Hts.	商業金融	BANKS
+保富銀行 - 彼克瑞維拉分行	PREFERRED BANK	7004 Rosemead Bl.	Pico Rivera	商業金融	BANKS
+保富銀行 - 爾灣市分行	PREFERRED BANK	890 Roosevelt Ave.	Irvine	商業金融	BANKS
+保富銀行 - 安那罕分行	PREFERRED BANK	1055 N. Tustin Ave.	Anaheim	商業金融	BANKS
+保富銀行 - 阿凱迪亞市分行	PREFERRED BANK	1469 S. Baldwin Ave.	Arcadia	商業金融	BANKS
+保富銀行 - 西洛杉磯市分行	PREFERRED BANK	1801 Century Park E.3100	Los Angeles	商業金融	BANKS
+保富銀行 - 工業市分行	PREFERRED BANK	17515 Colima Rd.	City of Industry	商業金融	BANKS
+保富銀行 - 阿罕布拉市分行	PREFERRED BANK	325 E. Valley Bl.	Alhambra	商業金融	BANKS
+保富銀行 - 鑽石吧市分行	PREFERRED BANK	1373 S. Diamond Bar Bl.	Diamond Bar	商業金融	BANKS
+保富銀行 - 洛杉磯總行	PREFERRED BANK	601 S. Figueroa St. 29th Fl.	Los Angeles	商業金融	BANKS
+華美銀行-工業市分行	EAST WEST  BANK	1680 S. Azusa Ave.	City of Industry	商業金融	BANKS
+華美銀行-比佛利山分行	EAST WEST  BANK	450 N. Roxbury Dr. #101	Beverly Hills	商業金融	BANKS
+華美銀行-蒙市分行	EAST WEST  BANK	855 S. Atlantic Bl.	Monterey Park	商業金融	BANKS
+華美銀行-天普分行	EAST WEST BANK	5607 N. Rosemead Bl.	Temple City	商業金融	BANKS
+華美銀行-羅蘭崗分行	EAST WEST BANK	1015 S. Nogales St. #102	Rowland Hts.	商業金融	BANKS
+華美銀行-阿提夏分行	EAST WEST BANK	17801 Pioneer Bl. #IJ	Artesia	商業金融	BANKS
+華美銀行-阿罕布拉分行	EAST WEST BANK	301 W. Valley Bl.	Alhambra	商業金融	BANKS
+華美銀行-鑽石吧分行	EAST WEST BANK	1132 S. Diamond Bar Bl.	Diamond Bar	商業金融	BANKS
+華美銀行-奇諾崗分行	EAST WEST BANK	2959 Chino Ave.	Chino Hills	商業金融	BANKS
+華美銀行-羅蘭崗分行	EAST WEST BANK	19267 Colima Rd. #A	Rowland Hts.	商業金融	BANKS
+華美銀行-爾灣分行	EAST WEST BANK	14845 Jeffery Rd.	Irvine	商業金融	BANKS
+華美銀行-西敏市分行	EAST WEST BANK	9032 Bolsa Ave.	Westminster	商業金融	BANKS
+華美銀行-爾灣分行	EAST WEST BANK	15333 Culver Dr. #670	Irvine	商業金融	BANKS
+華美銀行-艾爾蒙地分行	EAST WEST BANK	3920 N. Peck Rd.	El Monte	商業金融	BANKS
+華美銀行-柔似密分行	EAST WEST BANK	8168 E. Garvey Ave.	Rosemead	商業金融	BANKS
+華美銀行-格蘭黛分行	EAST WEST BANK	520 N. Central Ave.	Glendale	商業金融	BANKS

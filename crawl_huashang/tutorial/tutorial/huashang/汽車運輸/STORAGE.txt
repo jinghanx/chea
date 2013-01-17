@@ -1,0 +1,50 @@
+展渥股份有限公司	PINNACLE PRIME PROPERTIES	9737 Bell Ranch Dr.	Santa Fe Springs	汽車運輸	STORAGE
+海路通運輸保險公司	SEALINK INSURANCE SERVICES CORP.	8780 E. Valley Bl.#I	Rosemead	汽車運輸	STORAGE
+協和倉儲	CONCORD CITY CORP.	623 Doubleday Ave.	Ontario	汽車運輸	STORAGE
+華美倉儲	EAST-WEST CFS INC.	14821 Northam St.	La Mirada	汽車運輸	STORAGE
+統一搬運、倉儲	GENERAL MOVING CO.	10826 Central Ave.	S. El Monte	汽車運輸	STORAGE
+美國廣源倉儲物流公司	GOG LOGISTICS INC	15929 E. Valley Bl.	City of Industry	汽車運輸	STORAGE
+華洋報關行	GRAND OCEAN CUSTOMS BROKERAGE INC.	801 S. Garfield Ave. #301	Alhambra	汽車運輸	STORAGE
+飛達搬家運輸公司	LUCKY MOVING INC.	17031 Green Dr.	City of Industry	汽車運輸	STORAGE
+	PINNACE WAREHOUSE	9737 Bell Ranch Dr.	Santa Fe Springs	汽車運輸	STORAGE
+星源倉儲運輸報關	STAR SOURCE LOGISTIC  INC.	4934 Walnut Grove Ave. #101.	San Gabriel	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	21035 E. Washington Ave.	Walnut	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	7282 Walnut Ave.	Buena Park	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	1985 S. Potrero Grande Dr.	Monterey Park	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	2101 W. Mission Rd.	Alhambra	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	2300 Federal Ave	Los Angeles	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	11560 Tennessee Ave	Los Angeles	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	15534 Arrow Hwy.	Irwindale	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	300 Avery St.	Los Angeles	汽車運輸	STORAGE
+美利堅倉儲公司	A-AMERICAN SELF STORAGE	12331 Penn St.	Whittier	汽車運輸	STORAGE
+萬全小型倉儲	ALL ABOARD MINI STORAGE	2000 W. Mission Rd.	Alhambra	汽車運輸	STORAGE
+南灣物流	AMERI FREIGHT INC	218 Machlin Ct. #A	Walnut	汽車運輸	STORAGE
+美國小倉庫	AMERICAN MINI-STORAGE LTD.	21320 E. Golden Springs Dr.	Diamond Bar	汽車運輸	STORAGE
+美國小倉庫	AMERICAN MINI-STORAGE LTD.	863 Towne Center Dr.	Pomona	汽車運輸	STORAGE
+美國小倉庫	AMERICAN MINI-STORAGE LTD.	8659 E. Garvey Ave.	Rosemead	汽車運輸	STORAGE
+艾俐安國際集團	ARION INT'L GROUP	2391 S. Bateman Ave.	Irwindale	汽車運輸	STORAGE
+頂好貨運倉儲	BEST-1 TRUCKING	14774 Jurupa Ave.	Fontana	汽車運輸	STORAGE
+東昇倉儲	BLUE BAR CORP.	3800 Durbin St.	Irwindale	汽車運輸	STORAGE
+恒遠搬運倉儲發貨中心	CYH TRANSPORTATION CO.	12953 E. Garvey Ave.	Baldwin Park	汽車運輸	STORAGE
+德通公司	DITTO EXPRESS INC.	6303 Corsair St.	Commerce	汽車運輸	STORAGE
+長春倉儲運輸中心	FEWA WORLDWIDE SERVICE INC.	927 S. Azusa Ave.	City of Industry	汽車運輸	STORAGE
+耀鴻倉儲貨運公司	FLYING HORSE TRANSPORTATION CO	446 Cloverleaf Dr.	Baldwin Park	汽車運輸	STORAGE
+第一倉儲貨運集團	G&J EXPRESS TRANSPORT INC.	6560 Bandini Bl.	Commerce	汽車運輸	STORAGE
+	GLOBAL LINK DISTRIBUTION INC.	16728 E. Gale Ave.	City of Industry	汽車運輸	STORAGE
+	GREAT AMERICAN STORAGE SOLUTIONS	8041 Edinger Ave.	Westminster	汽車運輸	STORAGE
+捷特運輸	JJES EXPRESS INC.	717 S. Nogales St.	City of Industry	汽車運輸	STORAGE
+海捷航運有限公司	PACIFIC CHAMPION SERVICE CORP.	3941 E. Miraloma Ave.	Anaheim	汽車運輸	STORAGE
+太平洋搬家倉儲	PACIFIC RIM INDUSTRIES INC.	5359 Valley Bl.	Los Angeles	汽車運輸	STORAGE
+長青貨運倉儲	PAN-WORLD EXPRESS INC.	2839 E. 208th St.	Carson	汽車運輸	STORAGE
+全國低價倉儲運輸	PICK FIVE STORAGE	18401 E. Arenth Ave.	City of Industry	汽車運輸	STORAGE
+自力倉儲	POWER SELF STORAGE	1661 S. Victoria Ave.	Ventura	汽車運輸	STORAGE
+自力倉儲	POWER SELF STORAGE	2506 Atlantic Ave.	Long Beach	汽車運輸	STORAGE
+自力倉儲	POWER SELF STORAGE	16408 E. Gale Ave.	City of Industry	汽車運輸	STORAGE
+	PUBLIC STORAGE	14209 Western Ave.	Gardena	汽車運輸	STORAGE
+	PUBLIC STORAGE	7900 Deering Ave.	Canoga Park	汽車運輸	STORAGE
+	PUPBLIC STORAGE	7482 Garden Grove Blvd.	Westminster	汽車運輸	STORAGE
+鑫鼎物流中心	RIDER EXPRESS INC.	4377  N. Baldwin Ave.	El Monte	汽車運輸	STORAGE
+自助倉儲	SAFEWAY SELF STORAGE	116 S. Western Ave.	Los Angeles	汽車運輸	STORAGE
+	STOR AMERICA SELF STORAGE	3830 N. Santa Anita Ave.	El Monte	汽車運輸	STORAGE
+	STOR AMERICA SELF STORAGE	5630 Peck Rd.	Arcadia	汽車運輸	STORAGE
+	STOR AMERICA SELF STORAGE	2082 Michelson Dr. #212B	Irvine	汽車運輸	STORAGE

@@ -1,0 +1,50 @@
+美麗驛站	3D EYEBROWS TATTOO	9040 Telstar Ave. #102	El Monte	休閒娛樂	BEAUTY_&_BARBER_SALONS
+美+美美容中心	BEAUTY PLUS SKIN CARE	250 W. Valley Bl. #D	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+紫晶瑩皮膚更生中心	CITY BEAUTY	765 S. Atlantic Bl.	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+貴夫人專業美容中心	G & S SKIN CARE CENTER	8811 Garvey Ave. #206	Rosemead	休閒娛樂	BEAUTY_&_BARBER_SALONS
+形像髮廊	HAIR DE IMAGE	1434 S. Atlantic Bl.	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+紋青專業繡眉	QING'S BEAUTY CENTER	2209 N. San Gabriel Blvd.	Rosemead	休閒娛樂	BEAUTY_&_BARBER_SALONS
+艾蘿蔓美研館	AROMA BEAUTY CENTER	18575 E. Gale Ave. #298	Rowland Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+經典	CLASSIQUE BEAUTE	9471 Las Tunas Dr.	Temple City	休閒娛樂	BEAUTY_&_BARBER_SALONS
+時尚優雅專業彩妝造型	ELAINE MAKEUP STUDIO	P. O. Box 8401	Rowland Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+髮展	HAIR INNOVATION STUDIO	154 S. San Gabriel Bl.	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+AMY專業化妝、髮型	MAKEUP & HAIR STYLIHG		Newport Beach	休閒娛樂	BEAUTY_&_BARBER_SALONS
+紋繡專家		889 S. San Gabriel Bl	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+SKINLOSOPHY DAY SPA		1818 Sierra Leone Ave.#G	Rowland Hts	休閒娛樂	BEAUTY_&_BARBER_SALONS
+	1 HR. NAILS	9449 Las Tunas Dr.	Temple City	休閒娛樂	BEAUTY_&_BARBER_SALONS
+翡翠髮廊	7 DAY'S BEAUTY SALON	1227 W. Valley Bl. #101	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+容容髮廊	98 BEAUTY SALON	837 E. Valley Bl.	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+帕莎迪娜髮廊	A & L BEAUTY SALON	2692 E. Colorado Bl.	Pasadena	休閒娛樂	BEAUTY_&_BARBER_SALONS
+阿強專業髮型設計師	A CHAN'S HAIR SPECIALIST	1500 Stoner Creek Rd.	City of Industry	休閒娛樂	BEAUTY_&_BARBER_SALONS
+阿強專業髮型設計師	A CHAN'S HAIR SPECIALIST	1500 Stoner Creek Rd.	City of Industry	休閒娛樂	BEAUTY_&_BARBER_SALONS
+比華利國色天香美容中心	ABRAM NGUYEN M.D.	9039 Bolsa Ave. #201	Westminster	休閒娛樂	BEAUTY_&_BARBER_SALONS
+AFFINA專業新娘化妝、造型教學	AFFINA BRIDAL MAKEUP & HAIR STYLING	1650 Greenport Ave. #A	Rowland Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+夏安美容坊	AGGIE SKIN CARE CENTER	926 E. Las Tunas Dr.	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+ALAN 髮型工作室	ALAN HAIR SALON	14370 Culver Dr. #D	Irvine	休閒娛樂	BEAUTY_&_BARBER_SALONS
+愛麗斯髮廊	ALICE BEAUTY SALON	529 Alpine St.	Los Angeles	休閒娛樂	BEAUTY_&_BARBER_SALONS
+髮之屋	AMILY BEAUTY SALON	37-1/2 E. Duarte Rd.	Arcadia	休閒娛樂	BEAUTY_&_BARBER_SALONS
+南茜美容院	ANGEL NAILS	554 W. Las Tunas Dr.	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+瀟灑美容美髮中心	ANGELA 2000 HAIRCUTS	1245 S. Diamond Bar Bl.	Diamond Bar	休閒娛樂	BEAUTY_&_BARBER_SALONS
+安琪美容美髮屋	ANGELA'S SALON	15850  Halliburton Rd.	Hacienda Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+安如髮廊	ANJOUR HAIR DESIGN	301 W. Valley Bl. #117	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+葵花髮廊	ANNIE HAIR DESIGN	728 S. Atlantic Bl.	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+安妮美容	ANNWU SKIN CARE INC	120 N. San Gabriel Bl. #F	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+安東尼髮廊	ANTONY BEAUTY SALSON	1039 S. Baldwin Ave.	Arcadia	休閒娛樂	BEAUTY_&_BARBER_SALONS
+百里香美容芳療中心	AROMATHYMES INT'L LLC	501 S. San Gabriel Bl. #102	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+設計家造型	ARTISTIC GALLERY	141 N. Atlantic Bl. #109	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+名髮舍	ARTISTIC HAIR & NAIL STUDIO	1453 E. Valley Bl.	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+髮藝廊	ARTISTIC HAIR DESIGN	345 W. Valley Bl. #D	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+亞州髮廊	ASIA BEAUTY SALON	249 E. Garvey Ave.	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+靚髮屋	B & H HAIR DESIGN	602 N. New Ave.	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+名髮廊	BARBO BEAUTY SALON	2512 Walnut Ave. #2	Tustin	休閒娛樂	BEAUTY_&_BARBER_SALONS
+香港名藝髮	BEAUTE OF HAIR	17520 E. Colima Rd.	Rowland Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+美人湖美容、美髮	BEAUTY BABY BEAUTY	18438 E. Colima Rd. #10A	Rowland Hts.	休閒娛樂	BEAUTY_&_BARBER_SALONS
+美姿堂	BEAUTY CULTURE	715 S. 1st Ave.#A-B.	Arcadia	休閒娛樂	BEAUTY_&_BARBER_SALONS
+小雪美容	BEAUTY SKIN CARE	5636 N. Rosemead Bl.	Temple City	休閒娛樂	BEAUTY_&_BARBER_SALONS
+美容坊	C & L BEAUTY INC.	123 E. Valley Bl. #211	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS
+髮之魁髮廊	C Y HAIR STUDIO	737 W. Garvey Ave.	Monterey Park	休閒娛樂	BEAUTY_&_BARBER_SALONS
+C.M. 美容護理中心	C.M. CLINICAL SKIN CARE CENTER	19 S. Garfield Ave. #B	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+美加髮廊	CALI HAIR SALON	229 E. Valley Bl.	Alhambra	休閒娛樂	BEAUTY_&_BARBER_SALONS
+	CANDY NAILS	9575 Las Tunas Dr	Temple City	休閒娛樂	BEAUTY_&_BARBER_SALONS
+爾灣風格髮廊	CASCADES HAIR SALON	15455 Jeffrey Rd. 2nd Fl.	Irvine	休閒娛樂	BEAUTY_&_BARBER_SALONS
+	CBS HAIR STUDIO	913 E. Las Tunas Dr.	San Gabriel	休閒娛樂	BEAUTY_&_BARBER_SALONS

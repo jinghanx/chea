@@ -1,0 +1,9 @@
+聯盟起重吊車吊舉服務	ALLIED CRANE SERVICE INC.	3202 E. Foothill Bl.#120	Pasadena	家居住屋	EQUIPMENT_RENTALS
+得利工具租用	HOME TOWN RENTALS	102 W. Las Tunas Dr.	Arcadia	家居住屋	EQUIPMENT_RENTALS
+賽門卡車、拖車、各種工程工具機器出租	SIMON EQUIPMENT CO. INC.	202 W. Huntington Dr.	Monrovia	家居住屋	EQUIPMENT_RENTALS
+房屋修建工具出租	SPRAGUE RENTS INC.	1133 E. Garvey Ave.	Monterey Park	家居住屋	EQUIPMENT_RENTALS
+	SUNBELT RENTALS	13628 E. Valley Bl.	City of Industry	家居住屋	EQUIPMENT_RENTALS
+	SUNBELT RENTALS	1170 N. Main St.	Orange	家居住屋	EQUIPMENT_RENTALS
+聯合設備出租	UNITED RENTALS	3455 San Gabriel River Pkwy.	Pico Rivera	家居住屋	EQUIPMENT_RENTALS
+聯合設備出租	UNITED RENTALS	15402 E. Arrow Hwy.	Baldwin Park	家居住屋	EQUIPMENT_RENTALS
+聯合設備出租	UNITED RENTALS	10632 Monte Vista Ave.	Montclair	家居住屋	EQUIPMENT_RENTALS

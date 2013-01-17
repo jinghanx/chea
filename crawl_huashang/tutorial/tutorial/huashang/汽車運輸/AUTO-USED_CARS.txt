@@ -1,0 +1,48 @@
+佳德汽車	A-1 PLUS AUTO CENTER	1211 W. Valley Bl.	Alhambra	汽車運輸	AUTO-USED_CARS
+六福汽車	APEX AUTONET INC	400 W. Valley Bl.	Alhambra	汽車運輸	AUTO-USED_CARS
+樺輝汽車	AUTO USED CAR INC.	9640 Garvey Ave.	S. El Monte	汽車運輸	AUTO-USED_CARS
+富聚汽車	AUTOMEC SALES & SERVICE	8685 Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+如意汽車城	BEST START AUTO CORP.	9559 E. Valley Bl.	El Monte	汽車運輸	AUTO-USED_CARS
+超群汽車集團	DOLLAR RENT A CAR	8449 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+祥泰汽車	FORTUNE AUTO CO. INC	2117 W. Valley Bl.	Alhambra	汽車運輸	AUTO-USED_CARS
+名車行	HIGHLINE AUTO HAUS	2720 River Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+貴賓汽車	VIP CARS	3026 Del Mar Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+泛亞汽車集團	A & T AUTO SALES	3128 N. San Gabriel Bl.	Rosemead	汽車運輸	AUTO-USED_CARS
+超群汽車	AWARD AUTO DEALER INC.	8449 Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+二手車交易中心	DALE'S AUTO MART	13474 Harbor Bl.	Garden Grove	汽車運輸	AUTO-USED_CARS
+中興汽車	Q&Z AUTO USED CAR SALES INC.	180 E.Valley Bl. #206	San Gabriel	汽車運輸	AUTO-USED_CARS
+一路發汽車	TOPLINE AUTOMOTIVE INC.	840 E. Garvey Ave.	Monterey Park	汽車運輸	AUTO-USED_CARS
+大順汽車	99 INC.	7825 Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+住家汽車	99 INC.	3036 Del Mar Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+林氏汽車	A & A AUTO SALES	325 E. Newmark Ave.	Monterey Park	汽車運輸	AUTO-USED_CARS
+樺煇汽車	AUTO USED CAR INC.	6940 Garvey Ave.	S. El Monte	汽車運輸	AUTO-USED_CARS
+	AUTOCARS LTD.	15947 E. Amar Rd.	La Puente	汽車運輸	AUTO-USED_CARS
+中華汽車	C. H. AUTO	8399 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+	CALABASAS MOTORCARS	24181 Calabasas Rd.	Calabasas	汽車運輸	AUTO-USED_CARS
+加州車行	CALIFORNIA AUTOS	500 E. Garvey Ave.	Monterey Park	汽車運輸	AUTO-USED_CARS
+八達汽車	CARS 88.COM	145 Turnbull Canyon Rd.	Hacienda Hts.	汽車運輸	AUTO-USED_CARS
+勁威汽車修理中心、新舊車買賣	DIAN HILLS COLLISION CENTER	801 S. Lemon Ave.	Walnut	汽車運輸	AUTO-USED_CARS
+東華汽車公司	EASTERN AUTO SALES	2700 San Gabriel Bl.	Rosemead	汽車運輸	AUTO-USED_CARS
+家族汽車	FAMILU AUTO SALES & LEASING	1230 W. Olympic Bl.	Los Angeles	汽車運輸	AUTO-USED_CARS
+嘉輝汽車	GARFAY AUTO SALES & PARTS	8527 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+高利爾汽車	GULLIVER CAR CONNECTION CENTER	15086 Beach Bl.	Westminster	汽車運輸	AUTO-USED_CARS
+通利汽車	HO HO AUTO TRADE INC.	8064 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+香港車行	HONG KONG MOTORS INC.	9733 Klingerman Ave.	S. El Monte	汽車運輸	AUTO-USED_CARS
+理想汽車	IDEAL MOTOR GROUP	650 E. Las Tunas Dr.	San Gabriel	汽車運輸	AUTO-USED_CARS
+	KIM-HANKEY MOTORS	3071 W. Olympic Bl.	Los Angeles	汽車運輸	AUTO-USED_CARS
+全美汽車集團	KING MOTOR CORP.	2703 Stingle Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+大家汽車	KING-TAIINC	400 N. Atlantic Bl.	Monterey Park	汽車運輸	AUTO-USED_CARS
+大東汽車	L & N AUTO SALES INC.	7910 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-USED_CARS
+東方車行	L C AUTO SALES	10177 Valley Bl.	El Monte	汽車運輸	AUTO-USED_CARS
+	LUX MOTORCARS	132 W. Las Tunas Dr.	San Gabriel	汽車運輸	AUTO-USED_CARS
+	MONROVIA AUTO CARE	808 E. Huntington Dr.	Monrovia	汽車運輸	AUTO-USED_CARS
+永發舊汽車	MONTCLAIR OF DISMANTLING	4015 E. State St.	Montclair	汽車運輸	AUTO-USED_CARS
+新世紀寶馬	NEW CENTURY BMW	1139 W. Main St.	Alhambra	汽車運輸	AUTO-USED_CARS
+	ORANGE COAST AUTO GROUP	2929 Harbor Bl.	Costa Mesa	汽車運輸	AUTO-USED_CARS
+	P.K. BIMMERZ INC	5328 Topanga Canyon Bl.	Woodland Hills	汽車運輸	AUTO-USED_CARS
+中聯汽車集團	PAN WORLD GROUP	1330 W. Main St.	Alhambra	汽車運輸	AUTO-USED_CARS
+歐亞名車總匯	PEYTON CRAMER INFINITI	3233 Pacific Coast Hwy.	Torrance	汽車運輸	AUTO-USED_CARS
+	PUENTE HILLS VOLKSWAGEN	17110 Gale Ave.	City of Industry	汽車運輸	AUTO-USED_CARS
+華寶汽車	T&E ENTERPRISES INC.	1642 Potrero Grande Dr.	Rosemead	汽車運輸	AUTO-USED_CARS
+美廉汽車	UNIQUE AUTOS	14061 Beach Bl.	Westminster	汽車運輸	AUTO-USED_CARS
+金輝汽車	UPSTAR AUTO SALES & SERVICE	2435 San Gabriel Bl.	Rosemead	汽車運輸	AUTO-USED_CARS

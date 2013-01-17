@@ -1,0 +1,9 @@
+	BALLYS INT'L CORP.	344 E. 4th St.	Los Angeles	百貨購物	HANDBAGS_&_LUGGAGE
+巴黎城名牌專賣店	BRAND SHOP PARIS	1300 S. Garfield Ave.	Alhambra	百貨購物	HANDBAGS_&_LUGGAGE
+加州皮包企業有限公司	CALIFORNIA MERCHANDISE CO. INC	3728 Rockwell Ave.	El Monte	百貨購物	HANDBAGS_&_LUGGAGE
+DONY 國際貿易公司	DONY CORP.	800 S. Vail Ave.	Montebello	百貨購物	HANDBAGS_&_LUGGAGE
+萬合皮具精品公司	DYNASTY FASHIONS USA	821 N. Spring St. #116	Los Angeles	百貨購物	HANDBAGS_&_LUGGAGE
+	HOUSE OF ITALY	140 W. Valley Bl. #112	San Gabriel	百貨購物	HANDBAGS_&_LUGGAGE
+	MISTY USA CO. INC.	9323 Rush St.	S. El Monte	百貨購物	HANDBAGS_&_LUGGAGE
+香港先生	MR. HONG KONG LUGGAGE	710 Ducommun St.	Los Angeles	百貨購物	HANDBAGS_&_LUGGAGE
+	SOMPER FURS	2270 Whashington Bl.	Los Angeles	百貨購物	HANDBAGS_&_LUGGAGE

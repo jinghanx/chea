@@ -1,0 +1,16 @@
+詠春中華文化中心	WING CHUN CHINESE CULTURAL CENTER INC.	23011 Moulton Pkwy.#A-2	Laguna Hills	休閒娛樂	SPORTING_GOODS
+英式、美式撞球台及休閒用品店	ANC BILLIARDS BARSTOOLS	18605 E. Gale Ave. #130	City of Industry	休閒娛樂	SPORTING_GOODS
+喜瑞都運動器材	CERRITOS TENNIS SHOP	11900 South St. #124	Cerritos	休閒娛樂	SPORTING_GOODS
+運動器材店	COLIMA SPORTS	19241 E. Colima Rd.	Rowland Hts.	休閒娛樂	SPORTING_GOODS
+美國名牌球具專賣店	EAGLE U.S.A.	743 W. Baker St. #D	Costa Mesa	休閒娛樂	SPORTING_GOODS
+歐亞槍店	EUROARMS INC.	2834 W. Valley Bl.	Alhambra	休閒娛樂	SPORTING_GOODS
+	JEFFS SPORTING GOODS	303 E. Valley Bl.	San Gabriel	休閒娛樂	SPORTING_GOODS
+	MOUNTAINGATE COUNTRY CLUB	12445 Mountaingate Dr.	Los Angeles	休閒娛樂	SPORTING_GOODS
+雲妮運動器材	NELLIE'S EXERCISE EQUIPMINT	21210 Golden Spring Dr.	Diamond Bar	休閒娛樂	SPORTING_GOODS
+	ORANGE SPORTS CENTER	8550 Garden Grove Bl. #103	Garden Grove	休閒娛樂	SPORTING_GOODS
+網球、乒乓球用品專賣店	PRO TENNIS	18830 Brookhurst St.	Fountain Valley	休閒娛樂	SPORTING_GOODS
+運動鞋批發	PRO-JOGGS INT'L INC.	1131 Monterey Pass Rd.	Monterey Park	休閒娛樂	SPORTING_GOODS
+網球拍專賣店	RACQUETS RACKETS	411 E. Huntington Dr. #106	Arcadia	休閒娛樂	SPORTING_GOODS
+S.O.B.運動用品	S.O.B. SPORTS	1415 N. Montebello Bl. #B-6	Montebello	休閒娛樂	SPORTING_GOODS
+優越運動用品店	VANTAGE SPORTS SHOP	123 Onizuka St. #207	Los Angeles	休閒娛樂	SPORTING_GOODS
+勝利桌球	VICTORY POOL HALL & BILLARDS	10356 Garvey Ave.	El Monte	休閒娛樂	SPORTING_GOODS

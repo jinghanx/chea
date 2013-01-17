@@ -1,0 +1,21 @@
+生命背椎神經治療中心	LIFE CHIROPRACTIC	20905 Golden Springs Dr.	Diamond Bar	休閒娛樂	MASSAGE_SERVICE
+喜樂康保健中心	CGM HEALTH INC.	301 E. Valley Bl. #106	San Gabriel	休閒娛樂	MASSAGE_SERVICE
+	AJENN SPA	335 S. Harbor Bl.	La Habra	休閒娛樂	MASSAGE_SERVICE
+	AJENN SPA	600 W. Main St. #108	Alhambra	休閒娛樂	MASSAGE_SERVICE
+葵指壓	AOI SHIATSU ACUPRESSURE	14161 Newport Ave. #A	Tustin	休閒娛樂	MASSAGE_SERVICE
+	AROMA DAY SPA	310 E. Orangethorpe Ave. #A	Placentia	休閒娛樂	MASSAGE_SERVICE
+橙縣布瑞雅按摩中心	BREA BODYCARE MASSAGE SPA	385  W. Central Ave. #C	Brea	休閒娛樂	MASSAGE_SERVICE
+	CHIROPRACTIC	1227 W. Valley Bl. #102	Alhambra	休閒娛樂	MASSAGE_SERVICE
+泰式按摩	FOUR SEASON THERAPY MASSAGE	869 S. Atlantic Bl.	Monterey Park	休閒娛樂	MASSAGE_SERVICE
+金海指壓	GOLDEN SEA SPA	15319 E. Gale Ave.	City of Industry	休閒娛樂	MASSAGE_SERVICE
+翠玉指壓	GREEN SPA ACUPRESSURE	13020 Francisquito Ave.	Baldwin Park	休閒娛樂	MASSAGE_SERVICE
+洛杉磯指壓按摩中心	LA SHIATSU MASSAGE	3807 W. 8th St.	Los Angeles	休閒娛樂	MASSAGE_SERVICE
+	NEW LIONS HEALTH SPA	4551 W. Pico Bl.	Los Angeles	休閒娛樂	MASSAGE_SERVICE
+日本指壓健身中心	NIPPON SHIATSU SPA	3024 W. Ball Rd.	Anaheim	休閒娛樂	MASSAGE_SERVICE
+太平洋健康中心	PACIFIC HEALTH CENTER	529 E. Valley Bl. #258C	San Gabriel	休閒娛樂	MASSAGE_SERVICE
+真由美精油芳香療法	SCENT OF LAVENDER	2497 Huntington Dr.	San Marino	休閒娛樂	MASSAGE_SERVICE
+唐朝足藝	SERENITY SPA	215 S. Garfield Ave. #F	Monterey Park	休閒娛樂	MASSAGE_SERVICE
+岐黃聖手推拿按摩	SHAN YING ZHANG	2712 San Gabriel Bl	Rosemead	休閒娛樂	MASSAGE_SERVICE
+聯合快遞	UPEX	113 W. Garvey Ave.	Monterey Park	休閒娛樂	MASSAGE_SERVICE
+高登健康生活館	ZEN TECH MASSAGE CHAIRS	18419 Colima Rd.	Rowland Hts	休閒娛樂	MASSAGE_SERVICE
+高登健康生活館	ZEN TECH MASSAGE CHAIRS	14775 Jeffrey Rd. #I	Irvine	休閒娛樂	MASSAGE_SERVICE

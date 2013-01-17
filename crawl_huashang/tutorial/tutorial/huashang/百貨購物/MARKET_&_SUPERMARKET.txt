@@ -1,0 +1,50 @@
+168 超級市場	168 MARKET	1421 E. Valley Bl.	Alhambra	百貨購物	MARKET_&_SUPERMARKET
+168 超級市場	168 MARKET	933 E. Las Tunas Bl.	San Gabriel	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 庫卡蒙加牧場市	99 RANCH MARKET	9775 Baseline Rd.	Rancho Cucamonga	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 羅蘭崗	99 RANCH MARKET	1015 S. Nogales St.	Rowland Hts.	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 奇諾崗店	99 RANCH MARKET	2959 Chino Ave.	Chino Hills	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 哈仙達崗	99 RANCH MARKET	1625 Azusa Ave.	Hacienda Hts.	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 嘉甸那	99 RANCH MARKET	1340 W. Artesia Bl.	Gardena	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 聖地牙哥	99 RANCH MARKET	7330 clairemont Mesa Bl.	San Diego	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 聖蓋博	99 RANCH MARKET	140 W. Valley Bl.	San Gabriel	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 蒙特利公園	99 RANCH MARKET	771 W. Garvey Ave.	Monterey Park	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 阿凱迪亞	99 RANCH MARKET	1300 S. Golden West Ave.	Arcadia	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 安那罕	99 RANCH MARKET	651 N. Euclid St.	Anaheim	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 爾灣一店	99 RANCH MARKET	15333 Culver Dr	Irvine	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 爾灣二店	99 RANCH MARKET	5402 Walnut Ave.	Irvine	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 阿提夏	99 RANCH MARKET	17713 Pioneer Bl.	Artesia	百貨購物	MARKET_&_SUPERMARKET
+全鑽便利店	247 CONVENIENT STORE	1107 S. Baldwin Ave. #A	Arcadia	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 范奈司	99 RANCH MARKET	6450 N. Sepulveda Bl.	Van Nuys	百貨購物	MARKET_&_SUPERMARKET
+大華超級市場 - 芳泉谷	99 RANCH MARKET	18081 Magnolia St.	Fountain Valley	百貨購物	MARKET_&_SUPERMARKET
+第一批發超級市場	A GROCERY WAREHOUSE	1487-1489 W. Sunset Bl.	Los Angeles	百貨購物	MARKET_&_SUPERMARKET
+東方超級市場	ABC SUPERMARKET	8970 Bolsa Ave.	Westminster	百貨購物	MARKET_&_SUPERMARKET
+愛華超級市場	AI HOA SUPERMARKET	860 N. Hill St.	Los Angeles	百貨購物	MARKET_&_SUPERMARKET
+英明超級市場	ANH MINH SUPERMARKET	10451 Bolsa Ave. #111-116	Westminster	百貨購物	MARKET_&_SUPERMARKET
+韓國超級市場	ARCADIA KOREAN MARKET	171 E. Live Oak Ave. #A	Arcadia	百貨購物	MARKET_&_SUPERMARKET
+亞洲超級市場	ASIA SUPERMARKET	910 W. Valley Bl.	Alhambra	百貨購物	MARKET_&_SUPERMARKET
+萬樂超級市場	BANGLUCK MARKET	5170 Hollywood Bl.	Hollywood	百貨購物	MARKET_&_SUPERMARKET
+加州超市	CALI MART	1000 E. Valley Bl.	Alhambra	百貨購物	MARKET_&_SUPERMARKET
+頂好超級市場	CERRITOS DIHO MARKET	11700 E. 183rd St.	Artesia	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	19-1/2 E. Huntington Dr.	Arcadia	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	1003 E. Valley Bl.	San Gabriel	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	159 E. College St.	Covina	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	101 W. Whittier Bl.	La Habra	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	1095 E. Main St.	Tustin	百貨購物	MARKET_&_SUPERMARKET
+	CLARO'S ITALIAN MARKETS	1655 N. Mountain Ave.	Upland	百貨購物	MARKET_&_SUPERMARKET
+瑞發超級市場	DEL MAR SUPERMARKET	7822 Garvey Ave.	Rosemead	百貨購物	MARKET_&_SUPERMARKET
+	ENBUN MARKET	124 Japanese Village Plaza	Los Angeles	百貨購物	MARKET_&_SUPERMARKET
+遠東超級市場	FAR EAST SUPERMARKET	758 New High St.	Los Angeles	百貨購物	MARKET_&_SUPERMARKET
+HK2 生鮮綜合市場	FOOD DISTRICT	987 S. Glendora Ave.	W. Covina	百貨購物	MARKET_&_SUPERMARKET
+HK2 生鮮綜合市場	FOOD DISTRICT	18414 Colima Rd.	Rowland Hts.	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	6436 Spring St.	Long Beach	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	133 E. Foothill Bl.	Arcadia	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	1000 W. West Covina Pkwy.	W. Covina	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	2121 W. Main St. #300	Alhambra	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	16672 Beach Bl.	Huntington Beach	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	7880 Valley View St.	Buena Park	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	5615 Woodruff Ave.	Lakewood	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	829 W. Foothill Bl.	Upland	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	4211 Eagle Rock Bl.	Los Angeles	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	2001 W. Whittier Bl.	La Habra	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	15745 Imperial Hwy.	La Mirada	百貨購物	MARKET_&_SUPERMARKET
+新鮮方便鄰戶超市	FRESH & EASY NEIGHBORHOOD MARKET	10930 Rosecrans Ave.	Norwalk	百貨購物	MARKET_&_SUPERMARKET

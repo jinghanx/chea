@@ -1,0 +1,3 @@
+匯豐裝訂廠	HB BINDING INC.	319 Agostino Rd.	San Gabriel	事務文具	BINDING_SERVICES
+明宜裝訂廠	LIPPO BINDING INC.	1734 Tyler Ave.	S. El Monte	事務文具	BINDING_SERVICES
+	MAIL AND MORE	385 S. Lemon Ave. #E	Walnut	事務文具	BINDING_SERVICES

@@ -1,0 +1,50 @@
+卓越租車	APEX CAR RENTAL	7410 Garvey Ave.	Rosemead	汽車運輸	AUTO-RENTAL
+富聚汽車	AUTOMEC SALES & SERVICE	8685 Garvey Ave.	Rosemead	汽車運輸	AUTO-RENTAL
+如意汽車城	BEST START AUTO CORP.	9559 E. Valley Bl.	El Monte	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	539 W. Valley Bl.	Alhambra	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	18750 Colima Rd.#E	Rowland Hts	汽車運輸	AUTO-RENTAL
+超群汽車	AWARD AUTO DEALER INC.	8449 Garvey Ave.	Rosemead	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	20855 Golden Spring Dr. #100	Diamond Bar	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	1212 W. Whittier Bl.	Montebello	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	9815 Wilshire Bl.	Beverly Hills	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	11747 Valley Bl.	El Monte	汽車運輸	AUTO-RENTAL
+美而廉租車公司	BUDGET CAR & TRUCK RENTAL	1723 Wilshire Bl.	Santa Monica	汽車運輸	AUTO-RENTAL
+哈崗汽車大小卡車出租	HACIENDA AUTO CENTER	15882 E. Gale Ave.	Hacienda Hts.	汽車運輸	AUTO-RENTAL
+OK 租車	OK RENT-A-CAR	12301 Santa Monica Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+特廉租車	SUPER CHEAP CAR RENTAL	18017 Sky Park Cir. #P	Irvine	汽車運輸	AUTO-RENTAL
+特廉租車	SUPER CHEAP CAR RENTAL	10212 S. La Cienega Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+頂好貴賓汽車服務有限公司	A TOP LINE & BEST LIMOUSINE CO. LLC.	535 N. Alhambra Ave. #B	Monterey Park	汽車運輸	AUTO-RENTAL
+	AA'A RENT A CAR	5959 W. Century Bl. #118	Los Angeles	汽車運輸	AUTO-RENTAL
+全美租車公司	ALL STATES CAR RENTAL	5249 W. Century Bl	Los Angeles	汽車運輸	AUTO-RENTAL
+全美租車公司	ALL STATES CAR RENTAL	8705 La Tijera Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+	ALLIED RENT-A-CAR	3540 Wilshire Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+	ALLIED RENT-A-CAR	5280 W. Central Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+	ALLIED RENT-A-CAR	1333 S. Main St.	Santa Ana	汽車運輸	AUTO-RENTAL
+常常喜樂租車公司	ALWAYS REJOICE AUTO RENTAL LLC	18470 Colima Rd.	Rowland Hts.	汽車運輸	AUTO-RENTAL
+	AM-PM RENT A CAR	4500 Campus Dr. #332	Newport Beach	汽車運輸	AUTO-RENTAL
+	ARIANA RENT-A-CAR INC	7135 W. Manchester Ave. #6	Los Angeles	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	330 S. Garfield Ave. #108	Alhambra	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	14516 E. Whittier Bl.	Whittier	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	112 N. First Ave.	Arcadia	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	1027 Broadway	Santa Monica	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	888 S. Figueroa St. #130	Los Angeles	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	9545 Reseda Bl. #5	Northridge	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	14516 E. Whittier Bl.	Whittier	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	4100 Donald Douglas Dr.	Long Beach	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	5080 E. Montclair Plaza Ln.	Montclair	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	570 N. Lake Ave.	Pasadena	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR	1105 N. Harbor Bl.	Fullerton	汽車運輸	AUTO-RENTAL
+	AVIS RENT-A-CAR			汽車運輸	AUTO-RENTAL
+	BEST WAY RENT A CAR	1150 E. Colorado Bl.	Pasadena	汽車運輸	AUTO-RENTAL
+	BEST WAY RENT A CAR	1025 S. San Fernando Bl.	Burbank	汽車運輸	AUTO-RENTAL
+	BEST WAY RENT A CAR	17861 Sierra Hwy.	Canyon Country	汽車運輸	AUTO-RENTAL
+比佛利山租車公司	BEVERLY HILLS RENT-A-CAR	9220 S. Sepulveda Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+比佛利山租車公司	BEVERLY HILLS RENT-A-CAR	3939 W. Coast Hway.	Newport Beach	汽車運輸	AUTO-RENTAL
+比佛利山租車公司	BEVERLY HILLS RENT-A-CAR	6085 Venice Bl.	Los Angeles	汽車運輸	AUTO-RENTAL
+比佛利山租車公司	BEVERLY HILLS RENT-A-CAR	9732 S. Santa Monica Bl.	Beverly Hills	汽車運輸	AUTO-RENTAL
+	BUDGET CAR RENTAL	800 N. Alameda St.	Los Angeles	汽車運輸	AUTO-RENTAL
+企業租車公司	ENTERPRISE RENT-A-CAR	17120 S. Main St.	Gardena	汽車運輸	AUTO-RENTAL
+企業租車公司	ENTERPRISE RENT-A-CAR	1890 E. Colorado Bl.	Pasadena	汽車運輸	AUTO-RENTAL
+企業租車公司	ENTERPRISE RENT-A-CAR	1944 S. Figueroa St.	Los Angeles	汽車運輸	AUTO-RENTAL
+企業租車公司	ENTERPRISE RENT-A-CAR	1300 W. Main St.	Alhambra	汽車運輸	AUTO-RENTAL
+企業租車公司	ENTERPRISE RENT-A-CAR	221 E. Pomona Bl.	Monterey Park	汽車運輸	AUTO-RENTAL

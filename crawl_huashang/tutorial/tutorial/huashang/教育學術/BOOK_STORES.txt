@@ -1,0 +1,50 @@
+柳絲書坊		20265 Valley Bl. #Q	Walnut	教育學術	BOOK_STORES
+榮主書房	ALLELUIA BOOKSTORE	603 N. New Ave. #A-C	Monterey Park	教育學術	BOOK_STORES
+榕書坊	AMAR ZONE	1221 N. Grand Ave.	Walnut	教育學術	BOOK_STORES
+	BOOK SMART	253 S. San Gabriel Bl.	San Gabriel	教育學術	BOOK_STORES
+啟思美語	CHASE BOOK CO.	530 N. Valencia St.	Alhambra	教育學術	BOOK_STORES
+中華書局	CHINA BOOK STORE	652 N. Broadway #B	Los Angeles	教育學術	BOOK_STORES
+世界日報圖書部	CHINESE DAILY NEWS BOOK SECTION	724 Monterey Pass Rd.	Monterey Park	教育學術	BOOK_STORES
+台福傳播中心 - 中心書房	EFC BOOKSTORE	9386 Telstar Ave.	El Monte	教育學術	BOOK_STORES
+開明書屋	ENLIGHTEN BOOKS & GIFTS	1015 Nogalas St.#133	Rowland Hts	教育學術	BOOK_STORES
+開明書屋	ENLIGHTEN BOOKS & GIFTS	8150 E. Garvey Ave. #122M	Rosemead	教育學術	BOOK_STORES
+長青書局	EVA BOOKSTORE	5404  Walnut Ave. #D	Irvine	教育學術	BOOK_STORES
+長青書局(聖蓋博)大華市場	EVERGREEN BOOKS	140 W. Valley Bl. #125	San Gabriel	教育學術	BOOK_STORES
+長青書局(雪市)頂好市場	EVERGREEN BOOKS	18321 S. Pioneer Bl.	Artesia	教育學術	BOOK_STORES
+長青書局(柔市)鑽石廣場	EVERGREEN BOOKS	8118 E. Garvey Ave. #F	Rosemead	教育學術	BOOK_STORES
+長青文化公司總店	EVERGREEN BOOKS CO.	760 W. Garvey Ave.	Monterey Park	教育學術	BOOK_STORES
+長城書店	GREAT WALL BOOKS & ARTS	970 N. Broadway #104	Los Angeles	教育學術	BOOK_STORES
+峰鳥矯正英語發音教材	HUMMINGBIRD AMERICAN ENGLISH PRONUNCIATION	1721 Garfield Ave. #A	Alhambra	教育學術	BOOK_STORES
+吉利書局	JILIE INC	1283 E. Valley Bl.	Alhambra	教育學術	BOOK_STORES
+JUMP Q 教育教材書局	JUMP Q BOOK STORE	170 S. Western Ave. #C	Los Angeles	教育學術	BOOK_STORES
+JUMP Q 教育教材書局	JUMP Q BOOK STORE	20651 Golden Spring Dr. #B	Diamond Bar	教育學術	BOOK_STORES
+JUMP Q 教育教材書局	JUMP Q BOOK STORE	8608 Garden Grove Bl.	Garden Grove	教育學術	BOOK_STORES
+京華書局	KIM HUA BOOK STORE	18414 Colima Rd. #E	Rowland Hts.	教育學術	BOOK_STORES
+金石堂書局	KINGSTON CULTURE PLAZA INC.	135 S. San Gabriel Bl. #B	San Gabriel	教育學術	BOOK_STORES
+金石堂書局	KINGSTON CULTURE PLAZA INC.	18558 Gale Ave. #162	City of Industry	教育學術	BOOK_STORES
+金石堂書局	KINGSTON CULTURE PLAZA INC.	5404 Walnut Ave. #D	Irvine	教育學術	BOOK_STORES
+金石堂書局	KINGSTON CULTURE PLAZA INC.	18451 E. Colima Rd.	Rowland Hts.	教育學術	BOOK_STORES
+紀伊國屋書店	KINOKUNIYA BOOK STORES	3030 Harbor Bl. #G3	Costa Mesa	教育學術	BOOK_STORES
+紀伊國屋書店	KINOKUNIYA BOOK STORES	123 Astronaut Ellison S Onizuka St. #205	Los Angeles	教育學術	BOOK_STORES
+漢牛書局	KNOWLEDGE MIRROR	529 E. Valley Bl.#178B	San Gabriel	教育學術	BOOK_STORES
+聯菁書局	LEUN SHING BOOKSTORE	912 E. Garvey Ave.	Monterey Park	教育學術	BOOK_STORES
+蒙特利書局	MONTEREY BOOKS	107 E. Garvey Ave.	Monterey Park	教育學術	BOOK_STORES
+	MR BOOK'S CLUB	14812 Beach Bl.	La Mirada	教育學術	BOOK_STORES
+吳興記	N.H.K. BOOKS	29 E. Valley Bl.	Alhambra	教育學術	BOOK_STORES
+吳興記	N.H.K. BOOKS	518 W. Garvey Ave.	Monterey Park	教育學術	BOOK_STORES
+樂聲唱片圖書公司	NEO HAPPYLAND CO.	988 N. Hill St. #108	Los Angeles	教育學術	BOOK_STORES
+世界書局	NEW WORLD BOOK STORE	1234 Golden West Ave.	Arcadia	教育學術	BOOK_STORES
+黎明圖書公司	NIMING BOOKS CO.	969 N. Hill St.	Los Angeles	教育學術	BOOK_STORES
+	OPAMP TECHNICAL BOOKS	1033 N. Sycamore Ave.	Los Angeles	教育學術	BOOK_STORES
+海外校園	OVERSEAS CAMPUS MAGAZINE	1753 Cabrillo Ave.	Torrance	教育學術	BOOK_STORES
+南華書局	PHOENIX BOOK	1436 S. Atlantic Bl.	Alhambra	教育學術	BOOK_STORES
+三聯書局	SINO UNITED PUBLISH (L.A.) INC. - S U P BOOKSTORE	500 N. Atlantic Bl. #130	Monterey Park	教育學術	BOOK_STORES
+書原廣場	SOYODO BOOKS	201 S. San Gabriel Bl.	San Gabriel	教育學術	BOOK_STORES
+書原廣場	SOYODO BOOKS	1398 Monterey Pass Rd.	Monterey Park	教育學術	BOOK_STORES
+書原廣場	SOYODO BOOKS	5930 Temple City Bl.	Temple City	教育學術	BOOK_STORES
+書原廣場	SOYODO BOOKS	517 W. Valley Bl.	Alhambra	教育學術	BOOK_STORES
+見證書室	TESTIMONY BOOKROOM	8141 Hellman Ave.	Rosemead	教育學術	BOOK_STORES
+吉利書局	TNA BOOKS & MUSIC CORP	140 W. Valley Bl. #110	San Gabriel	教育學術	BOOK_STORES
+今天藝術書坊	TODAY BOOKS	534 E. Valley Bl. #7	San Gabriel	教育學術	BOOK_STORES
+福斯文化圖書	V & W CULTURE CO.	18850 Norwalk Bl.	Artesia	教育學術	BOOK_STORES
+惠康書局	WELCOME BOOKS & GIFTS INC.	1611 Azusa Ave.	Hacienda Hts.	教育學術	BOOK_STORES

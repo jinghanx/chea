@@ -1,0 +1,25 @@
+方一漢中醫皮膚診所	FANG YIHAN CLINIC - LEO FANG	2707 E. Valley Bl. #217	W. Covina	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+方一漢中醫皮膚診所	FANG YIHAN CLINIC - LEO FANG	927 S. Atlantic Bl.	Monterey Park	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+過敏、哮喘及呼吸醫療中心-KENNETH T. KIM M.D.	ALLERGY ASTHMA-KENNETH T. KIM M.D.	2600 Redondo Ave. #400	Long Beach	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+徐裕倫醫學博士-過敏、氣喘、呼吸道治療中心	HSU YU LUEN M.D.	207 S. Santa Anita St. #P15	San Gabriel	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+林鼎凱醫學博士	ALLERGY & ASTHMA CENTER - HENRY LIN M.D.	7880 Kew Ave.	Rancho Cucamonga	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+林鼎凱醫學博士	ALLERGY & ASTHMA CENTER - HENRY LIN M.D.	13768 Roswell Ave. #215	Chino	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+蘆田成人、兒童過敏醫療診所	ASHIDA ELLYN M.D.	420 E. 3rd St. #706	Los Angeles	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+蘆田成人、兒童過敏醫療診所	ASHIDA ELLYN M.D.	4201 Torrance Bl. #680	Torrance	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+姜定原醫師	CHIANG DEAN T. M.D.	3440 Lomita Bl. #228	Torrance	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+鄧博仁醫師	DENQ STEPHEN P. M.D.	18251 Roscoe Bl. #105	Northridge	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+吳世豐耳鼻喉科醫學博士	GOH ALBERT S. M.D. F.A.C.S.	14642 Newport Ave. #460	Tustin	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+賴英哲醫師	LAI TED Y. M.D.	210 N. Garfield Ave. #303	Monterey Park	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+尚．雷森醫師	LESON SEAN M.D.	12665 Garden Grove Bl. #611	Garden Grove	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+林兆義醫師	LIN CHAO-I M.D. F.A.A.P.	505 S. Main St. #250	Orange	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+	MEHRDAD ARIANI K. M.D.	18350 Roscoe Bl. #400	Northridge	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+	PARKER PETER J. M.D.	414 N. Camden Dr. #975	Beverly Hills	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+	PARKER PETER J. M.D.	1100 W. Glenoaks Bl.	Glendale	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+	TIMOTHY PHAM M.D.	301 W. Huntington Dr. #206	Arcadia	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+蔡濬惺醫學博士	TSAI EUGENE W. M.D.	1294 W. 6th St. #105	San Pedro	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+蔡濬惺醫學博士	TSAI EUGENE W. M.D.	12225 South St. #102	Artesia	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+黃炳林醫師	WONG STEPHEN C. M.D.	1850 S. Azusa Ave. #206	Hacienda Hts.	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+黃炳林醫師	WONG STEPHEN C. M.D.	330 S. Garfield Ave. #116	Alhambra	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+胡大興醫師	WU TAI-HING M.D.	2415 W. Valley Bl. #C	San Gabriel	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+余俊華醫學博士	YU FRANCIS C. M.D.	1401 S. Brookhurst Rd. #106	Fullerton	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY
+余俊華醫學博士	YU FRANCIS C. M.D.	14150 Culver Dr. #302	Irvine	醫療保健	DOCTOR-ALLERGY_&_IMMUNOLOGY

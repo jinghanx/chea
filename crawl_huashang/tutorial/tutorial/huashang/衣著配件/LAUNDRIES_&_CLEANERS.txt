@@ -1,0 +1,36 @@
+88 高級乾洗店	88 DRY CLEANERS	1131 E. Las Tunas Dr.	San Gabriel	衣著配件	LAUNDRIES_&_CLEANERS
+利英乾洗店、修改衣服	ANN'S DRY CLEAN	316  W. Valley Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+大西洋乾洗店	ATLANTIC CLEANERS	2010 S. Atlantic Bl.	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+大道乾洗店‧衣服修改	BOULEVARD CLEANERS	144 E. Duarte Rd.	Arcadia	衣著配件	LAUNDRIES_&_CLEANERS
+	BUCKBOARD CLEANERS	1465 E. Valley Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+	CHIEF CLEANERS	925 W. Valley Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+城市乾洗	CITY CLEANERS	214 S. Garfield Ave.	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+	CROWN CLEANERS	831 W. Las Tunas Dr.	San Gabriel	衣著配件	LAUNDRIES_&_CLEANERS
+	CRYSTAL DRY CLEANERS	3146 Colima Rd.	Hacienda Hts.	衣著配件	LAUNDRIES_&_CLEANERS
+進市乾濕洗衣店	DIN'S CLEANERS & LAUNDRY	921 W. Valley Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+一元乾洗店	DOLLARS CLEANERS	304 N. Garfield Ave. #C-1	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+特快乾洗店	DRYCLEAN EXPRESS	1028 E. Valley Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+精英乾洗	ELITE DRY CLEANERS	1310 Fair Oaks Ave.	S. Pasadena	衣著配件	LAUNDRIES_&_CLEANERS
+	E-Z 4U CLEANERS	733 W. Naomi Ave. #K	Arcadia	衣著配件	LAUNDRIES_&_CLEANERS
+	E-Z 4U CLEANERS	528 S. Occidental Ave.	Los Angeles	衣著配件	LAUNDRIES_&_CLEANERS
+	FAIRGROVE  CLEANER	15416 E. Fairgrove Ave.	La Puente	衣著配件	LAUNDRIES_&_CLEANERS
+新潮乾洗店	FASHION CLEANERS	1433 Huntington Dr.	S. Pasadena	衣著配件	LAUNDRIES_&_CLEANERS
+快速洗衣店	FAST CLEANERS	234 S. Atlantic Bl.	Alhambra	衣著配件	LAUNDRIES_&_CLEANERS
+寶島乾洗店	FORMOSA CLEANERS	9326 E. Valley Bl.	Rosemead	衣著配件	LAUNDRIES_&_CLEANERS
+嘉惠乾洗店	GARFIELD CLEANERS	2510 W. Whittier Bl.	Montebello	衣著配件	LAUNDRIES_&_CLEANERS
+	HENRY'S CLEANERS	3327 N. San Gabriel Bl. #C	Rosemead	衣著配件	LAUNDRIES_&_CLEANERS
+家庭乾洗店	HOME LAUNDRY CO.	450 S. Arroyo Pkwy.	Pasadena	衣著配件	LAUNDRIES_&_CLEANERS
+茱莉乾洗專門店	JASMINE CLEANERS	1014 Huntington Dr.	Duarte	衣著配件	LAUNDRIES_&_CLEANERS
+露怡絲乾洗店	LEWIS CLEANERS INC.	19061E. Colima Rd.	Rowland Hts.	衣著配件	LAUNDRIES_&_CLEANERS
+立吉乾洗	LUCKY CLEANER	625 E. Valley Bl. #B	San Gabriel	衣著配件	LAUNDRIES_&_CLEANERS
+洗衣店	MAGIC CLEANERS	828 S. Atlantic Bl.	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+	MONTEREY PARK 1 HOUR CLEANERS	601 W. Garvey Ave. #A	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+蒙哥馬利乾洗店	MONTY CLEANERS	1004 S. Baldwin Ave.	Arcadia	衣著配件	LAUNDRIES_&_CLEANERS
+	NEW CASTLE CLEANERS	1145 W. Huntington Dr.	Arcadia	衣著配件	LAUNDRIES_&_CLEANERS
+	NORGE CLEANERS	636 E. Garvey Ave.	Monterey Park	衣著配件	LAUNDRIES_&_CLEANERS
+	NORGE CLEANERS	1648 Tyler Ave. #F	S. El Monte	衣著配件	LAUNDRIES_&_CLEANERS
+OK乾洗店	OK CLEANERS	2625 N. Garey Ave.	Pomona	衣著配件	LAUNDRIES_&_CLEANERS
+羅珊乾洗店(大華超市)	ROSAM CLEANERS	840 W. Duarte Rd.	Arcadia	衣著配件	LAUNDRIES_&_CLEANERS
+	ROUND THE CLOCK CLEANERS	827 E. Colorado Bl.	Pasadena	衣著配件	LAUNDRIES_&_CLEANERS
+天普乾洗	SONA'S CLEANERS	9582 Lower Azusa Rd.	Temple City	衣著配件	LAUNDRIES_&_CLEANERS
+TINA 乾洗 ．修改衣服	TINA DRY CLEAN & ALTERATION	7758 Garvey Ave.	Rosemead	衣著配件	LAUNDRIES_&_CLEANERS

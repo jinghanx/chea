@@ -1,0 +1,12 @@
+四季酒業公司	CNS ENTERPRISES INC.	2708 Chico Ave.	S. El Monte	餐飲食品	WINE_&_TOBACCO_AGENCIES
+世華國際酒品公司	SSC INT'L INC.	10730  Weaver Ave.	S. El Monte	餐飲食品	WINE_&_TOBACCO_AGENCIES
+	BIG TREE WINE INC.	6415 S. Compton Ave.	Los Angeles	餐飲食品	WINE_&_TOBACCO_AGENCIES
+雪茄專賣店	CIGAR PALACE	153 E. Foothill Bl.	Arcadia	餐飲食品	WINE_&_TOBACCO_AGENCIES
+J & K煙草屋	J & K CIGARETTE CENTER	2567 W. Via Campo	Montebello	餐飲食品	WINE_&_TOBACCO_AGENCIES
+洛杉磯國際貿易公司(香煙)	LOH SUN INT'L INC.	1709 N. Spring St.	Los Angeles	餐飲食品	WINE_&_TOBACCO_AGENCIES
+聖安東尼奧酒廠	SAN ANTONIO WINERY	737 Lamar St.	Los Angeles	餐飲食品	WINE_&_TOBACCO_AGENCIES
+聖安東尼奧酒廠	SAN ANTONIO WINERY	2802 S. Milliken Ave.	Ontario	餐飲食品	WINE_&_TOBACCO_AGENCIES
+香煙	TABACCO & GIFT	9220 Valley Bl.	Rosemead	餐飲食品	WINE_&_TOBACCO_AGENCIES
+香煙作坊	TOBACCO HEAVEN	301 W. Valley Bl.#208	San Gabriel	餐飲食品	WINE_&_TOBACCO_AGENCIES
+	WHALEY'S LIQUOR	9624 E. Las Tunas Dr.	Temple City	餐飲食品	WINE_&_TOBACCO_AGENCIES
+白山香煙店	WHITER MUONTAIN	1703 W. Valley Bl.	Alhambra	餐飲食品	WINE_&_TOBACCO_AGENCIES

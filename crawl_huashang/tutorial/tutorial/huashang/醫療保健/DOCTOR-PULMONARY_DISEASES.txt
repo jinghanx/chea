@@ -1,0 +1,8 @@
+	AMERICAN LUNG ASSOCIATION	3325 Wilshire Bl. #900	Los Angeles	醫療保健	DOCTOR-PULMONARY_DISEASES
+陳康寧醫學博士	CHEN HUO M.D.	600 N. Garfield Ave. #105	Monterey Park	醫療保健	DOCTOR-PULMONARY_DISEASES
+朱欽賢醫學博士	CHU SHAN C. M.D. F.A.C.P.	500 N. Garfield Ave. #204	Monterey Park	醫療保健	DOCTOR-PULMONARY_DISEASES
+肺部與睡眠失調中心-何安醫學博士	FRANKLIN FLEET & LUNG DISORDERS CENTER	2707 E. Valley Bl. #203	W. Covina	醫療保健	DOCTOR-PULMONARY_DISEASES
+黃駿剛醫師	HUANG DAVID C.K. M.D.	275 Victoria St. #2-B	Costa Mesa	醫療保健	DOCTOR-PULMONARY_DISEASES
+桂懷瑞醫學博士	KUEI JOSEPH H. M.D.F.A.C.P. F.C.C.P.	500 N. Garfield Ave. #204	Monterey Park	醫療保健	DOCTOR-PULMONARY_DISEASES
+廖政炯醫學博士	LIAO JENG-JONG M.D. F.C.C.P	500 N. Garfield Ave. #204	Monterey Park	醫療保健	DOCTOR-PULMONARY_DISEASES
+呂津洲醫師	LU JIN JOU M.D.	11180 Warner Ave. #461	Fountain Valley	醫療保健	DOCTOR-PULMONARY_DISEASES

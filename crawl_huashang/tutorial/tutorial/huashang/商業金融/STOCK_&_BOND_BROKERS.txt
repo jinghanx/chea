@@ -1,0 +1,50 @@
+環球證券	GLOBAL-AMERICAN INVESTMENTS INC.	20277 Valley Bl. #A	Walnut	商業金融	STOCK_&_BOND_BROKERS
+美亞證券	MAIA SECURITIES INC.	17800 Castleton St. #435	City of Industry	商業金融	STOCK_&_BOND_BROKERS
+摩根史坦利-余崇孝	MORGAN STANLEY - SEAN YU	601 S. Figueroa St. 28th Fl.	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+摩根史坦利-殷崇根	MORGAN STANLEY SMITH BARNEY-KEN YIN	1453 3rd St. #200	Santa Monica	商業金融	STOCK_&_BOND_BROKERS
+美國統一證券公司	ACE DIVERSIFIED CAPITAL INC.	923 E. Valley Bl. #203	San Gabriel	商業金融	STOCK_&_BOND_BROKERS
+美國東方証券公司	AMERICAN EASTERN SECURITIES	865 S. Figueroa St. #3340	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+美國百匯外匯投資	BACERA COM	618 W Main St. #E	Alhambra	商業金融	STOCK_&_BOND_BROKERS
+美國必得金融集團	BETRADER FINANCIAL CORP.	1101 E. Garvey Ave. #206	Monterey Park	商業金融	STOCK_&_BOND_BROKERS
+	CHESAPEAKE INVESTMENT	3 Park Pl. #770	Irvine	商業金融	STOCK_&_BOND_BROKERS
+中文投資網.-WARREN 王	CHINESE INVESTORS INC	411 E. Huntington Dr. #313	Arcadia	商業金融	STOCK_&_BOND_BROKERS
+京華山一、證券、理財	CORE PACIFIC SECURITIES USA LLC	800 S. Barranca Ave. #270	Covina	商業金融	STOCK_&_BOND_BROKERS
+科威證券公司	CROWELL WEEDON & CO.	5601 Lindero Canyon #210	Westlake Village	商業金融	STOCK_&_BOND_BROKERS
+科威證券公司	CROWELL WEEDON & CO.	624 S. Grand Ave. #2600	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+科威證券公司	CROWELL WEEDON & CO.	660 Newport Center Dr. #550	Newport Beach	商業金融	STOCK_&_BOND_BROKERS
+科威證券公司	CROWELL WEEDON & CO.	300 Oceangate #800	Long Beach	商業金融	STOCK_&_BOND_BROKERS
+科威證券公司	CROWELL WEEDON & CO.	1050 Lakes Dr. #250	W. Covina	商業金融	STOCK_&_BOND_BROKERS
+DAYLIAN 基金	DAYLIAN CAPITAL MANAGEMENT LLC.	10100 Santa Monica B. #300	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+	E TECH TRADING INC.	17800 Castleton St. #407	City of Industry	商業金融	STOCK_&_BOND_BROKERS
+億創理財	E*TRADE FINANCIAL	11713 Gorham Ave.	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+億創理財	E*TRADE FINANCIAL	3200 Bristol St. #120	Costa Mesa	商業金融	STOCK_&_BOND_BROKERS
+東美證券公司	EW INVESTMENTS INC.	205 E. Las Tunas Dr.	San Gabriel	商業金融	STOCK_&_BOND_BROKERS
+寶盛股票投資公司 - 郭欽鴻	FINANCIAL WEST GROUP	2197 Wind River Ln.	Rowland Hts.	商業金融	STOCK_&_BOND_BROKERS
+第一理財	FIRSTRADE SECURITIES INC.	133-25 37th Ave.	Flushing	商業金融	STOCK_&_BOND_BROKERS
+國際外匯-莫凱莉	FOREX - KATE MO	20321 Vejar Rd.	Walnut	商業金融	STOCK_&_BOND_BROKERS
+美國嘉盛集團	FOREX.COM			商業金融	STOCK_&_BOND_BROKERS
+富通證券	FORTUNE SECURITIES INC.	388 E. Valley Bl. #208	Alhambra	商業金融	STOCK_&_BOND_BROKERS
+富邦證券	FUBON SECURITIES USA LLC	3452 E. Foothill Bl. #100	Pasadena	商業金融	STOCK_&_BOND_BROKERS
+美國格林證券與保險公司	GLOBALINK SECURITIES INC.	1045 W. Huntington Dr. #201	Arcadia	商業金融	STOCK_&_BOND_BROKERS
+華爾街證券	KYSON & CO.	411 E. Huntington Dr. #212	Arcadia	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資	MERRILL LYNCH	225 S. Lake Ave. #100	Pasadena	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資	MERRILL LYNCH	350 S. Grand Ave. 27th Fl.	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資	MERRILL LYNCH	145 S. State College Bl. #300	Brea	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資	MERRILL LYNCH	801 W. Huntington Dr. #100	Arcadia	商業金融	STOCK_&_BOND_BROKERS
+美林證券	MERRILL LYNCH	1851 E. 1st St. #1500	Santa Ana	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資	MERRILL LYNCH	650 Town Center Dr. #500	Costa Mesa	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資-江趙蘭潤	MERRILL LYNCH - AMY L. KIANG	650 Town Center Dr. #500	Costa Mesa	商業金融	STOCK_&_BOND_BROKERS
+美林證券 - 林富文首席副理	MERRILL LYNCH - EVAN F. LING	145 S. State College Bl. #300	Brea	商業金融	STOCK_&_BOND_BROKERS
+美林金融投資 - 吳振宇	MERRILL LYNCH - WILLIAM NG	225 S. Lake Ave. #100	Pasadena	商業金融	STOCK_&_BOND_BROKERS
+大通美邦證券公司-尹玉枝第一副總裁	MORGAN STANLEY SMITH BARNEY -	301 N. Lake Ave. Penthouse	Pasadena	商業金融	STOCK_&_BOND_BROKERS
+新港期貨投資公司	NEWPORT COMMODITIES	817 Dianthus St.	Manhattan Beach	商業金融	STOCK_&_BOND_BROKERS
+經緯證券投資公司	QUEST CAPITAL STRATEGY TRADING	23832 Rockfield Bl. #130	Lake Forest	商業金融	STOCK_&_BOND_BROKERS
+	SALOMON SMITH BARNEY - ALLEN ZHONG	500 Pointe Dr. Bldg.10 #400	Brea	商業金融	STOCK_&_BOND_BROKERS
+史考特證券	SCOTTRADE SECURITIES	224 N. Lake Ave. #110	Pasadena	商業金融	STOCK_&_BOND_BROKERS
+史考特證券	SCOTTRADE SECURITIES	227 W. Valley Bl. #178B	San Gabriel	商業金融	STOCK_&_BOND_BROKERS
+金原證券	SEVEN POINTS CAPITAL	1039 E. Valley Bl. #B112	San Gabriel	商業金融	STOCK_&_BOND_BROKERS
+美邦證券公司	SMITH BARNEY	3 Pointe Dr. #111	Brea	商業金融	STOCK_&_BOND_BROKERS
+	SMITH BARNEY	9665  Wilshire Bl. #600	Beverly Hills	商業金融	STOCK_&_BOND_BROKERS
+史密斯幫您證券公司	SMITH BARNEY	444 S. Flower St. 35th Fl.	Los Angeles	商業金融	STOCK_&_BOND_BROKERS
+美邦證券公司-丁威特	SMITH BARNEY - DEAN WITTER	2040 Main St. #600	Irvine	商業金融	STOCK_&_BOND_BROKERS
+美邦證券公司 - 李夢飛	SMITH BARNEY - FREDDY LEE	55 S. Lake Ave. #800	Pasadena	商業金融	STOCK_&_BOND_BROKERS

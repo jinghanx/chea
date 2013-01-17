@@ -1,0 +1,15 @@
+123 攝影	123 PHOTO	123 E. Garvey Ave.	Monterey Park	聲光影視	PHOTO_FINISHING
+安納罕一小時沖印	A BEST HOUR PHOTO	941 S. Euclid St.	Anaheim	聲光影視	PHOTO_FINISHING
+朴氏相片	ADVANCED PHOTO & STUDIO	2085 S. Atlantic Bl. #A	Monterey Park	聲光影視	PHOTO_FINISHING
+福祿喜數碼沖洗店	FLASHBACK PHOTO & DIGITAL LAB	10161 Bolsa Ave. #104B	Westminster	聲光影視	PHOTO_FINISHING
+	FROMEX PHOTO SYSTEMS	745 E. Valley Bl.	San Gabriel	聲光影視	PHOTO_FINISHING
+金像沖印	GOLDEN IMAGE PHOTO	18414 Colima Rd. #B	Rowland Hts.	聲光影視	PHOTO_FINISHING
+香港一小時沖印	HONG KONG PHOTO EXPRESS	133 S. San Gabriel Bl.	San Gabriel	聲光影視	PHOTO_FINISHING
+萬事達專業數位沖印	IRVINE DIGITAL PHOTO	17982 Sky Park Cir. #N	Irvine	聲光影視	PHOTO_FINISHING
+印像數碼沖印	NICE ONE HOUR PHOTO	748 W. Garvey Ave.	Monterey Park	聲光影視	PHOTO_FINISHING
+印像一小時沖印	NICE ONE HOUR PHOTO	9460 Whittier Bl.	Pico Rivera	聲光影視	PHOTO_FINISHING
+	PC COLOUR LAB INC.	749 E. Temple St.	Los Angeles	聲光影視	PHOTO_FINISHING
+第一一小時沖印	PHOTO TIME	8150 E. Garvey Ave. #120	Rosemead	聲光影視	PHOTO_FINISHING
+皇家數碼彩色沖印	ROYAL ONE HOUR PHOTO	8512 Westminster Ave. #C	Westminster	聲光影視	PHOTO_FINISHING
+天普市照相器材公司	TEMPLE CITY CAMERA SHOP	9559 Las Tunas Dr.	Temple City	聲光影視	PHOTO_FINISHING
+善美彩色沖印	WEST FOTO	750 N. Hill Ave. #P	Los Angeles	聲光影視	PHOTO_FINISHING

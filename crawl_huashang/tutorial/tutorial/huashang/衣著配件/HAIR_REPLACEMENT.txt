@@ -1,0 +1,8 @@
+　	APOLLO HAIR LOSS CENTER	535 Forestdale Ave. #102	Glendora	衣著配件	HAIR_REPLACEMENT
+假髮訂做中心	DREAM TOUCH HAIR REPLACEMENT	3727 W. 6th St. #600	Los Angeles	衣著配件	HAIR_REPLACEMENT
+	HAIR ART INC.	8112 W. 3rd St.	Los Angeles	衣著配件	HAIR_REPLACEMENT
+韓國HI-MO假髮中心	HI-MO	220 W. Valley Bl. #101	San Gabriel	衣著配件	HAIR_REPLACEMENT
+韓國HI-MO假髮中心	HI-MO	2710 Alton Parkway. #107	Irvine	衣著配件	HAIR_REPLACEMENT
+韓國HI-MO假髮中心	HI-MO	3928 Wilshire Bl. 1st Fl.	Los Angeles	衣著配件	HAIR_REPLACEMENT
+約瑟夫男女假髮	JOSEPH'S HAIR CENTER	151 W. Garvey Ave.	Monterey Park	衣著配件	HAIR_REPLACEMENT
+	TERRY'S WIGS	915 W. Las Tunas Dr	San Gabriel	衣著配件	HAIR_REPLACEMENT

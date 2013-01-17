@@ -1,0 +1,50 @@
+佳益鐵工廠		3233 Durfee Ave.	El Monte	家居住屋	IRON_WORKS
+樺葉鐵工廠		633 Norwood Pl.	San Gabriel	家居住屋	IRON_WORKS
+精美鐵工廠	ELITE IRON SPECIALIST	2119 Seaman Ave.	S. El Monte	家居住屋	IRON_WORKS
+	MASTER IRON WORKS	2239 Durfee Ave.	El Monte	家居住屋	IRON_WORKS
+月鋒鐵工廠	S & S IRON WORKS	1814 W. 144th St.	Gardena	家居住屋	IRON_WORKS
+樂家樂鐵工廠	TIANS METAL WORK	5012 Walnut Grove Bl.	San Gabriel	家居住屋	IRON_WORKS
+貴君鐵工廠	WONDERFUL IRONWORK INC.	16050 Kaplan Ave	City of Industry	家居住屋	IRON_WORKS
+永發鐵工廠			San Gabriel	家居住屋	IRON_WORKS
+齊記鐵工廠-齊先生				家居住屋	IRON_WORKS
+大漢鐵工工程	A.H. IRON WORKS	1105 W. San Gabriel Bl.	San Gabriel	家居住屋	IRON_WORKS
+龍騰鐵工廠	AAA IRON WORKER	2630 Durfee Ave.	S. El Monte	家居住屋	IRON_WORKS
+焊接材料供應	AMWEST	14836 E. Valley Bl. #A	City of Industry	家居住屋	IRON_WORKS
+鐵捲門製作總匯	BEST ROLL-UP DOOR INC.	13202 Arctic Cir.	Santa Fe Springs	家居住屋	IRON_WORKS
+	C.J. WELDING & IRON WORKS	5554 Holenes Ave.	Los Angeles	家居住屋	IRON_WORKS
+	CENTRAL SECURITY MFG.	1626 Long Beach Ave.	Los Angeles	家居住屋	IRON_WORKS
+大同鐵工廠	CENTURY IRON CRAFT	1489 Virginia Ave.	Baldwin Park	家居住屋	IRON_WORKS
+選擇鐵工	CHOICE ROLL UP DOOR	1206 Cranbrook Pl.	Fullerton	家居住屋	IRON_WORKS
+	CHUNG NONG STEEL	8616 Mettler St.	Los Angeles	家居住屋	IRON_WORKS
+可信鐵工廠	CLEAN IRON	1818 W. 144th	Gardena	家居住屋	IRON_WORKS
+可信鐵工廠	CLEAN IRON	1810 S. Van Ness Ave.	Los Angeles	家居住屋	IRON_WORKS
+	COMPLETE WELDING & CUTTING SUPPLY	401 N. Long Beach Bl.	Compton	家居住屋	IRON_WORKS
+廉美鐵閘公司	DISCOUNT IRON FENCE GATE INC.	16319-1/2 Piuma Ave.	Cerritos	家居住屋	IRON_WORKS
+伯爵鐵工	DOWER STEEL CO.	707 E. Greenleaf Bl.	Compton	家居住屋	IRON_WORKS
+黑手焊接鐵工廠	E.B. DYER & SON WELDING	9214 Klingerman St.	S. El Monte	家居住屋	IRON_WORKS
+吳昇弼鐵工	ELITE IRON DOORS INC.	3250 Union Pacific Ave.	Los Angeles	家居住屋	IRON_WORKS
+金屬加工廠	FAB CENTER INC.	1415 W. 135th St.	Gardena	家居住屋	IRON_WORKS
+金屬加工廠	FAB CENTER INC.	2662 Lee Ave.	S. El Monte	家居住屋	IRON_WORKS
+電動鐵門搖控器安裝	GATE OPENER	14024 Rockway Dr.	Baldwin Park	家居住屋	IRON_WORKS
+金門鐵工廠	GOLDEN GATE IRON WORKS INC.	5513 Malabar St.	Los Angeles	家居住屋	IRON_WORKS
+天鵝車庫門、鐵門	GREY GOOSE OVERHEAD GARAGE DOOR & GATE	12400 Ventura Bl. #118	Studio City	家居住屋	IRON_WORKS
+合興鐵閘廠	H & H ORNAMENTAL IRON	2623 Medford St. #E	Los Angeles	家居住屋	IRON_WORKS
+海堡鐵工廠	HAI BAO METAL CO .	4934 Walnut Grove Ave. #109	San Gabriel	家居住屋	IRON_WORKS
+弘發鐵工廠	HONG FA DOOR SERVICE	2128 N. Merced Ave.	S. El Monte	家居住屋	IRON_WORKS
+鐵甲武士焊接鐵工	IMPERIAL IRON WORKS INC.	9710 Factorial Way	S. El Monte	家居住屋	IRON_WORKS
+卓越鐵藝	J W IRON WORKS	1941 Central Ave.	S. El Monte	家居住屋	IRON_WORKS
+	JBK FENCING	9930 Goss Rd.	Victorville	家居住屋	IRON_WORKS
+	K.S. WELDING	10151 Garden Grove Bl.	Garden Grove	家居住屋	IRON_WORKS
+金生洙鐵工廠	KIM'S IRON WORKS	2331 E. Orangethorpe Ave.	Fullerton	家居住屋	IRON_WORKS
+榮記鐵工廠	LKW IRON WORK	14847 Proctor Ave. #C	City of Industry	家居住屋	IRON_WORKS
+龍運鐵工廠	LONG YUN IRON ENTERPRISE	351 S. Irwindale Ave.	Azusa	家居住屋	IRON_WORKS
+鐵架焊接鋼鐵供應商	M & K METAL CO	14108 S. Western Ave.	Gardena	家居住屋	IRON_WORKS
+余文鐵工焊接廠	MAN YUE WROUGHT IRON	2115 Edward Ave.	S. El Monte	家居住屋	IRON_WORKS
+鄭炳天鐵閘公司	N.Y. IRON WORKS	210 W. Slauson Ave.	Los Angeles	家居住屋	IRON_WORKS
+昌生鐵工廠	P&O WELDING	2662 Lee Ave.	S. El Monte	家居住屋	IRON_WORKS
+頂好鐵工廠	QUALITY ROLL-UP DOOR & FENCE MANUFACTURER	1024 W. Base Line	San Bernardino	家居住屋	IRON_WORKS
+雅瑪波鐵工建築工程	RASH YAMBO DECKING	4224 Perlita Ave.	Los Angeles	家居住屋	IRON_WORKS
+	ROBERT'S IRON WORKS	801 N. Loren Ave.	Azusa	家居住屋	IRON_WORKS
+	S.K. WELDING & IRON WORKS	5723 Alba St.	Los Angeles	家居住屋	IRON_WORKS
+保固焊接鐵工鋼樑	SAFEWAY STEEL	5040 Alhambra Ave.	Los Angeles	家居住屋	IRON_WORKS
+輝煌鐵工廠	SKY LITE IRON WORK	10780 Weaver Ave.	S. El Monte	家居住屋	IRON_WORKS

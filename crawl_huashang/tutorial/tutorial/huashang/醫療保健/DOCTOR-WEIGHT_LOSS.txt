@@ -1,0 +1,4 @@
+DNC醫學減肥診所	DNC MEDICAL WEIGHT LOSS	3859 N. Rosemead Bl.	Rosemead	醫療保健	DOCTOR-WEIGHT_LOSS
+醫學美容減肥中心	SKIN PERFECT & SLENDER CHOICE MEDICAL	1569 S. Fairway Dr. #226	Walnut	醫療保健	DOCTOR-WEIGHT_LOSS
+容天佑醫師	YUNG TIN Y. M.D.	1788 S. San Gabriel Bl. #201	San Gabriel	醫療保健	DOCTOR-WEIGHT_LOSS
+容天佑醫師	YUNG TIN Y. M.D.	1722 Desire Ave. #202	Rowland Hts.	醫療保健	DOCTOR-WEIGHT_LOSS

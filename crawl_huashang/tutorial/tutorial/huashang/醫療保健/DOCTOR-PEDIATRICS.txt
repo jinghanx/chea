@@ -1,0 +1,50 @@
+極光醫療中心	AURORA MEDICAL CENTER INC.	11245 Lower Azusa Rd. #A	El Monte	醫療保健	DOCTOR-PEDIATRICS
+林安妮、林慶仁小兒科診所	ANNIE LIM & KHENG LIM M.DS.	9209 S. Colima Rd. #4200	Whittier	醫療保健	DOCTOR-PEDIATRICS
+陳王綺芬醫師	CHAN EVA M.D.	19745 E. Colima Rd. #11	Rowland Hts.	醫療保健	DOCTOR-PEDIATRICS
+陳正光醫師	CHARLES C.CHEN M.D.	210 N. Garfield Ave. #306	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+陳弘毅醫師	CHEN HUNG-I. M.D. F.A.A.P.	1125 E. 17th St. #354	Santa Ana	醫療保健	DOCTOR-PEDIATRICS
+奇諾醫療集團-小兒科醫療中心	CHINO MEDICAL GROUP INC. - PEDIATRIC MEDICAL CENTER	5475 Walnut Ave.	Chino	醫療保健	DOCTOR-PEDIATRICS
+蘇王禮華美國小兒科專家醫師	CHINO PEDIATRICS MEDICAL CLINIC	12584 Central Ave.	Chino	醫療保健	DOCTOR-PEDIATRICS
+莊麗蓮醫師	CHUANG  LILIAN.S M.D.	120 W. Beverly Bl.	Montebello	醫療保健	DOCTOR-PEDIATRICS
+莊麗蓮醫師	CHUANG S. LILIAN M.D.	600 N. Garfield Ave. #108	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+古陳秀貞醫師	GU JANE S. M.D.	1850 S. Azusa Ave. #205	Hacienda Hts.	醫療保健	DOCTOR-PEDIATRICS
+洪文祥醫師	HONG WEN S. M.D.	18403 Pioneer Bl. #207	Artesia	醫療保健	DOCTOR-PEDIATRICS
+謝秉宏醫師-綜合健保專業醫師	HSIEH PAUL P. M.D.	13522 Newport Ave. #102	Tustin	醫療保健	DOCTOR-PEDIATRICS
+許以芬醫師	HSU EMILY M.D.	1045 Atlantic Ave. #605	Long Beach	醫療保健	DOCTOR-PEDIATRICS
+徐添盛小兒專科醫師	HSU TIEN-SHENG M.D. F.A.A.P.	980 E. Foothill Bl. #101	Upland	醫療保健	DOCTOR-PEDIATRICS
+黃錦志醫師	HUANG CHING CHIH DAVID M.D.	756 N. Euclid St.	Ontario	醫療保健	DOCTOR-PEDIATRICS
+黃錦志醫師	HUANG CHING CHIH DAVID M.D.	160 E. Artesia Ave. #235	Pomona	醫療保健	DOCTOR-PEDIATRICS
+黃哲明醫學博士	HUANG HELEN C. M.D.	1850 S. Azusa Ave. #209	Hacienda Hts.	醫療保健	DOCTOR-PEDIATRICS
+黃宇元醫師	HUANG KENNETH YU-YEN M.D.	301 W. Huntington Dr. #519	Arcadia	醫療保健	DOCTOR-PEDIATRICS
+黃立四醫師	HUANG LIH-SYH M.D.	612 W. Duarte Rd. #203	Arcadia	醫療保健	DOCTOR-PEDIATRICS
+兒童保健教育醫療中心	HUNTINGTON MEDICAL FOUNDATION - ARCADIA PEDIATRIC	301 W. Huntington Dr. #320	Arcadia	醫療保健	DOCTOR-PEDIATRICS
+詹文峰醫師	JAN WEN FENG M.D.	1920 E. Katella Ave. #P	Orange	醫療保健	DOCTOR-PEDIATRICS
+郭祝和醫師	KEH CHOCK-HO M.D. F.A.A.P.	14785 Jeffrey Rd. #212	Irvine	醫療保健	DOCTOR-PEDIATRICS
+	KONG ARTHUR M.D.	1048 S. Garfield Ave. #100	Alhambra	醫療保健	DOCTOR-PEDIATRICS
+江碧英醫學博士	KONG-THEIN LORNA M.D. F.A.A	207 S. Santa Anita St. #330	San Gabriel	醫療保健	DOCTOR-PEDIATRICS
+邱墨玲醫師	KOO L. ERLINDA M.D.	223 N. Garfield Ave. #201	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+郭正隆醫師	KUO L. CHENG M.D.	1533 W. Lomita Bl.	Harbor City	醫療保健	DOCTOR-PEDIATRICS
+賴仁慈醫師	LAI LAWRENCE R. M.D.	131 W. Willow St.	Pomona	醫療保健	DOCTOR-PEDIATRICS
+林鼎新醫師	LAM DING S. M.D.	600 N. Garfield Ave. #101	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+梁永賢醫學博士	LEONG CHRIS M.D.	612 W. Duarte Rd. #603	Arcadia	醫療保健	DOCTOR-PEDIATRICS
+李世敏醫師	LI SHERMAN S. M.D. M.P.H.	3859 N. Rosemead Bl.	Rosemead	醫療保健	DOCTOR-PEDIATRICS
+林朱維琳醫師	LIM ROSIE CHU M.D.	1850 S. Azusa Ave. #300	Hacienda Hts.	醫療保健	DOCTOR-PEDIATRICS
+林仁川醫師	LIN BERWYN J.C. M.D.	600 N. Garfield Ave. #203	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+林良牧醫師	LIN LIANG MU M.D.	17906 S. Pioneer Bl. #101	Artesia	醫療保健	DOCTOR-PEDIATRICS
+林欣郎醫師	LIN THOMAS M.D.	315 N. 3rd Ave. #202	Covina	醫療保健	DOCTOR-PEDIATRICS
+盧俊哲醫師	LU JOSEPH T.C. M.D.	500 N. Garfield Ave. #202	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+盧俊哲醫師	LU JOSEPH T.C. M.D.	500 N. Garfield Ave. #202	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+孟繁露醫學博士	MENG SHERRY F. M.D.	18391 E. Colima Rd. #210	Rowland Hts.	醫療保健	DOCTOR-PEDIATRICS
+吳仕偉醫師	NG RAY SZE-WAI M.D.	500 N. Garfield Ave. #109	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+阮翠山醫師	NGUYEN SAN T. M.D. F.A.A.P.	1021 S. Garfield Ave	Alhambra	醫療保健	DOCTOR-PEDIATRICS
+	NGUYEN TAN VAN M.D. F.A.A.P	9646 E. Garvey Ave. #101	S. El Monte	醫療保健	DOCTOR-PEDIATRICS
+潘陳雪卿醫師	PAN JENNY M.D.	1045 Atlantic Ave.#605	Long Beach	醫療保健	DOCTOR-PEDIATRICS
+彭福春醫師	PENG FRANK F. M.D.	18251 Roscoe Bl.#104	Northridge	醫療保健	DOCTOR-PEDIATRICS
+藍德寬醫師	RUN FRANCISCO D.K. M.D.	1730 S. San Gabriel Bl. #B	San Gabriel	醫療保健	DOCTOR-PEDIATRICS
+石玲君醫師	SHIH JENNIFER M.D. F.A.A.P.	4124 N. Rosemead Bl. #A	Rosemead	醫療保健	DOCTOR-PEDIATRICS
+林詩騰小兒科診所	THOMAS LIN M.D. EAAP	790 S. Atlantic Bl. #102	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+蔡宗達醫師	TSAI WILLIAM D.O.	4950 San Bernardino St. #218	Montclair	醫療保健	DOCTOR-PEDIATRICS
+王葦醫師	WANG DAVID M.D.	210 N. Garfield Ave. #300	Monterey Park	醫療保健	DOCTOR-PEDIATRICS
+王肇俊醫師	WANG JAW J. M.D.	101 E. Beverly Bl. #207	Montebello	醫療保健	DOCTOR-PEDIATRICS
+	WANG YANG CHENG M.D.	11360 Mountain View Ave. #B	Loma Linda	醫療保健	DOCTOR-PEDIATRICS
+王志軍醫師	WANG ZHI JUN M.D.	4950 Barranca Pkwy. #210	Irvine	醫療保健	DOCTOR-PEDIATRICS

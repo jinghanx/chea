@@ -1,0 +1,25 @@
+周福敏醫師	CHOW JOSEPH F. M.D.	1501 Superior Ave. #211	Newport Beach	醫療保健	DOCTOR-GENERAL_SURGERY
+周福敏醫師	CHOW JOSEPH F. M.D.	17822 Beach Bl. #468	Huntington Beach	醫療保健	DOCTOR-GENERAL_SURGERY
+極光醫療中心	AURORA MEDICAL CENTER INC.	11245 Lower Azusa Rd. #A	El Monte	醫療保健	DOCTOR-GENERAL_SURGERY
+白世識醫師	BACH THUC T. M.D.	960 E. Green St. #201	Pasadena	醫療保健	DOCTOR-GENERAL_SURGERY
+鮑約瑟醫學博士-手外科專家	BAO JOSEPH Y. M.D.	3183 Airway Ave. #104	Costa Mesa	醫療保健	DOCTOR-GENERAL_SURGERY
+鮑約瑟醫學博士-手外科專家	BAO JOSEPH Y. M.D.	13132 Studebaker Rd. #7A	Norwalk	醫療保健	DOCTOR-GENERAL_SURGERY
+陳正雄醫師	CHEN ZHENG HSIUNG M.D.	223 N. Garfield Ave. #200	Monterey Park	醫療保健	DOCTOR-GENERAL_SURGERY
+邱智正醫師	CHIU THOMAS C.T. M.D. F.A.C	500 N. Garfield Ave. #311	Monterey Park	醫療保健	DOCTOR-GENERAL_SURGERY
+鍾國權醫師	CHUNG SAMUEL K.K. M.D.	2409 N. Broadway	Los Angeles	醫療保健	DOCTOR-GENERAL_SURGERY
+	DOCTOR SURGERY CENTER	10900 Warner Ave. #121	Fountain Valley	醫療保健	DOCTOR-GENERAL_SURGERY
+馮啟熙外科醫師	FUNG FREDERICK K. M.D. F.A.C.S.	711 W. College St. #300	Los Angeles	醫療保健	DOCTOR-GENERAL_SURGERY
+河邊郡外科中心	HEALTH SOUTH GLENWOOD	8945 Magnolia Ave. #200	Riverside	醫療保健	DOCTOR-GENERAL_SURGERY
+黃明男醫師	HUANG MING N. M.D. INC.	430 S. Garfield Ave. #428	Alhambra	醫療保健	DOCTOR-GENERAL_SURGERY
+柯勳廷醫師	KER SHIUN TIM M.D. F.A.C.S.	600 N. Garfield Ave. #306	Monterey Park	醫療保健	DOCTOR-GENERAL_SURGERY
+	MITSUOKA MEDICAL CLINIC	200 S. San Pedro St. #302	Los Angeles	醫療保健	DOCTOR-GENERAL_SURGERY
+毛金餘醫師	MO MATTHEW K. M.D.	2140 W. Valley Bl.	Alhambra	醫療保健	DOCTOR-GENERAL_SURGERY
+歐鴻仁醫師	OU HONZEN M.D. F.A.C.S.	13768 Roswell Ave. #218	Chino	醫療保健	DOCTOR-GENERAL_SURGERY
+信安醫院外科中心	PACIFIC AMBULATORY SURGERY CENTER	707 S. Garfield Ave. #101	Alhambra	醫療保健	DOCTOR-GENERAL_SURGERY
+潘魁民醫師	PAN KWEI-MIN (PETER) M.D. M.S.F.A.C.A. F.A.C.S.	2621 S. Bristol St. #208	Santa Ana	醫療保健	DOCTOR-GENERAL_SURGERY
+	PHAM CO M.D. - BOLSA MEDICAL	10362 Bolsa Ave. #110	Westminster	醫療保健	DOCTOR-GENERAL_SURGERY
+血管外科專家許展賀醫師	SHEU LUKE J.H. M.D.	1780 E. Florida Ave.	Hemet	醫療保健	DOCTOR-GENERAL_SURGERY
+先進外科及乳癌中心-沈達朗醫師	SIM KENNETH T. M.D. F.A.C.S	17170 E. Colima Rd. #D	Hacienda Hts.	醫療保健	DOCTOR-GENERAL_SURGERY
+先進外科及乳癌中心-沈達朗醫師	SIM KENNETH T. M.D. F.A.C.S	333 S. Garfield. #F-G	Alhambra	醫療保健	DOCTOR-GENERAL_SURGERY
+手外科及顯微外科中心	THE INSTITUTE FOR HAND & MICROSURGERY	902 N. Grand Ave. #204	Santa Ana	醫療保健	DOCTOR-GENERAL_SURGERY
+王義宏外科醫學博士	WANG DAVID. M.D.	420 W. Rowland St.	Covina	醫療保健	DOCTOR-GENERAL_SURGERY

@@ -1,0 +1,50 @@
+焦點眼科眼鏡	FOCUS VISION	230 N. Garfield Ave. #D6	Monterey Park	醫療保健	DOCTOR-OPTOMETRY
+焦點眼科眼鏡	FOCUS VISION	2115 S. Hacienda Bl.	Hacienda Hts.	醫療保健	DOCTOR-OPTOMETRY
+爾灣眼科	GOLDEN VISION OPTOMETRY	15333 Culver Dr. #690	Irvine	醫療保健	DOCTOR-OPTOMETRY
+尊王眼鏡鐘錶公司	KINGDOM OPTICAL & WATCH CO.	8150 E. Garvey Ave. #103B	Rosemead	醫療保健	DOCTOR-OPTOMETRY
+慧思眼科眼鏡-司徒劉慧思醫師	CLEARVUE OPTOMETERY-SZETO JENNIFER O.D.	937 E. Las Tunas Dr. #A	San Gabriel	醫療保健	DOCTOR-OPTOMETRY
+聖谷眼科	DR. JEAN HSU OPTOMETRY	220 W. Valley Bl. #202	San Gabriel	醫療保健	DOCTOR-OPTOMETRY
+時代眼鏡	SPECTRUM OPTOMETRY	5414 Walnut Ave. #B	Irvine	醫療保健	DOCTOR-OPTOMETRY
+時代眼鏡	SPECTRUM OPTOMETRY	2710 Alton Parkway. #107	Irvine	醫療保健	DOCTOR-OPTOMETRY
+1234 眼科-胡超眼科視學博士	1234 EYECARE CLINIC & OPTOMOMETRIC CENTER - DR. PAUL T. WOO OPTOMETRY	1234 S. Garfield Ave. #105	Alhambra	醫療保健	DOCTOR-OPTOMETRY
+20/20 眼科中心	20/20 EYECARE CENTER	2530 Bryan Ave. #D	Tustin	醫療保健	DOCTOR-OPTOMETRY
+	ADVANCED EYECARE OPTOMETRIC CENTER	22 Odyssey #150	Irvine	醫療保健	DOCTOR-OPTOMETRY
+上格眼科	AMERICAN I -CARE OPTOMETRY	19768 E. Colima Rd.	Rowland Hts.	醫療保健	DOCTOR-OPTOMETRY
+王家文眼科視學博士	ARGO OPTOMETRY - DR. NANCY WANG O.D.	300 N. Euclid Ave. #A	Upland	醫療保健	DOCTOR-OPTOMETRY
+王家文眼科視學博士	ARGO OPTOMETRY - DR. NANCY WANG O.D.	11525 E. South St.	Cerritos	醫療保健	DOCTOR-OPTOMETRY
+明視眼科 / 雷射矯正諮詢中心	BARRANCA OPTOMETRY-DR. RAYMOND HUANG	1409 S. Monterey St.	Alhambra	醫療保健	DOCTOR-OPTOMETRY
+明視眼科 / 雷射矯正諮詢中心	BARRANCA OPTOMETRY-DR. RAYMOND HUANG	4250 Barranca Pkwy. #J	Irvine	醫療保健	DOCTOR-OPTOMETRY
+	BOOTH LOWELL J. O.D.	1102 Irvine Bl.	Tustin	醫療保健	DOCTOR-OPTOMETRY
+陳芳菲、張柏倫眼科視學醫師	CALIFORNIA VISION CENTER - DR. JAMES CHEUNG‧DR. JANA CHEN	4143 Riverside Dr. #C	Chino	醫療保健	DOCTOR-OPTOMETRY
+陳芳菲、張柏倫眼科視學醫師	CALIFORNIA VISION CENTER - DR. JAMES CHEUNG‧DR. JANA CHEN	4141 S. Nogales St. #A	W. Covina	醫療保健	DOCTOR-OPTOMETRY
+國泰眼科視學服務中心	CATHAY VISION	2211 S. Atlantic Bl.	Monterey Park	醫療保健	DOCTOR-OPTOMETRY
+陳照光眼科視學醫師	CHAN C.K. O.D. INC.	2707 E. Valley Bl. #101	W. Covina	醫療保健	DOCTOR-OPTOMETRY
+陳照光眼科視學醫師	CHAN C.K. O.D. INC.	537 S. Atlantic Bl.	Monterey Park	醫療保健	DOCTOR-OPTOMETRY
+趙海燕眼科視學博士	CHAO KAREN H. O.D.	121 S. Del Mar Ave. #A	San Gabriel	醫療保健	DOCTOR-OPTOMETRY
+鄭自剴眼科醫師	CHENG DENNIS O.D.	2707 E. Valley Bl. #117	W. Covina	醫療保健	DOCTOR-OPTOMETRY
+高登眼科視學中心-吳慧珊醫師	CHINATOWN VISION CARE - SUSAN CON O.D. - SUSANA CON O.D.	406 Ord St.	Los Angeles	醫療保健	DOCTOR-OPTOMETRY
+朱天純醫師	CHU AMY T. O.D. OPTOMETRIST	21851 S. Avalon Bl.	Carson	醫療保健	DOCTOR-OPTOMETRY
+趙梅眼科視學博士	CLEAR EYE CARE OPTOMETRY	10990 Lower Azusa Rd. #11	El Monte	醫療保健	DOCTOR-OPTOMETRY
+兒童及家庭眼科視學	DR. DEREK TONG O.D.	5546 Rosemead Bl. #207	Temple City	醫療保健	DOCTOR-OPTOMETRY
+施儀杰眼科視學醫師-羅蘭崗診所	DR. JAY SHIH OPTOMETRIST	1758-A Sierra Leone Ave.	Rowland Hts.	醫療保健	DOCTOR-OPTOMETRY
+JULIA 黃眼科視學博士	DR. JULIA HUANG O.D	790 S. Atlantic Bl. #105	Monterey Park	醫療保健	DOCTOR-OPTOMETRY
+朱允琪眼科視學博士	DR. KATIE CHU WEISZ O.D.	3106 N. San Gabriel Bl. #H	Rosemead	醫療保健	DOCTOR-OPTOMETRY
+呂重誼眼科視學博士	EAGLE GLEN OPTOMETRY	3833 Bedford Canyon Rd. #C-10	Corona	醫療保健	DOCTOR-OPTOMETRY
+	EL MONTE OPTOMETRY	2821 Peck Rd. #D	El Monte	醫療保健	DOCTOR-OPTOMETRY
+吳北焯眼科視學博士	ENG ROBERT O.D.	4921 Eagle Rock Bl.	Los Angeles	醫療保健	DOCTOR-OPTOMETRY
+光景眼科視學中心 - 吳易玲醫師	ENVISION OPTOMETRIC EYECARE INC. - DR. MICHELLE WU O.D.	655 W. Duarte Rd. #B	Arcadia	醫療保健	DOCTOR-OPTOMETRY
+明廊眼鏡 - 司徒巧蓮醫師	ENVUE OPTOMETRY - LYNN SZETO O.D.	248 W. Foothill Bl.	Monrovia	醫療保健	DOCTOR-OPTOMETRY
+士林眼科眼鏡	EYE CARE OPTOMETRY	417 S. San Gabriel Blvd. #B	San Gabriel	醫療保健	DOCTOR-OPTOMETRY
+南加州視力矯正手術中心-金尚洙醫師	EYE CONTACT OPTOMETRY - DR.STANTON KIM O.D.F.O.A.A.	4706 Barranca Patkway	Irvine	醫療保健	DOCTOR-OPTOMETRY
+宏恩眼科、眼鏡-徐文生醫師	FASHION OPTICAL - VINCENT HSU O.D.S.	1220 S. Golden W. Ave. #B&C	Arcadia	醫療保健	DOCTOR-OPTOMETRY
+高登眼科鐳射近視手術中心	GOLDEN SAN GABRIEL LASER CENTER	1015 S. Nogales St. #109A	Rowland Hts.	醫療保健	DOCTOR-OPTOMETRY
+高登眼科鐳射近視手術中心	GOLDEN SAN GABRIEL LASER CENTER	140 W. Valley Bl. #115	San Gabriel	醫療保健	DOCTOR-OPTOMETRY
+	GROVE JENNIFER O.D.	1155 S. Diamond Bar Bl. #J	Diamond Bar	醫療保健	DOCTOR-OPTOMETRY
+	ITALEE OPTOMETRIC CENTER	978 S. Vermont Ave.	Los Angeles	醫療保健	DOCTOR-OPTOMETRY
+金喬安眼科驗光中心	JOANNE KIM OPTOMETRIC GROUP I	18337 E. Colima Rd.	Rowland Hts.	醫療保健	DOCTOR-OPTOMETRY
+朱錦超眼科視學博士	JU JOHN T. O.D.	616 N. Garfield Ave. #100	Monterey Park	醫療保健	DOCTOR-OPTOMETRY
+簡俊驥眼科視學博士	KAN CURTIS O.D.	556 Las Tunas Dr. #105	Arcadia	醫療保健	DOCTOR-OPTOMETRY
+張偉志視學醫師	LA PUENTE OPTOMETRY	1641 N. Hacienda Bl.	La Puente	醫療保健	DOCTOR-OPTOMETRY
+賴煦仁眼科視學醫師	LAI STEVEN O.D.	18214 E. Gale Ave.	City of Industry	醫療保健	DOCTOR-OPTOMETRY
+賴煦仁眼科視學醫師	LAI STEVEN O.D.	9241 E. Las Tunas Dr.	Temple City	醫療保健	DOCTOR-OPTOMETRY
+賴煦仁眼科視學醫師	LAI STEVEN O.D.	419 N. Atlantic Bl. #104-105	Monterey Park	醫療保健	DOCTOR-OPTOMETRY

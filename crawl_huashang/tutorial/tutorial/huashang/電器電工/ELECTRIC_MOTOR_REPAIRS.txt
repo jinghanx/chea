@@ -1,0 +1,4 @@
+馬達專家	DAVID ELECTRIC SERVICE	2755 Willard Ave.	Rosemead	電器電工	ELECTRIC_MOTOR_REPAIRS
+	DURO POWER INC.	677 Arrow Grand Cir.	Covina	電器電工	ELECTRIC_MOTOR_REPAIRS
+豐球水泵集團公司	F & Q PUMPS INC	10617 E. Rush St.	S. El Monte	電器電工	ELECTRIC_MOTOR_REPAIRS
+萬達抽水馬達及自動控制系統	MULTI W SYSTEMS INC.	2615 Strozier Ave.	El Monte	電器電工	ELECTRIC_MOTOR_REPAIRS

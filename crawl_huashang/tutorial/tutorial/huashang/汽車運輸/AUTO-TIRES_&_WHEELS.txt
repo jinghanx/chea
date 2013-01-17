@@ -1,0 +1,47 @@
+中美車行	FIRESTONE OF ROWLAND HEIGHTS	18213 Colima Rd. #10	Rowland Hts.	汽車運輸	AUTO-TIRES_&_WHEELS
+世界汽車輪胎有限公司	WHEEL HOUSE TIRE	8630 E. Garvey Ave.	Rosemead	汽車運輸	AUTO-TIRES_&_WHEELS
+	"""Y"" TIRE SALES"	350 N. Citrus Ave.	Azusa	汽車運輸	AUTO-TIRES_&_WHEELS
+	"""Y"" TIRE SALES"	2969 W. Valley Bl.	Alhambra	汽車運輸	AUTO-TIRES_&_WHEELS
+A&A特價輪胎、汽車修護中心	A  A TIRE & AUTO REPAIR	2307 E. Colorado Bl.	Pasadena	汽車運輸	AUTO-TIRES_&_WHEELS
+佳運汽車修護中心	ALHAMBRA TIRES & AUTO SERVICE	700 S. Atlantic Bl.	Alhambra	汽車運輸	AUTO-TIRES_&_WHEELS
+	ALLEN TIRE CO.	20761 Lake Forest Dr.	Lake Forest	汽車運輸	AUTO-TIRES_&_WHEELS
+美國輪胎公司	AMERICAN TIRE DEPOT	310 N. Tustin Ave.	Orange	汽車運輸	AUTO-TIRES_&_WHEELS
+美國輪胎公司	AMERICAN TIRE DEPOT	1070 N. Azusa Ave.	Covina	汽車運輸	AUTO-TIRES_&_WHEELS
+阿凱迪亞輪胎	ARCADIA TIRES	15 E. Duarte Rd.	Arcadia	汽車運輸	AUTO-TIRES_&_WHEELS
+	AUTO BAHN TIRE & AUTOMOTIVE	2155 E. Colorado Bl. #4-5	Pasadena	汽車運輸	AUTO-TIRES_&_WHEELS
+	B & D AUTO CENTER INC.	1942 N. Lake Ave.	Altadena	汽車運輸	AUTO-TIRES_&_WHEELS
+汽車修護中心、輪胎	CAR-TECH COMPLETE AUTO CARE CE	4519 Baldwin Ave. #C	El Monte	汽車運輸	AUTO-TIRES_&_WHEELS
+	CUSTOM RIMS & TIRES	2417 N. San Gabriel Bl.	Rosemead	汽車運輸	AUTO-TIRES_&_WHEELS
+	DISCOUNT TIRES	10707 Valley Mall St.	El Monte	汽車運輸	AUTO-TIRES_&_WHEELS
+	ECONO TIRE	8555 Katella Ave.	Stanton	汽車運輸	AUTO-TIRES_&_WHEELS
+汽車排氣管、輪胎、車身修理、消音器專修廠	EL MONTE MUFFLER AUTO CENTER - TIRES‧SOMG CHECKS & BODY SHOP	9716 E. Garvey Ave.	S. El Monte	汽車運輸	AUTO-TIRES_&_WHEELS
+火石汽車快修及輪胎中心	FIRESTONE FAST LUBE	27622 Camino Capistrano	Laguna Niguel	汽車運輸	AUTO-TIRES_&_WHEELS
+	GLORY TIRE & AUTO CENTER	1205 E. Holt Ave.	Pomona	汽車運輸	AUTO-TIRES_&_WHEELS
+	GOLDEN OIL TRUCK SUPPLY & TIRE	6501 Clara St.	Bell Gardens	汽車運輸	AUTO-TIRES_&_WHEELS
+蘭格汽車輪胎及修護中心	GRAND PRIX TIRE & AUTOMOTIVE CENTER	656 Monterey Pass Rd.	Monterey Park	汽車運輸	AUTO-TIRES_&_WHEELS
+正新輪胎公司	GREENBALL CORP	2525 El Presidio St.	Long Beach	汽車運輸	AUTO-TIRES_&_WHEELS
+捷士輪胎	JUST TIRES	15610 E. Valley Bl.	City of Industry	汽車運輸	AUTO-TIRES_&_WHEELS
+捷士輪胎	JUST TIRES	600 W. Valley Bl.	Alhambra	汽車運輸	AUTO-TIRES_&_WHEELS
+捷士輪胎	JUST TIRES	1925 S. Atlantic Bl.	Monterey Park	汽車運輸	AUTO-TIRES_&_WHEELS
+捷士輪胎	JUST TIRES	400 S. Baldwin Ave.	Arcadia	汽車運輸	AUTO-TIRES_&_WHEELS
+	KEN'S TIRE	3304 W. Beverly Bl.	Montebello	汽車運輸	AUTO-TIRES_&_WHEELS
+	KEN'S TIRE	1014 S. Greenwood Ave.	Montebello	汽車運輸	AUTO-TIRES_&_WHEELS
+	LOPEZ TIRES INC.	1860 N. Hacienda Bl.	La Puente	汽車運輸	AUTO-TIRES_&_WHEELS
+	LOS ANGELES TRUCK TIRES & SERVICES	9537 Garvey Ave.	S. El Monte	汽車運輸	AUTO-TIRES_&_WHEELS
+	MOUNTAIN VIEW TIRE & SERVICES	8577 Haven Ave. #202	Rancho Cucamonga	汽車運輸	AUTO-TIRES_&_WHEELS
+	MOUNTAIN VIEW TIRE & SERVICES	8140 Masi Dr.	Rancho Cucamonga	汽車運輸	AUTO-TIRES_&_WHEELS
+	OZAR BROTHERS TIRE CO.	2311 Lincoln Bl.	Santa Monica	汽車運輸	AUTO-TIRES_&_WHEELS
+	PARK'S TIRE MART INC.	1632 W. Venice Bl.	Los Angeles	汽車運輸	AUTO-TIRES_&_WHEELS
+	PEREZ WHEELS & TIRES	14250 Valley Bl.	La Puente	汽車運輸	AUTO-TIRES_&_WHEELS
+	PERFORMANCE PLUS	22707 Hawthorne Bl.	Torrance	汽車運輸	AUTO-TIRES_&_WHEELS
+	S.W.R. MOTORSPORTS	313 S. Raymond Ave.	Alhambra	汽車運輸	AUTO-TIRES_&_WHEELS
+	SAVAS TIRES & WHEELS	5080 E. Gage Ave.	Bell	汽車運輸	AUTO-TIRES_&_WHEELS
+	SEVEN DIAS TIRE CO.	1305 S. Western Ave.	Los Angeles	汽車運輸	AUTO-TIRES_&_WHEELS
+	SPEEDWURK MOTORSPORT	1400 S. Mountain Ave. #CDG	Duarte	汽車運輸	AUTO-TIRES_&_WHEELS
+新成功汽車板金輪胎修理廠	SUCCESS AUTO TECH	3128 N. San Gabriel Bl.	Rosemead	汽車運輸	AUTO-TIRES_&_WHEELS
+興隆輪胎	TIRE CENTRAL INC.	5132 Walnut Grove Ave.	San Gabriel	汽車運輸	AUTO-TIRES_&_WHEELS
+	TIRE PROS	2020 W. Foothill Bl.	Upland	汽車運輸	AUTO-TIRES_&_WHEELS
+	VELOCITY WHEEL	283 E. Garvey Ave.	Monterey Park	汽車運輸	AUTO-TIRES_&_WHEELS
+東方聯合輪胎公司	VITESS TIRE INC.	1416 W. Sunset Bl.	Los Angeles	汽車運輸	AUTO-TIRES_&_WHEELS
+鮑伯輪胎	WEST COAST TIRE & BRAKE	2239 Pontius Ave.	W. Los Angeles	汽車運輸	AUTO-TIRES_&_WHEELS
+西方車輪公司	WESTERN UNION TIRE CO	625 W. Valley Bl.	Alhambra	汽車運輸	AUTO-TIRES_&_WHEELS

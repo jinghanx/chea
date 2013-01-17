@@ -1,0 +1,8 @@
+	247 YELLOW CAB CO.	2192 N. Batavia St.	Oran65	汽車運輸	TAXICABS
+	A.A.A. YELLOW CAB	3000 Date St.	Riverside	汽車運輸	TAXICABS
+奇克出租汽車	CHECKER CAB CO. INC.	14943 Calisa St.	Van Nuys	汽車運輸	TAXICABS
+洛杉磯機場計程車	L.A. EXPRESS AIRPORT SHUTTLE	531 Van Ness Ave.	Torrance	汽車運輸	TAXICABS
+藍天使計程車服務	LIMO CAB CO.			汽車運輸	TAXICABS
+	PRO DALGUJI LIMO TOUR SERVICE	2221 W. 161st St.	Torrance	汽車運輸	TAXICABS
+貝爾計程車公司	SAN GABRIEL TRANSIT INC.	3650 Rock Well Ave.	El Monte	汽車運輸	TAXICABS
+計程車服務	YELLOW CAB CO.		El Monte	汽車運輸	TAXICABS

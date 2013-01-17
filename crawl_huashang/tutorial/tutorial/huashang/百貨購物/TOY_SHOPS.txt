@@ -1,0 +1,13 @@
+	ABC TOYS	630 S. San Pedro St.	Los Angeles	百貨購物	TOY_SHOPS
+	BABY TOYTOWN INC.	8926 E. Valley Bl. #B	Rosemead	百貨購物	TOY_SHOPS
+勝邁電子公司(飛機模型)	CERMARK RADIO CONTROLLED MODEL AIRPLANES	9830 Bell Ranch Dr. #101	Santa Fe Springs	百貨購物	TOY_SHOPS
+	ECHO BASE TOYS	9612 Las Tunas Dr.	Temple City	百貨購物	TOY_SHOPS
+教育材料及玩具供應站	EDUCATIVE TOYS & SUPPLIES	6416 Van Nuys Blvd.	Van Nuys	百貨購物	TOY_SHOPS
+	FRANK & SON COLLECTIBLE SHOW	19649 E. San Jose Ave.	City of Industry	百貨購物	TOY_SHOPS
+	GALAXY. TOYS INC.	241 E. 4th St.	Los Angeles	百貨購物	TOY_SHOPS
+通用玩具	GENERAL TOYS	3389 E. 50th St.	Vernon	百貨購物	TOY_SHOPS
+金娃娃玩具工廠	GOLDEN DOLL(USA) INC.	339 Winston St.	Los Angeles	百貨購物	TOY_SHOPS
+天下模型玩具店	LEGENDS TOYS & HOBBIES	17421 E. Gale Ave. #B	City of Industry	百貨購物	TOY_SHOPS
+太平洋航空模型	PACIFIC AEROMODEL	12368 Valley Bl. #109	El Monte	百貨購物	TOY_SHOPS
+PLAY-WELL 遊樂場地設備	PLAY-WELL EQUIPMENT CO.	655 S. Raymond Ave.	Pasadena	百貨購物	TOY_SHOPS
+	QQ TOYS INC.	339 Wall St. #E	Los Angeles	百貨購物	TOY_SHOPS

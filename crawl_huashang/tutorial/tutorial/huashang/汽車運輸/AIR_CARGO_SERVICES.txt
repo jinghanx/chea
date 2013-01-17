@@ -1,0 +1,39 @@
+中華航空公司(貨運中心)	CHINA AIRLINES	11201 Aviation Bl.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+中國南方航空公司貨運進出口	CHINA SOUTHERN AIRLINES CARGO	5721 W. Imperial Hwy.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+飛洋貨運	ETAR LINES	1230 Santa Anita Ave. #E	S. El Monte	汽車運輸	AIR_CARGO_SERVICES
+華飛貨運	RAPID FREIGHT INC.	1300 Valley Vista Dr. #202	Diamond Bar	汽車運輸	AIR_CARGO_SERVICES
+愛馬克國際代理運輸有限公司	AIR MARKET EXPRESS LTD.	8840 Bellanca Ave.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+邦聯國際海空運輸	AIR SEA TRANSPORT INC.	731 S. Garfield Ave. 2nd Fl.	Alhambra	汽車運輸	AIR_CARGO_SERVICES
+全運報關海空運公司	ALL FREIGHT INT'L INC.	1960 E. Grand Ave.#100	El Segundo	汽車運輸	AIR_CARGO_SERVICES
+峻峰空運、海運	ALPINE EXPRESS	748 S. Glasgow Ave.	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+亞大運通有限公司	AME EXPRESS INC.	801 W. Hyde Park Bl.	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+美國國際運輸公司	AMERICAN EXPORT LINES	13500 S. Figueroa St.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+韓亞航空(貨運服務)	ASIANA AIRLINES CARGO	5758 W. Century Bl.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+	A-SONIC LOGISTICS INC.	18521 S. Broadway St.	Gardena	汽車運輸	AIR_CARGO_SERVICES
+躍馬海空運、報關公司	BRIGHTEN FREIGHT INC.	8933 S. La Cienega Bl.	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+中國貨運航空有限公司	CHINA CARGO AIRLINES LTD.	5758 W. Century Bl.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+中國東方航空公司(貨運中心)	CHINA CARGO EASTERN AIRLINES	5758 W. Century Bl.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+捷達航空貨運集團	DART EXPRESS GROUP	510 Franklin Ave. #200	Carden	汽車運輸	AIR_CARGO_SERVICES
+	DELTA MAX	10834 S. La Cienega Bl.	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+捷聯國際運輸公司	DYNALINK SYSTEMS INC.	11222 La Cienega Bl. #588	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+美國東方國際貨運公司	E.T.I. INT'L INC.	9150 Norwalk Bl	Santa Fe Springs	汽車運輸	AIR_CARGO_SERVICES
+統領海空聯運公司	EA-LAND INT'L	11222 La Cienega Bl. #160	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+長榮航空公司(貨運中心)	EVA AIRWAYS	6851 W. Imperial Hwy.	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+環球捷運	EXPRESS GLOBAL FREIGHT INC.	20311 Valley Bl.#B	Walnut	汽車運輸	AIR_CARGO_SERVICES
+	FILIPINO CARGO EXPRESS	2528 W. Lincoln Ave.	Anaheim	汽車運輸	AIR_CARGO_SERVICES
+神通海空運輸公司	G.O.D. EXPRESS	119 S. Atlantic Bl. #218	Monterey Park	汽車運輸	AIR_CARGO_SERVICES
+可多空運海運公司	GENERAL AIR FREIGHT CONSOLIDATE	13025 Cerise Ave.	Hawthorne	汽車運輸	AIR_CARGO_SERVICES
+東方報關行	INTER-ORIENT SERVICES	1455 Monterey Pass Rd. #205	Monterey Park	汽車運輸	AIR_CARGO_SERVICES
+宏運國際海空運公司	LUCKY FREIGHT INC	411 S. Garfield Ave.#6C	Monterey Park	汽車運輸	AIR_CARGO_SERVICES
+	MAIN FREIGHT	1400 Glenn Curtiss St.	Carson	汽車運輸	AIR_CARGO_SERVICES
+	MERCURY AIR CARGO	6040 Avion Dr. #200	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+新洋海空運輸有限公司	NEWPORT AIR FORWARDER OCEAN CONSOLIDATOR	5250 W. Century Bl. #602	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+	NYK LOGISTICS INC.	2417 E. Carson St. #200	Long Beach	汽車運輸	AIR_CARGO_SERVICES
+環美航空及船務貨運公司	TRANS-AM AIR & SEA FREIGHT (LAX) INC.	116-118 W. Hazel St.	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+翔通隆運(股份)有限公司	TRANS-ORIENT EXPRESS INC.	11120 Hindry Ave. #B	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+盛達海空貨運公司	TRUST EXPRESS LAX	8915 S. La Cienega Bl. #A	Inglewood	汽車運輸	AIR_CARGO_SERVICES
+全球海空運進出口貨物	U.S. SHIPPING INC.	2121 W. Mission Rd. #307	Alhambra	汽車運輸	AIR_CARGO_SERVICES
+	UNICARGO EXPRESS INC.	5353 W. Imperial Hwy. #850	Los Angeles	汽車運輸	AIR_CARGO_SERVICES
+優勵通	UNID OCEAN TRANSPORT INC.	9660 Flair Dr. #498	El Monte	汽車運輸	AIR_CARGO_SERVICES
+美亞報關海空運公司	UNIPAC SHIPPING INC.	1400 Montefino Ave. #200	Diamond Bar	汽車運輸	AIR_CARGO_SERVICES
+美亞報關海空運公司	UNIPAC SHIPPING INC.	9470 S. La Cienega Bl.	Inglewood	汽車運輸	AIR_CARGO_SERVICES

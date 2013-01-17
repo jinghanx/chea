@@ -1,0 +1,15 @@
+十字繡	CROSS STITCH	807 Los Divos Dr.	San Gabriel	百貨購物	CRAFT_ART_SHOP
+華夏根藝奇石中心	FANTASTIC STONE CENTER	222 E. 5th St.	Ontario	百貨購物	CRAFT_ART_SHOP
+中國情	CHINA AFFECTION	954 Mei Ling Way	Los Angeles	百貨購物	CRAFT_ART_SHOP
+美國中藝公司	CHINESE ARTS & CRAFTS	2923 Supply Ave.	Commerce	百貨購物	CRAFT_ART_SHOP
+	CRAFT DEPOT	10940 Valley Mall St.	El Monte	百貨購物	CRAFT_ART_SHOP
+	CRAFT DEPOT	401 E. 7th St.	Los Angeles	百貨購物	CRAFT_ART_SHOP
+	CRAFT DEPOT - MAYWOOD CRAFT	6147 Atlantic Bl.	Maywood	百貨購物	CRAFT_ART_SHOP
+	EMPIRE FLORAL & CRAFT INC.	415 S. San Pedro St.	Los Angeles	百貨購物	CRAFT_ART_SHOP
+	FONG'S ASIAN ART ANTIQUES & CURIOS	943 Chung King Rd.	Los Angeles	百貨購物	CRAFT_ART_SHOP
+東方古董、蔡以聲藝廊	I.M. CHAIT GALLERY	9330 Civic Center Dr.	Beverly Hills	百貨購物	CRAFT_ART_SHOP
+利興公司	LI HING OF HONG KONG INC	1231 N. Broadway	Los Angeles	百貨購物	CRAFT_ART_SHOP
+琉璃工房	LIU LI GONG FANG (U.S.A.) INC	1102 Brea Mall. #A	Brea	百貨購物	CRAFT_ART_SHOP
+劉震亞藝品店	LIU ZHEN YA	2618 E. Main St.	Alhambra	百貨購物	CRAFT_ART_SHOP
+	MIKIE'S CRAFT - RIBBON PRINTING ITALIAN BOXES	46 Alameda St.	Los Angeles	百貨購物	CRAFT_ART_SHOP
+	UNIVERSAL CRAFT	405 S. San Pedro St.	Los Angeles	百貨購物	CRAFT_ART_SHOP

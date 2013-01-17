@@ -1,0 +1,14 @@
+朱有為醫師	CHU DOMINIC Y. M.D.	17170 Colima Rd. #D	Hacienda Hts.	醫療保健	DOCTOR-UROLOGY
+朱有為醫師	CHU DOMINIC Y. M.D.	850 S. Atlantic Bl. #300	Monterey Park	醫療保健	DOCTOR-UROLOGY
+朱明德醫師	CHU FRANKLIN M.D.	489 E. 21th St.	San Bernardino	醫療保健	DOCTOR-UROLOGY
+	HUANG KAPLAN M.D.	14350 E. Whittier Bl. #225	Whittier	醫療保健	DOCTOR-UROLOGY
+高信哲醫師	KAO LUKE S. M.D.	10230 E. Artesia Bl. #105	Bellflower	醫療保健	DOCTOR-UROLOGY
+顧正山醫師	KOO ALEC M.D.	3445 Pacific Coast Hwy. #310	Torrance	醫療保健	DOCTOR-UROLOGY
+林惠洲醫師	LIN HUEY C. M.D. INC.	2621 S. Bristol St. #207	Santa Ana	醫療保健	DOCTOR-UROLOGY
+	Richter M.D.	6360 Wilshire Bl. #205	Los Angeles	醫療保健	DOCTOR-UROLOGY
+蔡長宗醫師	TSAI JEFFREY C. M.D. F.A.C.	1048 S. Garfield Ave. #200	Alhambra	醫療保健	DOCTOR-UROLOGY
+王冠一醫師 - 婦女泌尿科	WANG KUAN-I M.D. F.A.C.O.G.	600 N. Garfield Ave. #309	Monterey Park	醫療保健	DOCTOR-UROLOGY
+王冠一醫師 - 婦女泌尿科	WANG KUAN-I M.D. F.A.C.O.G.	622 W. Duarte Rd. #205	Arcadia	醫療保健	DOCTOR-UROLOGY
+吳弘毅醫師	WU HENRY H. M.D. F.A.C.S.	3801 Katella Ave. #320	Los Alamitos	醫療保健	DOCTOR-UROLOGY
+吳立智醫師	WU LI-CHIH M.D.	600 N. Garfield Ave. #204	Monterey Park	醫療保健	DOCTOR-UROLOGY
+葉志明醫師	YIP FELIX C. M.D.	711 W. College St. #590	Los Angeles	醫療保健	DOCTOR-UROLOGY

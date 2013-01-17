@@ -1,0 +1,39 @@
+	MYSTIC KOI & WATER GARDENS	1250 W. Arrow Hwy.	Upland	家居住屋	AQUARIUM_&_SUPPLIES
+家庭水族館	HOUSE AQUARIUM	18414 E. Colima Rd.#P	Rowland Hts	家居住屋	AQUARIUM_&_SUPPLIES
+家庭水族館	HOUSE AQUARIUM	1457 Nogales.#A	Rowland Hts.	家居住屋	AQUARIUM_&_SUPPLIES
+專業魚池		217 E. Forest Ave.	Arcadia	家居住屋	AQUARIUM_&_SUPPLIES
+光華水族及庭院批發、零售	168 CK AQUARIUM	431 S. San Gabriel Bl.	San Gabriel	家居住屋	AQUARIUM_&_SUPPLIES
+魚缸專業製造工廠	ACC CO.	14270 E. Valley Bl. #D	La Puente	家居住屋	AQUARIUM_&_SUPPLIES
+安樂國際錦鯉	ANDREW'S KOI INT'L	1650 S. Brookhurst St.	Anaheim	家居住屋	AQUARIUM_&_SUPPLIES
+震威水族、漁池專家	ANGEL AQUARIUM & POND	1457 S. Nogales St. #B	Rowland Hts.	家居住屋	AQUARIUM_&_SUPPLIES
+	AQUANAUTIC SPECIALIST	3730 W. Century Bl. #6	Inglewood	家居住屋	AQUARIUM_&_SUPPLIES
+	ASAHI FANCY KOI	1051 W. 190th St.	Gardena	家居住屋	AQUARIUM_&_SUPPLIES
+海洋水族館	ATLANTIC AQUARIUM	1419 S. 9th St.	Alhambra	家居住屋	AQUARIUM_&_SUPPLIES
+海洋熱帶水族館	ATLANTIC TROPICAL AQUARIUM	18343 Pioneer Bl.	Artesia	家居住屋	AQUARIUM_&_SUPPLIES
+熱帶魚中心	BOONE TROPICAL FISH & BIRDS	234 S. Atlantic Bl.	Los Angeles	家居住屋	AQUARIUM_&_SUPPLIES
+	C.K. FISH WORLD	410 N. Azusa Ave.	W. Covina	家居住屋	AQUARIUM_&_SUPPLIES
+卡森熱帶魚店	CARSON TROPICAL FISH	21600 Norwalk Bl.	Hawaiian Gardens	家居住屋	AQUARIUM_&_SUPPLIES
+	CASTLE KOI PONDS	1250 W. Arrow Hwy.	Upland	家居住屋	AQUARIUM_&_SUPPLIES
+嘉禾水族館	D & L AQUARIUM & PET	571 N. Azusa Ave.	Covina	家居住屋	AQUARIUM_&_SUPPLIES
+東方錦鯉	EASTERN NISHIKIGOI	14700 Goldenwest St.	Westminster	家居住屋	AQUARIUM_&_SUPPLIES
+金碧水族用品零售批發總匯	FISH MAX	8712 Garvey Ave.	Rosemead	家居住屋	AQUARIUM_&_SUPPLIES
+洪利水族館	GARVEY FISH	8062 E. Garvey Ave.	Rosemead	家居住屋	AQUARIUM_&_SUPPLIES
+金錦園	GOLD KOI GARDEN	262 S. San Gabriel Bl.	San Gabriel	家居住屋	AQUARIUM_&_SUPPLIES
+珍珍水族館寵物專賣店	HIGHLANDER PET CENTER	419 W. Foothill Bl.	Monrovia	家居住屋	AQUARIUM_&_SUPPLIES
+華英魚缸批發公司	HUA YING USA	14263 Proctor Ave. #B	City of Industry	家居住屋	AQUARIUM_&_SUPPLIES
+傑錦鯉魚池	JAY'S LANDSCAPING	1415 Joan Dr.	Hacienda Hts.	家居住屋	AQUARIUM_&_SUPPLIES
+佳寶魚缸公司	JEBO AQUARIUM	601 Monterey Pass Rd.	Monterey Park	家居住屋	AQUARIUM_&_SUPPLIES
+帝王水族館	KING PET SHOP	9961 Valley Bl.	El Monte	家居住屋	AQUARIUM_&_SUPPLIES
+松鶴水族公司	KOKAHO AQUARIUM CO.	1913 Merced Ave.	S. El Monte	家居住屋	AQUARIUM_&_SUPPLIES
+	LAGUNA KOI PONDS	20452 Laguna Canyon Rd.	Laguna Beach	家居住屋	AQUARIUM_&_SUPPLIES
+利是水族館	LEE'S AQUARIUM	319 E. Garvey Ave.	Monterey Park	家居住屋	AQUARIUM_&_SUPPLIES
+	LIBERTY FISH & PET SHOP	665 N. Broadway	Los Angeles	家居住屋	AQUARIUM_&_SUPPLIES
+蒙羅維亞水族館	MONROVIA TROPICAL FISH	603 W. Huntington Dr.	Monrovia	家居住屋	AQUARIUM_&_SUPPLIES
+新潮水族館	NEW WAVE TROPICAL FISH	1960 N. Tustin Ave.	Orange	家居住屋	AQUARIUM_&_SUPPLIES
+美好魚缸設計	OK MARINE COOLING SYSTEM INC.	10647 Olive St.	Temple City	家居住屋	AQUARIUM_&_SUPPLIES
+柔似蜜水族館	ROSEMEAD AQUARIUM	9123 E. Valley Bl.	Rosemead	家居住屋	AQUARIUM_&_SUPPLIES
+水城寵物中心	SUNSET PET SUPPLIES	1373 W. Sunset Bl.	Los Angeles	家居住屋	AQUARIUM_&_SUPPLIES
+	SUPER PETS	9403 Las Tunas Dr.	Temple City	家居住屋	AQUARIUM_&_SUPPLIES
+	THE AQUARIUM	5403 Sepulveda Bl.	Culver City	家居住屋	AQUARIUM_&_SUPPLIES
+大發水族館	TOTAL FISH & PETS	137 E. Valley Bl.	Alhambra	家居住屋	AQUARIUM_&_SUPPLIES
+	WATERSCAPE DESIGNS	1088 W. 9th St.	Upland	家居住屋	AQUARIUM_&_SUPPLIES

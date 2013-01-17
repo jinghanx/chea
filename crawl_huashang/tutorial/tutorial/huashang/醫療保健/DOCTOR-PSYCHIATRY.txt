@@ -1,0 +1,4 @@
+鍾武伍醫師	DESMOND B.CHIONG M.D.	1455 San Marino Ave. #A	San Marino	醫療保健	DOCTOR-PSYCHIATRY
+黃曠仁醫師	HUANG KUANG J. M.D.	850 S. Atlantic Bl. #304	Monterey Park	醫療保健	DOCTOR-PSYCHIATRY
+劉奇川醫師	LAU K.C. PSYCHIATRIST M.D.	9928 Flower St. #203	Bellflower	醫療保健	DOCTOR-PSYCHIATRY
+李榮基醫師	LEE WING-KI M.D.	723 S. Garfield Ave. #303	Alhambra	醫療保健	DOCTOR-PSYCHIATRY

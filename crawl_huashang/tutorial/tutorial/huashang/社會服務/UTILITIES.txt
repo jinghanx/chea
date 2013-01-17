@@ -1,0 +1,4 @@
+洛杉磯市衛生局(垃圾處理)	CITY OF L.A. THE BUREAU S. SOLID RESOUR.	419 S. Springs St.	Los Angeles	社會服務	UTILITIES
+洛杉磯自來水公司	L.A. DEPARTMENT OF WATER & POWER	111 N. Hope St.	Los Angeles	社會服務	UTILITIES
+愛迪生電力公司(華語專線)	SOUTHERN CALIFORNIA EDISON CO.	P.O. Box 600	Rosemead	社會服務	UTILITIES
+南加州瓦斯公司(華語專線)	SOUTHERN CALIFORNIA GAS CO.	P.O. Box.C	Monterey Park	社會服務	UTILITIES

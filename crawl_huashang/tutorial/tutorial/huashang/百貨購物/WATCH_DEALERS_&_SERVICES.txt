@@ -1,0 +1,16 @@
+尊王眼鏡鐘錶公司	KINGDOM OPTICAL & WATCH CO.	8150 E. Garvey Ave. #103B	Rosemead	百貨購物	WATCH_DEALERS_&_SERVICES
+昌興珠寶鐘錶金行 - 苗必達店	CHONG HING JEWELERS	390 Barber Lane.	Milpitas	百貨購物	WATCH_DEALERS_&_SERVICES
+昌興珠寶鐘錶金行 - 羅蘭崗店	CHONG HING JEWELERS	18436 Colima Rd. #A	Rowland Hts.	百貨購物	WATCH_DEALERS_&_SERVICES
+昌興珠寶鐘錶金行 - 聖蓋博店	CHONG HING JEWELERS	140 W. Valley Bl. #119	San Gabriel	百貨購物	WATCH_DEALERS_&_SERVICES
+昌興珠寶鐘錶金行 -洛杉磯中國城	CHONG HING JEWELERS	956 N. Hill St.	Los Angeles	百貨購物	WATCH_DEALERS_&_SERVICES
+瑞士鐘錶珠寶眼鏡公司	SWISS WATCH & JEWELERS & OPTICAL	1101 W. Valley Bl. #105-106	Alhambra	百貨購物	WATCH_DEALERS_&_SERVICES
+	DALBY'S WATCHES	290 W. Las Tunas Dr.	San Gabriel	百貨購物	WATCH_DEALERS_&_SERVICES
+李興華翡翠金城	HING WA LEE JEWELERS INC.	140 W. Valley Bl. #111	San Gabriel	百貨購物	WATCH_DEALERS_&_SERVICES
+李興華翡翠金城	HING WA LEE JEWELERS INC.	1569 S. Fairway Dr. #128	Walnut	百貨購物	WATCH_DEALERS_&_SERVICES
+李興華帕沙迪那市分店	HING WA LEE JEWELERS INC.	1130 S. Baldwin Ave. #6	Arcadia	百貨購物	WATCH_DEALERS_&_SERVICES
+世界鐘錶批發、零售、精修	INT'L TIME PIECE	17596 Colima Rd. #D-5	Rowland Hts.	百貨購物	WATCH_DEALERS_&_SERVICES
+羅省手錶、禮品	L.A. WATCHES	1220 S. Golden West Ave.	Arcadia	百貨購物	WATCH_DEALERS_&_SERVICES
+羅省手錶、禮品	L.A. WATCHES	18457 E. Colima Rd.	Rowland Hts.	百貨購物	WATCH_DEALERS_&_SERVICES
+LINS 專業鐘錶修理'	LIN'S WATCH REPAIR	2635  W. Valley Bl.	Alhambra	百貨購物	WATCH_DEALERS_&_SERVICES
+經典錶行	PARAGON WATCH CO. INC.	8500 Beverly Bl.	Los Angeles	百貨購物	WATCH_DEALERS_&_SERVICES
+佳比珠寶鐘錶修理行	STATE JEWELERS	700 Fair Oaks Ave. #C	S. Pasadena	百貨購物	WATCH_DEALERS_&_SERVICES

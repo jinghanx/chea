@@ -1,0 +1,19 @@
+	24 HOURS FITNESS	1600 S. Azusa Ave.	City of Industry	醫療保健	HEALTH_CLUBS
+城市鄉村俱樂部	ALTADENA TOWN & COUNTRY CLUB	2290 Country Club Dr.	Altadena	醫療保健	HEALTH_CLUBS
+亞凱迪亞羽毛球俱樂部	ARCADIA BADMINTON CLUB	12336 Lower Azusa Rd.	Arcadia	醫療保健	HEALTH_CLUBS
+亞凱迪亞健身中心	ARCADIA FITNESS SPORTS CLUB	56 E. Duarte Rd.	Arcadia	醫療保健	HEALTH_CLUBS
+	BALLY TOTAL FITNESS	3508 Rosemead Bl.	Rosemead	醫療保健	HEALTH_CLUBS
+舞韻女士健身俱樂部	CHEERS BODY & MIND	24309 N. Narbonne Ave. #100	Lomita	醫療保健	HEALTH_CLUBS
+鑽石休閑桑拿中心	DIAMOND FAMILY SPA	1140 Coiner Ct.	Rowland Hts.	醫療保健	HEALTH_CLUBS
+樂宮桌球會	EMBASSY BILLIARDS CLUB	220 S. San Gabriel Bl.	San Gabriel	醫療保健	HEALTH_CLUBS
+美國長春康復健身中心	EVERGREEN HEALTH CENTER	2218 San Gabriel Bl. #A	Rosemead	醫療保健	HEALTH_CLUBS
+	K.L.G. SPORTS CENTER	2933 W. Pico Bl.	Los Angeles	醫療保健	HEALTH_CLUBS
+洛杉磯羽毛球館	L.A. BADMINTON CLUB	10410 E. Valley Bl.	El Monte	醫療保健	HEALTH_CLUBS
+	LA FITNESS	416 S. Atlantic Bl.	Monterey Park	醫療保健	HEALTH_CLUBS
+橙縣羽毛球俱樂部	ORANGE COUNTY BADMINTON CLUB	1432 N. Main St.	Orange	醫療保健	HEALTH_CLUBS
+	PRO FITNESS NETWORK	183 E. Glenarm St. #101107108	Pasadena	醫療保健	HEALTH_CLUBS
+	RUSTY MILLER TENNIS ACADEMY	405 S. Santa Anita Ave.	Arcadia	醫療保健	HEALTH_CLUBS
+聖蓋博羽毛球、乒乓球俱樂部	SAN GABRIEL VALLEY BADMINTON CLUB	9255  Telstar Ave.	El Monte	醫療保健	HEALTH_CLUBS
+	UFC GYM	8920 Glendon Way	Rosemead	醫療保健	HEALTH_CLUBS
+香榭健身中心	WILSHIRE HEALTH CLUB	3440 Wilshire Bl.	Los Angeles	醫療保健	HEALTH_CLUBS
+女人世界健身中心	WOMEN'S WORLD FITNESS CENTER	2000 Huntington Dr.	San Marino	醫療保健	HEALTH_CLUBS

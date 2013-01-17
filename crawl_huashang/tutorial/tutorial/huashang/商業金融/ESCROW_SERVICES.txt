@@ -1,0 +1,25 @@
+加州物業交換拍賣行	EPIC DEED SERVICE INC.	315 S. San Gabriel Bl. #C	San Gabriel	商業金融	ESCROW_SERVICES
+金山公證代書公司	AMERICAN TRUST ESCROW INC.	2334 Huntington Dr.	San Marino	商業金融	ESCROW_SERVICES
+阿凱迪亞公證公司	ARCADIA ESCROW SERVICE	140 E. Foothill Bl.	Arcadia	商業金融	ESCROW_SERVICES
+順意橋公證公司	ARCH ESCROW CORP.	317 S. San Gabriel Bl.	San Gabriel	商業金融	ESCROW_SERVICES
+宏祥物業公證行	ATLANTIC ESCROW	2111 Huntington Dr.	San Marino	商業金融	ESCROW_SERVICES
+現代物業交易公證行	CENTRAL ESCROW INC.	1675 Hanover Rd.	City of Industry	商業金融	ESCROW_SERVICES
+現代物業交易公證行	CENTRAL ESCROW INC.	1015 S. Baldwin Ave.	Arcadia	商業金融	ESCROW_SERVICES
+現代物業交易公證行	CENTRAL ESCROW INC.	515 W. Garvey Ave. #118	Monterey Park	商業金融	ESCROW_SERVICES
+現代物業交易公證行	CENTRAL ESCROW INC.	22632 Golden Spring Dr. #300	Diamond Bar	商業金融	ESCROW_SERVICES
+喜瑞都物業交易公證行	CERRITOS ESCROW INC.	11470 South St.	Cerritos	商業金融	ESCROW_SERVICES
+文化物業公証公司	CULTURE ESCROW	2060 Huntington Dr. #9	San Marino	商業金融	ESCROW_SERVICES
+專業公證	EMAX ESCROW INC.	9656 E. Las Tunas Dr.	Temple City	商業金融	ESCROW_SERVICES
+家園產物公證公司	GARDEN ESCROW	9553 Las Tunas Dr.	Temple City	商業金融	ESCROW_SERVICES
+	GLOBAL ESCROW SERVICES INC.	19267 Colima Rd. #L	Rowland Hts.	商業金融	ESCROW_SERVICES
+	JADE ESCROW INC.	19708 E. Colima Rd.	Rowland Hts.	商業金融	ESCROW_SERVICES
+	JADE ESCROW INC.	9604 Las Tunas Dr.	Temple City	商業金融	ESCROW_SERVICES
+	MOY ESCROW INC.	1138 S. Garfield Ave.	Alhambra	商業金融	ESCROW_SERVICES
+	MUTUAL ESCROW	5825 Rosemead Bl.	Temple City	商業金融	ESCROW_SERVICES
+新世紀公證公司-孫菁徽	NEW CENTURY ESCROW - VALERIE SUN	17870 Castleton St. #203	City of Industry	商業金融	ESCROW_SERVICES
+精確物業交易公證所	PRECISE ESCROW	960 E. Las Tunas Dr. #B	San Gabriel	商業金融	ESCROW_SERVICES
+	ROWLAND ESCROW	1725 S. Nogales St. #101	Rowland Hts.	商業金融	ESCROW_SERVICES
+威信產業代書公司	SINCERE ESCROW	929 S. San Gabriel Bl.	San Gabriel	商業金融	ESCROW_SERVICES
+聯合公證公司	UNITED ESCROW CO. INC.	3440 Wilshire Bl. #600	Los Angeles	商業金融	ESCROW_SERVICES
+環球公證公司	UNIVERSAL ESCROW INC.	1025 W. 190th St. #160	Gardena	商業金融	ESCROW_SERVICES
+威望公證公司	VIVA ESCROW INC.	2549 Huntington Dr. #103	San Marino	商業金融	ESCROW_SERVICES

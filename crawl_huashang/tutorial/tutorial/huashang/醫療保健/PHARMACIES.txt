@@ -1,0 +1,50 @@
+慶生藥房	EL MONTE PHARMACY	3948 N. Peck Rd. #5	El Monte	醫療保健	PHARMACIES
+康林藥房	NOGALES PHARMACY	1015 S. Nogales St. #124	Rowland Hts.	醫療保健	PHARMACIES
+永康藥房	A-1 PHARMACY	935 S. Garfield Ave.	Alhambra	醫療保健	PHARMACIES
+為民西藥房	DEL MAR PHARMACY	3109 Del Mar Ave.	Rosemead	醫療保健	PHARMACIES
+康富藥房	GRANDVIEW PHARMACY	13768 Roswell Ave. #111	Chino Hills	醫療保健	PHARMACIES
+再生藥局	A+ PHARMACY	6888 Lincoln Ave. #J	Buena Park	醫療保健	PHARMACIES
+大大藥房	AA PHARMACY	625 W. College St. #101	Los Angeles	醫療保健	PHARMACIES
+	AALPHA PHARMACY	174 S. Alvarado St.	Los Angeles	醫療保健	PHARMACIES
+健康西藥房	ABC PHARMACY	841 W. Valley Bl. #101	Alhambra	醫療保健	PHARMACIES
+仁愛醫院附設藥房	ALHAMBRA HOSPITAL PHARMACY	100 S. Raymond Ave.	Alhambra	醫療保健	PHARMACIES
+康靖藥房	ALHAMBRA PROFESSIONAL PHARMACY	330 S. Garfield Ave. #104	Alhambra	醫療保健	PHARMACIES
+平價藥房	ALPHA MEDICAL PHARMACY	703 W. Valley Bl.	Alhambra	醫療保健	PHARMACIES
+中心藥房	ARCADIA CENTER PHARMACY	631 W. Duarte Rd.	Arcadia	醫療保健	PHARMACIES
+大一藥房	BIG-1 PHARMACY	415 W. Valley Bl. #B	San Gabriel	醫療保健	PHARMACIES
+亞洲城藥房	C.T. PHARMACY	709 N. Hill St. # 23	Los Angeles	醫療保健	PHARMACIES
+中美西藥房	CAL-BEST PHARMACY	1912 W. Whittier Bl.	Montebello	醫療保健	PHARMACIES
+加州藥房	CALIFORNIA PHARMACY	19766 E. Colima Rd.	Rowland Hts.	醫療保健	PHARMACIES
+益群藥房	CATHAY MEDICAL PHARMACY	711 W. College St. #100	Los Angeles	醫療保健	PHARMACIES
+十全藥房	CHENG PHARMACY	600 W. Main St. #101	Alhambra	醫療保健	PHARMACIES
+愛群藥房	COLLEGE PHARMACY	626 W. College St.	Los Angeles	醫療保健	PHARMACIES
+仁愛藥房	COLUMBUS PHARMACY	861 N. Broadway	Los Angeles	醫療保健	PHARMACIES
+社區藥房	COMMUNITY MEDICAL  PHARMACY	315 N. 3rd Ave. #101	Covina	醫療保健	PHARMACIES
+康禾藥房	CONCOURSE RX PHARMACY	18575 E. Gale Ave. #158	City of Industry	醫療保健	PHARMACIES
+皇冠藥房	CROWN PHARMACY	14133 S. Vermont Ave.	Gardena	醫療保健	PHARMACIES
+	DANH'S PHARMACY	9182 Bolsa Ave.	Westminster	醫療保健	PHARMACIES
+選勝西藥房	DDE PHARMACIES	18491 E. Colima Rd.	Rowland Hts.	醫療保健	PHARMACIES
+美健西藥房	DIAMOND SQUARE PHARMACY	8150 Garvey Ave. #107	Rosemead	醫療保健	PHARMACIES
+仁德藥房	E & J PHARMACY	1234 S. Garfield Ave . #102	Alhambra	醫療保健	PHARMACIES
+天佑藥房	EO PHARMACY	31 S. 1st Ave.	Arcadia	醫療保健	PHARMACIES
+嘉康藥業	ESPECIALLY FOR WOMEN	7130 Warden Ave. #406	Markham	醫療保健	PHARMACIES
+伏羲藥業	FOUSHY HEALTH PRODUCTS	1129 E. Las Tunas Dr	San Gabriel	醫療保健	PHARMACIES
+嘉惠爾藥房	GARFIELD MEDICAL SQUARE PHARMACY	500 N. Garfield Ave. #103	Monterey Park	醫療保健	PHARMACIES
+嘉輝西藥房	GARVEY PHARMACY	7837 E. Garvey Ave. #100A	Rosemead	醫療保健	PHARMACIES
+頂好西藥房	GOOD PHARMACY	1428 S. San Gabriel Bl.	San Gabriel	醫療保健	PHARMACIES
+廣安藥房	HACIENDA PHARMACY	3120 S. Hacienda Bl. #105	Hacienda Hts.	醫療保健	PHARMACIES
+民生藥房	HALLIBURTON PROFESSIONAL PHARMACY	15932 Halliburton Rd.	Hacienda Hts.	醫療保健	PHARMACIES
+新華藥房	HEALTH CARE PHARMACY	233 N. Garfield Ave. #101	Monterey Park	醫療保健	PHARMACIES
+安康寧藥房	HEALTHCARE MEDICAL PHARMACY	420 N. Garfield Ave. #101	Monterey Park	醫療保健	PHARMACIES
+康利藥房	HENRY'S PHARMACY	127 N. Garfield Ave. #E	Monterey Park	醫療保健	PHARMACIES
+撒隆巴斯	HISAMITSU AMERICA INC.	3510 Torrance Bl. #301	Torrance	醫療保健	PHARMACIES
+宏仁西藥房	HUNG JEN PHARMACY	140 W. Valley Bl. #105	San Gabriel	醫療保健	PHARMACIES
+康康藥房	KANG KANG PHARMACY MEDICAL SUPPLIES	301 N. Garfield Ave. # J.H	Monterey Park	醫療保健	PHARMACIES
+安仁藥局	KARE PHARMACY	12146 South St. #C	Artesia	醫療保健	PHARMACIES
+僑安西藥房	KIEU AN PHARMACY	600 E. Valley Bl. #G	San Gabriel	醫療保健	PHARMACIES
+金山藥局	KIM-SON PHARMACY	625 E. Valley Bl. #J	San Gabriel	醫療保健	PHARMACIES
+銘恩藥房	KING'S PHARMACY	1834 W. Lincoln Ave. #N	Anaheim	醫療保健	PHARMACIES
+	KOAM PHARMACY	18102 S. Pioneer Bl. #101	Artesia	醫療保健	PHARMACIES
+幸福藥房	LUCKY PHARMACY	416 W. Las Tunas Dr. #100	San Gabriel	醫療保健	PHARMACIES
+民安藥房	MAIN PHARMACY	103 N. Garfield Ave. #D	Alhambra	醫療保健	PHARMACIES
+萬靈藥房	MANNING PHARMACY	1724 Nogales St.	Rowland Hts.	醫療保健	PHARMACIES

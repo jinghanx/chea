@@ -1,0 +1,14 @@
+金康醫療中心	GOLDEN MEDICAL CENTER	9251 Garvey Ave. #F	S. El Monte	醫療保健	DOCTOR-PAIN_MEDICINE
+真善美疼痛中心-趙崇浩醫師	ADVANCED PAIN CENTER	1234 S. Garfield Ave. #205	Alhambra	醫療保健	DOCTOR-PAIN_MEDICINE
+	AMERICAN PAIN INSTITUTE	18102 Irvine Bl. # 208	Tustin	醫療保健	DOCTOR-PAIN_MEDICINE
+	AMERICAN PAIN INSTITUTE	10610 Lower Azusa Rd.	El Monte	醫療保健	DOCTOR-PAIN_MEDICINE
+無痛診所-趙亨基	ANAPA PAIN CLINIC-SHELDON K. CHAO	3545 Wilshire Bl. #109	Los Angeles	醫療保健	DOCTOR-PAIN_MEDICINE
+加聯疼痛復健專科-李芷觀醫學博士	CARING REHAB & PAIN CLINIC - JAUMAAN LEE M.D. M.S. P.T.	223 N. Garfield Ave. #105	Monterey Park	醫療保健	DOCTOR-PAIN_MEDICINE
+工傷治療中心-佘廣武醫師	DR. GUANG WU SHE	1024 S. Garfield Ave.	Alhambra	醫療保健	DOCTOR-PAIN_MEDICINE
+工傷治療中心-佘廣武醫師	DR. GUANG WU SHE	5581 E. Santa Ana Canyon Rd.	Anaheim Hills	醫療保健	DOCTOR-PAIN_MEDICINE
+林心勉醫師	DR. JAMES H. LIN D.C	397 W. Las Tunas Dr.	San Gabriel	醫療保健	DOCTOR-PAIN_MEDICINE
+李鍾傑醫學博士-疼痛復健醫學專科	LEE PETER CHONG K. M.D.	4805 Rosewood Ave.	Los Angeles	醫療保健	DOCTOR-PAIN_MEDICINE
+宋子賢醫師	SOONG TIM M.D.	1850 S. Azusa Ave. #301	Hacienda Hts.	醫療保健	DOCTOR-PAIN_MEDICINE
+痛症、復健診療中心-林修賢醫學博士	TOTALSOLUTION PAIN & REHABILITATION CENTER INC.	1661 Hanover Rd. #227	Rowland Hts.	醫療保健	DOCTOR-PAIN_MEDICINE
+藍宇寰醫學博士	YUHUAN LAN M.D.	723 S. Garfield Ave. #304	Alhambra	醫療保健	DOCTOR-PAIN_MEDICINE
+藍宇寰醫學博士	YUHUAN LAN M.D.	255 S. Hill St. #207	Los Angeles	醫療保健	DOCTOR-PAIN_MEDICINE

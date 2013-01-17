@@ -1,0 +1,2 @@
+卡車和鏟車維修中心	INDUSTRY TRUCK CENTER	800 S. Turnbull Canyon Rd.	City of Industry	汽車運輸	AUTO-TRUCK_TRACTOR_&_TRAILER_REPAIRING
+恆昇維修中心	M.B.A. TECH INC.	5600 Alhambra Ave.	Los Angeles	汽車運輸	AUTO-TRUCK_TRACTOR_&_TRAILER_REPAIRING

@@ -1,0 +1,23 @@
+	ALLAN'S AQUARIUM & PET CENTER	845 Lincoln Bl.	Venice	寵物用品	PET_SHOPS
+	ARMANDOS PETS & GROOMING	2155 E. Huntington Dr.	Duarte	寵物用品	PET_SHOPS
+金絲雀世界	CANARY WORLD BIRD FARM	13250 Rosecrans Ave.	Norwalk	寵物用品	PET_SHOPS
+家庭寵物健康食品專門店	CANTRELL'S FEED BIN	19148 Walnut Dr.	Rowland Hts.	寵物用品	PET_SHOPS
+寵物之家	HOUSE OF PETS - STORE #1	3836 N. Peck Rd.	El Monte	寵物用品	PET_SHOPS
+李氏寵物店	LEE'S PET SHOP	9611 E. Garvey Ave. #101-103	S. El Monte	寵物用品	PET_SHOPS
+	MY PET GARDEN	2245 E. Colorado Bl.	Pasadena	寵物用品	PET_SHOPS
+	OLYMPIC PET SHOP	2925 W. Olympic Bl.	Los Angeles	寵物用品	PET_SHOPS
+	PET AND JUNGLE SHOP	2650 S. Myrtle Ave.#5	Monrovia	寵物用品	PET_SHOPS
+寵物之家	PET EMPORIUM	644 E. Main St.	Alhambra	寵物用品	PET_SHOPS
+寵物之家	PET EMPORIUM	923 N. Hollywood Way	Burbank	寵物用品	PET_SHOPS
+寵物超級市場	PETCO	17585 Colima Rd.	City of Industry	寵物用品	PET_SHOPS
+寵物超級市埸	PETCO	475 Foothill Bl.	La Canada	寵物用品	PET_SHOPS
+寵物超級市埸	PETCO	12601 Towne Center Dr.	Cerritos	寵物用品	PET_SHOPS
+寵物超級市場	PETCO	7265 N. Rosemead Bl.	San Gabriel	寵物用品	PET_SHOPS
+寵物超級市場	PETCO	845 S. Arroyo Pkwy.	Pasadena	寵物用品	PET_SHOPS
+寵物超級市場	PETCO	1050 W. Covina Pkwy.	W. Covina	寵物用品	PET_SHOPS
+寵物之家	PET'S DELIGHT	725 Fair Oaks Ave.	S. Pasadena	寵物用品	PET_SHOPS
+	RAINBOW MEALWORMS INC.	126 E. Spruce St.	Compton	寵物用品	PET_SHOPS
+寵物天地	SHINY PET GROOMING	19142 E. Walnut Dr.	Rowland Hts.	寵物用品	PET_SHOPS
+	SUPER PETS	9403 Las Tunas Dr.	Temple City	寵物用品	PET_SHOPS
+動物王國	THE ANIMAL KINGDOM	6821 Warner Ave.	Huntington Beach	寵物用品	PET_SHOPS
+	WORLD PET & GROOMING	327 N. Western Ave.	Los Angeles	寵物用品	PET_SHOPS

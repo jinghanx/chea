@@ -1,0 +1,4 @@
+圍棋教室		5728 Temple City Bl. #A	Temple City	教育學術	SCHOOL-CHESS
+中國象棋智力開發班		218 W. Garvey Ave. #J	Monterey Park	教育學術	SCHOOL-CHESS
+超越國際象棋學院	BEYOND CHESS INSTITUTE	19119 E. Colima Rd. #204	Rowland Hts.	教育學術	SCHOOL-CHESS
+超越國際象棋學院	BEYOND CHESS INSTITUTE	5570 N. Rosemead Bl. #B	Temple City	教育學術	SCHOOL-CHESS

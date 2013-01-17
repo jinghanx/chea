@@ -1,0 +1,16 @@
+最佳助聽器	HEAREST HEARING AID	3030 W. Olympic Bl.#212	Los Angeles	醫療保健	HEARING_AIDS
+阿罕布拉助聽器中心	ALHAMBRA HEARING AID CENTER	49 S. Garfield Ave.	Alhambra	醫療保健	HEARING_AIDS
+倍耳聰助聽器	BELTONE HEARING AID SERVICE	1020 E. Bastanchury Rd.	Fullerton	醫療保健	HEARING_AIDS
+倍耳聰助聽器	BELTONE HEARING AID SERVICE	1441 W. Beverly Bl.	Montebello	醫療保健	HEARING_AIDS
+倍耳聰助聽器	BELTONE HEARING AID SERVICE	165 E. Rowland St.	Covina	醫療保健	HEARING_AIDS
+專業助聽器中心	BETTER HEARING AID CENTER	960 E. Green St. #L80	Pasadena	醫療保健	HEARING_AIDS
+	FISHER M.D.	612 W. Duarte Rd. #705	Arcadia	醫療保健	HEARING_AIDS
+	HEARING AID & MEDICAL SUPPIY CENTER	933 S. Sunset Ave. #309	W. Covina	醫療保健	HEARING_AIDS
+	LIFESTYLE HEARING CENTER	1965 Foothill Bl. #R	La Verne	醫療保健	HEARING_AIDS
+理想助聽器	LI'S HEARING AID	301 W. Valley Bl. #202	San Gabriel	醫療保健	HEARING_AIDS
+理想助聽器	LI'S HEARING AID	18405 E. Colima Rd. #C	Rowland Hts.	醫療保健	HEARING_AIDS
+	LOVE HEARING SERVICES	11 W. Del Mar Bl. #101	Pasadena	醫療保健	HEARING_AIDS
+國泰助聽器	MP HEARING AID CENTER	302 N. Garfield Ave. #1	Monterey Park	醫療保健	HEARING_AIDS
+	PASADENA AUDIOLOGIC LAB	960 E. Green St.	Pasadena	醫療保健	HEARING_AIDS
+阿凱迪亞聽力中心	SONUS	612 W. Duarte Rd. #601	Arcadia	醫療保健	HEARING_AIDS
+聲納司助聽器	SONUS USA INC.	416 W. Las Tunas Dr. #101	San Gabriel	醫療保健	HEARING_AIDS

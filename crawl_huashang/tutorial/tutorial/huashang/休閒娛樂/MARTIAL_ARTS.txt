@@ -1,0 +1,50 @@
+五家拳功夫學院	FIVE FAMILY KUNG FU ACADEMY	1476 Monterey Pass Rd.	Monterey Park	休閒娛樂	MARTIAL_ARTS
+詠春中華文化中心	WING CHUN CHINESE CULTURAL CENTER INC.	23011 Moulton Pkwy.#A-2	Laguna Hills	休閒娛樂	MARTIAL_ARTS
+冠軍跆拳道	CHAMPION MARTIAL ARTS TAE KWON	1604 S. Fullerton Rd.	Rowland Hts.	休閒娛樂	MARTIAL_ARTS
+詠春拳-鍾師傅		141 N. Atlantic Bl. #109	Monterey Park	休閒娛樂	MARTIAL_ARTS
+飛龍武館		225 Dewey Ave.	San Gabriel	休閒娛樂	MARTIAL_ARTS
+精武堂	Advance Martial Arts Academy	19159 Colima Rd.	Rowland Hts	休閒娛樂	MARTIAL_ARTS
+美國自衛防身大學	AMERICAN KENPO CONCEPTS	8 E. Duarte Rd.	Arcadia	休閒娛樂	MARTIAL_ARTS
+阿凱迪亞空手道	ARCADIA SHOTOKAN KARATE	113 E. Huntington Dr.	Arcadia	休閒娛樂	MARTIAL_ARTS
+海華跆拳道訓練中心	C.K. TAEKWONDO ACADEMY	138 N. Pierre Rd.	Walnut	休閒娛樂	MARTIAL_ARTS
+加州武術學院	CALIFORNIA WUSHU ACADEMY	47900 Warm Springs Bl.	Fremont	休閒娛樂	MARTIAL_ARTS
+洛杉磯陳式太極拳	CHEN STYLE TAIJI QUAN	3061 Valley Blvd.	Alhambra	休閒娛樂	MARTIAL_ARTS
+全美陳式太極拳總會南加州分會	CHEN TAI CHI CENETER	9th Truman	Irvine	休閒娛樂	MARTIAL_ARTS
+誠明武術	CHENG-MING MARTIAL ART	4835 E. Somerton Ave.	Orange	休閒娛樂	MARTIAL_ARTS
+程氏少林功夫館	CHENG'S SHAOLIN KUNG FU SCHOOL	7691 Knott Ave.	Buena Park	休閒娛樂	MARTIAL_ARTS
+中華傳統武術	CHINESE KUNG FU INSTITUTE	38213 S. Lemon Ave.	Walnut	休閒娛樂	MARTIAL_ARTS
+中華傳統武術	CHINESE KUNG FU INSTITUTE	18442 Del Bonita St.	Rowland Hts.	休閒娛樂	MARTIAL_ARTS
+中國傳統武術中心	CHINESE TRADITIONAL MARTIAL ART	3436 S. Flemington Dr.	W. Covina	休閒娛樂	MARTIAL_ARTS
+天龍武術協會	CHINESE WUSHU - TAI JI CHUAN FU		Rowland Hts.	休閒娛樂	MARTIAL_ARTS
+哲真跆拳道合氣道中心	CHUL JIN MARTIAL ARTS	2549 Huntington Dr. #101	San Marino	休閒娛樂	MARTIAL_ARTS
+哲真跆拳道合氣道中心	CHUL JIN MARTIAL ARTS	2549 Huntington Dr. #101	San Marino	休閒娛樂	MARTIAL_ARTS
+哲真跆拳道合氣道中心	CHUL JIN MARTIAL ARTS	7603 Balboa Bl.	Van Nuys	休閒娛樂	MARTIAL_ARTS
+哲真跆拳道合氣道中心	CHUL JIN MARTIAL ARTS	7603 Balboa Bl.	Van Nuys	休閒娛樂	MARTIAL_ARTS
+李川雨跆拳道	CHUN LEE TAE KWON DO	4230 N. Rosemead Bl.	Rosemead	休閒娛樂	MARTIAL_ARTS
+李凱楊式太極拳學院	DAN LEE'S ACADEMY OF TAI CHI CHUAN	585 E. Colorado Bl.	Pasadena	休閒娛樂	MARTIAL_ARTS
+譚道良武術館	DELON TAN MARTIAL ART STUDIO	125-129 N. Chandler Ave.	Monterey Park	休閒娛樂	MARTIAL_ARTS
+譚道良武術館	DELON TAN MARTIAL ARTS STUDIO	125-129 N. Chanlder Ave.	Monterey Park	休閒娛樂	MARTIAL_ARTS
+	EAGLE TAE KWON DO	1031 Rosecrans Ave. #101A	Fullerton	休閒娛樂	MARTIAL_ARTS
+郭杰太極	GUO JIE TAICHI ACADEMY	1485 Virginia Rd.	San Marino	休閒娛樂	MARTIAL_ARTS
+跆拳道一道	IL-DO TAE KWON DO	14220 Culver Dr. #D	Irvine	休閒娛樂	MARTIAL_ARTS
+	JUDO MASTER JANG MARTIAL ARTS	3923 W. Olympic Bl.	Los Angeles	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	1437 W. Arrow Hwy.	San Dimas	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	714  Fair Oaks Ave.	S. Pasadena	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	947 E. Main St.	Alhambra	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	18150 Arrow Bl. #F	Fontana	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	32999 Yucaipa Bl. #109	Yucaipa	休閒娛樂	MARTIAL_ARTS
+韓國武術合氣道	KIM'S HAPKIDO JANG MU WON ASSOC.	947 W. Duarte Rd. #B	Monrovia	休閒娛樂	MARTIAL_ARTS
+美國南少林功夫學院	KUNG FU TAI CHI ACADEMY USA.	3322 Ivar Ave.	Rosemead	休閒娛樂	MARTIAL_ARTS
+空手道功夫學院	KUNTAU MARTIAL ARTS ACADEMY			休閒娛樂	MARTIAL_ARTS
+L.A. 峨嵋天府武術學院	L.A. OMEI T.F. MARTIAL ARTS SCHOOL	5022 N. Muscatel Ave.	San Gabriel	休閒娛樂	MARTIAL_ARTS
+洛杉磯太極醫療健康中心	LA TCM WELLNESS CENTER	201 W. Las Tunas Dr. #B	San Gabriel	休閒娛樂	MARTIAL_ARTS
+流拳道	LAU KUNE DO	110 E. Duarte Rd.	Monrovia	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	14260 Chino Hills Parkway #A	Chino Hills	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	341 S. Diamond Bar Bl.	Diamond Bar	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	901 W. Foothill Bl. #C	Upland	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	18 Rancho Camino Dr. #105	Pomona	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	1826 E. Route 66	Glendora	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	1171 E. Alosta Ave.	Azusa	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	16018 E. Gale Ave.	Hacienda Hts.	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	2357 Foothill Bl.	La Verne	休閒娛樂	MARTIAL_ARTS
+猛龍空手道	LOU CASAMASSA'S RED DRAGON KARATE	552 N. Azusa Ave.	W. Covina	休閒娛樂	MARTIAL_ARTS

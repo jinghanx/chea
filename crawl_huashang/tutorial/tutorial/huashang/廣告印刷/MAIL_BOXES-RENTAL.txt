@@ -1,0 +1,18 @@
+	BEVERLY HILLS U.S. MAIL BOX RE	311 N. Robertson Bl.	Beverly Hills	廣告印刷	MAIL_BOXES-RENTAL
+商業服務中心	CYCLONE SERVICES	23441 Golden Springs Dr.	Diamond Bar	廣告印刷	MAIL_BOXES-RENTAL
+鑽石崗信箱出租	DIAMOND BAR MAIL BOXE RENTAL	516 N. Diamond Bar Bl.	Diamond Bar	廣告印刷	MAIL_BOXES-RENTAL
+	DIMAND MAIL & SHIPPING	1249 S. Diamond Bar Bl.	Diamond Bar	廣告印刷	MAIL_BOXES-RENTAL
+理想郵寄服務中心	IDEAL POSTAL & BUSINESS SERVIC	18760 E. Amar Rd.	Walnut	廣告印刷	MAIL_BOXES-RENTAL
+	MAIL AND MORE	385 S. Lemon Ave. #E	Walnut	廣告印刷	MAIL_BOXES-RENTAL
+MBE 私人信箱郵遞服務	MAIL BOXES ETC. USA	1107 Fair Oaks Ave.	S. Pasadena	廣告印刷	MAIL_BOXES-RENTAL
+	MBE MAIL BOXES ETC.	556 S. Fair Oaks Ave.	Pasadena	廣告印刷	MAIL_BOXES-RENTAL
+蒙市郵政中心	MONTEREY PARK POSTAL CTR.	2168 S. Atlantic Bl.	Monterey Park	廣告印刷	MAIL_BOXES-RENTAL
+泰極郵寄中心	PAI JI POSTAL SERVIC	227 W. Valley Bl. #208	San Gabriel	廣告印刷	MAIL_BOXES-RENTAL
+聖瑪利諾郵政服務中心	SAN MARINO MAIL BOX RENTAL SERVICE	1613 Chelsea Rd.	San Marino	廣告印刷	MAIL_BOXES-RENTAL
+天普郵政服務中心	S'N'S POSTAL CENTER	5917 Oak Ave.	Temple City	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	1012 W. Beverly Bl.	Montebello	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	2275 Huntington Dr.	San Marino	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	560 W. Main St. #C	Alhambra	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	1005 E. Las Tunas Dr.	San Gabriel	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	713 W. Duarte Rd. #G	Arcadia	廣告印刷	MAIL_BOXES-RENTAL
+郵政信箱服務中心	THE UPS STORE	122 E. Foothill Bl. #A	Arcadia	廣告印刷	MAIL_BOXES-RENTAL

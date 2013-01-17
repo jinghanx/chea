@@ -1,0 +1,17 @@
+DAVITA 洗腎中心	DAVITA DIALYSIS CENTER	118 Hilliard Ave.	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+DAVITA 洗腎中心	DAVITA DIALYSIS CENTER	1938 Tyler Ave. #J-168	S. El Monte	醫療保健	DOCTOR-NEPHROLOGY
+哈崗洗腎中心	HACIENDA DIALYSIS CENTER	2020 S. Hacienda Bl. #G	Hacienda Hts.	醫療保健	DOCTOR-NEPHROLOGY
+譚國榮醫師	HOM PHILIP M.D.	201 S. Alvarado St. #406	Los Angeles	醫療保健	DOCTOR-NEPHROLOGY
+許世崇醫師	HSU ANDREW SHIH C. M.D.	600 N. Garfield Ave. #205	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+胡俊哲醫師	HWU JIM-JER M.D.	120 E. Emerson Ave.	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+邱曾妮娜醫師	KHOO NINA CHAN M.D. F.A.C.P.	600 N. Garfield Ave. #106	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+李內科腎臟科	LEE JOSEPH J.C. M.D.	3660 Park Sierra Dr. #208	Riverside	醫療保健	DOCTOR-NEPHROLOGY
+呂昭明醫師	LU CRAIG C. M.D.	1850 S. Azusa Ave. #306	Hacienda Hts.	醫療保健	DOCTOR-NEPHROLOGY
+慕愛洗腎中心	MOHAN DIALYSIS CENTERS	15757 E. Valley Bi.	City of Industry	醫療保健	DOCTOR-NEPHROLOGY
+慕愛洗腎中心	MOHAN DIALYSIS CENTERS	158 W. College St.	Covina	醫療保健	DOCTOR-NEPHROLOGY
+邱曾妮娜醫師-蒙特利市洗腎中心	MONTEREY PARK DIALYSIS CENTER	2560 Corporate Pl. #D 100-102	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+常新洗腎中心	ROSEMEAD DIALYSIS CENTER	7403 Hellman Ave.	Rosemead	醫療保健	DOCTOR-NEPHROLOGY
+石東尼醫師	SAKHRANI LAKHI MINASIAN M.D	333 S. Garfield Ave. #H	Alhambra	醫療保健	DOCTOR-NEPHROLOGY
+孫鈺明醫師	SUN ADAM M. M.D. F.A.C.P.	455 N. Garfield Ave. #201	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
+王進醫師	WANG JIN M.D.	536 E. Foothill Bl.	Upland	醫療保健	DOCTOR-NEPHROLOGY
+王聆醫學博士	WANG LYNN M.D. PH.D.	500 N. Garfield Ave. #102	Monterey Park	醫療保健	DOCTOR-NEPHROLOGY
